@@ -1,4 +1,44 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Bilewater added.
+Cogwork Core added.
+Craw Lake added.
+High Halls added.
+Hunter's March added.
+Pilgrim's Rest added.
+Sands of Karak added.
+The Marrow added.
+Verdanian Temple added.
+Whiteward added.
+
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Weavenest Atla
+
+Wormways
+
+Citadel of Song
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Blasted Steps added.
