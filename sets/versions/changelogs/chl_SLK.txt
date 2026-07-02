@@ -1,4 +1,160 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Blasted Steps added.
+Bone Bottom added.
+Choral Chambers added.
+Deep Docks added.
+Far Fields added.
+Greymoor added.
+Moss Grotto added.
+Putrified Ducts added.
+Underworks added.
+Weavenest Atla added.
+Wormways added.
+Citadel of Song added.
+
+
+Choir Clapper
+rules_text: Vigilance
+When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{W}, Exile this card from your graveyard: Create a tapped Silk token. Activate only as a sorcery. [i](It's an artifact with {1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i] [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Vigilance
+When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{W}, Exile this card from your graveyard: Create a tapped Silk token. Activate only as a sorcery. [i](It's an artifact with {1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i]
+
+Pharlid
+rules_text: When this creature enters, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => When this creature enters, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II, III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II, III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Hardened Legacy
+rules_text: 
+I — Gain control of target noncreature spell. You may choose new targets for it.
+II — Up to one target creature becomes an artifact and loses all other card types.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Flash
+I — Gain control of target noncreature spell. You may choose new targets for it.
+II — Up to one target creature becomes an artifact and loses all other card types.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: 
+I — Gain control of target noncreature spell. You may choose new targets for it.
+II — Up to one target creature becomes an artifact and loses all other card types.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Flash
+I — Gain control of target noncreature spell. You may choose new targets for it.
+II — Up to one target creature becomes an artifact and loses all other card types.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+The Last Pinstress
+rules_text: When The Last Pinstress enters, you may pay {1} up to 3 times. When you pay this cost one or more times, choose up to that many —
+• Put a flying counter on Pinstress.
+• Create a Pin token. [i](It's an Equipment with “Equipped creature gets +2/+0 and Equip {1}.)[/i]
+• Draw a card. Put a stun counter on up to one target tapped creature. => When The Last Pinstress enters, you may pay {1} up to 3 times. When you do, choose up to that many —
+• Put a flying counter on Pinstress.
+• Create a Pin token. [i](It's an Equipment with “Equipped creature gets +2/+0 and Equip {1}.)[/i]
+• Draw a card. Put a stun counter on up to one target tapped creature.
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Barbed Bracelet
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Double all damage equipped creature would deal and take.
+{2}, {T}, Remove a charge counter from this Equipment: Equipped creature gets +1/+0 and gains trample until end of turn.
+Equip—{1}, Pay 3 life. => [i](Tools enter with three charge counters on them.)[/i]
+Double all damage equipped creature would deal and be dealt.
+{2}, {T}, Remove a charge counter from this Equipment: Equipped creature gets +1/+0 and gains trample until end of turn.
+Equip—{1}, Pay 3 life.
+
+Burning Bugs
+rules_text: When this creature enters or attacks, you may sacrifice an artifact or discard a card. If you do, choose one —
+• Draw a card.
+• Create a tapped Treasure token.
+• It deals 1 damage to any target. => When this creature attacks, you may sacrifice an artifact or discard a card. If you do, choose one —
+• Draw a card.
+• Create a tapped Treasure token.
+• It deals 1 damage to any target.
+
+Forge Daughter
+rules_text: Artifact creatures you control get +1/+0 for each charge counter on them.
+{2}, {T}: Put a charge counter on each artifact you control. => Artifact creatures you control get +1/+0.
+{2}, {T}: Put a charge counter on each nontoken artifact you control.
+
+The First Seamstress
+rules_text: When The First Seamstress enters, you may pay {1} up to three times. When you pay this cost one or more times, choose up to that many —
+• Destroy target artifact.
+• Put two +1/+1 counters on up to one other target creature.
+• You may discard an artifact card. If you do, draw two cards. => When The First Seamstress enters, you may pay {1} up to three times. When you do, choose up to that many —
+• Destroy target artifact.
+• Put two +1/+1 counters on up to one other target creature.
+• You may discard an artifact card. If you do, draw two cards.
+
+Horned Pilgrim
+type:  => Creature — Insect Peasant
+
+Cogwork Heart
+rules_text: {T}: Draw a card, then discard a card. You may reveal an artifact card from your hand. If you do, put a charge counter on this artifact.
+{T}, Remove three charge counters from this artifact and sacrifice it: Create Second Sentinel, a legendary 5/5 white and blue Construct artifact creature token with first strike. => {1}, {T}: Draw a card, then discard a card. You may reveal an artifact card from your hand. If you do, put a charge counter on this artifact.
+{2}, {T}: Remove three charge counters from this artifact and sacrifice it: Create Second Sentinel, a legendary 5/5 white and blue Construct artifact creature token with first strike. Activate only as a sorcery.
+
+Great Conchflies
+rules_text: Flying
+When this creature enters, if you cast it, create a token that's a copy of it.
+When this creature dies, put a +1/+1 counter on another target creature. Than creature deals 2 damage to target player. => Flying
+When this creature enters, if you cast it, create a token that's a copy of it.
+When this creature dies, put a +1/+1 counter on another target creature.
+
+Fractured Mask
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Fierce — Equipped creature has indestructible as long as you control a creature with power 5 or greater.
+{1}, {T}, Remove a charge counter from this artifact: Put two +1/+1 counters on target creature you control.
+Equip {3} => [i](Tools enter with three charge counters on them.)[/i]
+Fierce — Whenever equipped creature attacks, it gains indestructible until end of turn if you control a creature with power 5 or creater.
+{1}, {T}, Remove a charge counter from this artifact: Put two +1/+1 counters on target creature you control.
+Equip {3}
+
+Gahlia
+rules_text: {T}: This creature deals 1 damage to target attacking or blocking creature. => When this creature enters, put a +1/+1 counter on up to one other target creature. That creature can't be blocked by creatures with power 1 or less this turn.
+pt: 2/3 => 2/2
+
+Greyroot, Servant of the Rite
+rules_text: When Greyroot enters, target permanent becomes a 1/1 Plant creature and loses all other card types and abilities. It gains “When this creature dies, its controller loses 5 life.” => When Greyroot enters, target permanent becomes a 1/1 Plant creature and loses all other card types and abilities. It gains “When this creature dies, its controller loses 4 life.”
+
+
+type: Artifact => 
+cost: {2}{W} => 
+rules_text: At the beginning of your end step, if a creature entered this turn, create a 1/1 white Insect creature token.
+{2}, {T}: Creature tokens you control gain flying until end of turn. => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
