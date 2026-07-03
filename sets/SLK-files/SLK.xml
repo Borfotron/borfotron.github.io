@@ -313,9 +313,9 @@ this turn.</text>
 		<card>
 			<name>Ancient Heart</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
-I, II — Create two 1/1 green Insect Plant creature tokens.
-III — Each creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
-IV — Exile this Saga, then return it to the battlefield transformed under your control.
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Nyleth, Seed of Shellwood</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/16_front.png" num="3a">SLK</set>
