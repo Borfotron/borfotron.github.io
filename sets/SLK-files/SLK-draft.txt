@@ -1,0 +1,3576 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Flea Caravan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/0.png"
+			}
+		},
+		{
+			"name": "Silken Cradle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/1.png"
+			}
+		},
+		{
+			"name": "Choir Clapper",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/2.png"
+			}
+		},
+		{
+			"name": "Choir Elder",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/3.png"
+			}
+		},
+		{
+			"name": "Choir Hornhead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Performer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/4.png"
+			}
+		},
+		{
+			"name": "Choir Procession",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Soldier Bard",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/5.png"
+			}
+		},
+		{
+			"name": "Clawmaiden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/6.png"
+			}
+		},
+		{
+			"name": "Cogwork Crawler",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/7.png"
+			}
+		},
+		{
+			"name": "Dreg Husk",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Silk Zombie",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/8.png"
+			}
+		},
+		{
+			"name": "Grand Reed",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/9.png"
+			}
+		},
+		{
+			"name": "Huge Flea",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/10.png"
+			}
+		},
+		{
+			"name": "Citadel Judge",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/11.png"
+			}
+		},
+		{
+			"name": "Bellhart Greeter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/12.png"
+			}
+		},
+		{
+			"name": "Pharlid",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spider",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/13.png"
+			}
+		},
+		{
+			"name": "Pilgrim Preacher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/14.png"
+			}
+		},
+		{
+			"name": "Silk Wraith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Silk Wraith",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/15.png"
+			}
+		},
+		{
+			"name": "Ancient Heart",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/SLK-files/img/16_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/16_front.png"
+			}
+		},
+		{
+			"name": "Pilby's Funeral",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/17.png"
+			}
+		},
+		{
+			"name": "Running in Circles",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/18.png"
+			}
+		},
+		{
+			"name": "Sermon in the Vaults",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/19.png"
+			}
+		},
+		{
+			"name": "Crushing Defeat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/20.png"
+			}
+		},
+		{
+			"name": "Parry and Riposte",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/21.png"
+			}
+		},
+		{
+			"name": "Save the Threadspun Town",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/22.png"
+			}
+		},
+		{
+			"name": "Thread Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/23.png"
+			}
+		},
+		{
+			"name": "Tragedy of Widow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/24.png"
+			}
+		},
+		{
+			"name": "Valorous Defense",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/25.png"
+			}
+		},
+		{
+			"name": "Caretaker of Songclave",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Snail Shaman",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/26.png"
+			}
+		},
+		{
+			"name": "Flick, the Fixer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/27.png"
+			}
+		},
+		{
+			"name": "Garmond and Zaza",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Insect Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/28.png"
+			}
+		},
+		{
+			"name": "Grand Mother Silk",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact Creature — Silk God",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/29.png"
+			}
+		},
+		{
+			"name": "Lace, Daughter of Silk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact Creature — Silk Warrior",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/30.png"
+			}
+		},
+		{
+			"name": "Pinmaster Plinney",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Insect Artificer",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/31.png"
+			}
+		},
+		{
+			"name": "Widow, Threading the Needle",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Spider Avatar",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/32.png"
+			}
+		},
+		{
+			"name": "Ecstasy of the End",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery — Song",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/33.png"
+			}
+		},
+		{
+			"name": "Spun Deep",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/34.png"
+			}
+		},
+		{
+			"name": "Architects' Puzzle",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/35.png"
+			}
+		},
+		{
+			"name": "Memory Crystal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/36.png"
+			}
+		},
+		{
+			"name": "Multibinder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/37.png"
+			}
+		},
+		{
+			"name": "School of Kai",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/38.png"
+			}
+		},
+		{
+			"name": "Silk Cocoon",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/39.png"
+			}
+		},
+		{
+			"name": "Choir Minister",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Insect Performer",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/40.png"
+			}
+		},
+		{
+			"name": "Cogwork Clapper",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/41.png"
+			}
+		},
+		{
+			"name": "Cogwork Cleanser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/42.png"
+			}
+		},
+		{
+			"name": "Cogwork Spine",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/43.png"
+			}
+		},
+		{
+			"name": "Karak Gor",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/44.png"
+			}
+		},
+		{
+			"name": "Fay Mnemonid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Insect",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/45.png"
+			}
+		},
+		{
+			"name": "Fay Mnemonord",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Elemental Insect",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/46.png"
+			}
+		},
+		{
+			"name": "Servitor Boran",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/47.png"
+			}
+		},
+		{
+			"name": "Servitor Ignim",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/48.png"
+			}
+		},
+		{
+			"name": "Silk Snipper",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/49.png"
+			}
+		},
+		{
+			"name": "Squatcraw",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect Bird",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/50.png"
+			}
+		},
+		{
+			"name": "Thread Raker",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/51.png"
+			}
+		},
+		{
+			"name": "Vault Lampbearer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/52.png"
+			}
+		},
+		{
+			"name": "Vault Scrollreader",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/53.png"
+			}
+		},
+		{
+			"name": "Hardened Legacy",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "51",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/SLK-files/img/54_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/54_front.png"
+			}
+		},
+		{
+			"name": "Out in the Cold",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/55.png"
+			}
+		},
+		{
+			"name": "Cross Stitch",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/56.png"
+			}
+		},
+		{
+			"name": "Frigid Attunement",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/57.png"
+			}
+		},
+		{
+			"name": "Difficult Delivery",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/58.png"
+			}
+		},
+		{
+			"name": "Lost to History",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/59.png"
+			}
+		},
+		{
+			"name": "Refute Heresy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/60.png"
+			}
+		},
+		{
+			"name": "Tracked and Taken",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/61.png"
+			}
+		},
+		{
+			"name": "Cogwork Dancers",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/62.png"
+			}
+		},
+		{
+			"name": "Fayforn, Oracle of the Mount",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Insect Bird",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/63.png"
+			}
+		},
+		{
+			"name": "The Last Pinstress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/64.png"
+			}
+		},
+		{
+			"name": "Pious Isamor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/65.png"
+			}
+		},
+		{
+			"name": "Relic Seeker Scrounge",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/66.png"
+			}
+		},
+		{
+			"name": "Vaultkeeper Cardinius",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Insect Advisor",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/67.png"
+			}
+		},
+		{
+			"name": "Zylotol, Plasmium Alchemist",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Insect Scientist",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/68.png"
+			}
+		},
+		{
+			"name": "Architects' Melody",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery — Song",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/69.png"
+			}
+		},
+		{
+			"name": "Song's Authority",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/70.png"
+			}
+		},
+		{
+			"name": "Roach Guts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Food",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/71.png"
+			}
+		},
+		{
+			"name": "Silk Siphon",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/72.png"
+			}
+		},
+		{
+			"name": "Bloatroach",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/73.png"
+			}
+		},
+		{
+			"name": "Slab Broodmother",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elder Insect",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/74.png"
+			}
+		},
+		{
+			"name": "Drapelord",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/75.png"
+			}
+		},
+		{
+			"name": "Gargant Gloom",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/76.png"
+			}
+		},
+		{
+			"name": "Burrowing Grom",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Worm",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/77.png"
+			}
+		},
+		{
+			"name": "Muckroach",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/78.png"
+			}
+		},
+		{
+			"name": "Old Penitent",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/79.png"
+			}
+		},
+		{
+			"name": "Penitent Prisoner",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/80.png"
+			}
+		},
+		{
+			"name": "Overgrown Plasmidas",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Worm Mutant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/81.png"
+			}
+		},
+		{
+			"name": "Rowdy Roachkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/82.png"
+			}
+		},
+		{
+			"name": "Shadow Charger",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/83.png"
+			}
+		},
+		{
+			"name": "Slab Guardfly",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/84.png"
+			}
+		},
+		{
+			"name": "Snitchfly",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/85.png"
+			}
+		},
+		{
+			"name": "Spit Squit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/86.png"
+			}
+		},
+		{
+			"name": "Stilkin Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Ranger",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/87.png"
+			}
+		},
+		{
+			"name": "Undersweep",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/88.png"
+			}
+		},
+		{
+			"name": "Void Mass",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/89.png"
+			}
+		},
+		{
+			"name": "Slab Wardenfly",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/90.png"
+			}
+		},
+		{
+			"name": "Whiteward Surgeon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Zombie",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/91.png"
+			}
+		},
+		{
+			"name": "First of the First",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "81",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/SLK-files/img/92_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/92_front.png"
+			}
+		},
+		{
+			"name": "Great Taste of Pharloom",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/93.png"
+			}
+		},
+		{
+			"name": "Infestation Operation",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/94.png"
+			}
+		},
+		{
+			"name": "Overworked",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/95.png"
+			}
+		},
+		{
+			"name": "Penance By Constriction",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/96.png"
+			}
+		},
+		{
+			"name": "Rune Rage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/97.png"
+			}
+		},
+		{
+			"name": "Sister of the Void",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/98.png"
+			}
+		},
+		{
+			"name": "Threaded Black",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/99.png"
+			}
+		},
+		{
+			"name": "Bell Eater, Bellveins' Blight",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Insect Beast",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/100.png"
+			}
+		},
+		{
+			"name": "Crull and Benjin, Retired",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/101.png"
+			}
+		},
+		{
+			"name": "Loam, Cog in the Machine",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/102.png"
+			}
+		},
+		{
+			"name": "Lace, Lost to the Void",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact Creature — Silk Warrior",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/103.png"
+			}
+		},
+		{
+			"name": "Skynx, Holding Face",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/104.png"
+			}
+		},
+		{
+			"name": "Dark Descent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/105.png"
+			}
+		},
+		{
+			"name": "Elegy of the Deep",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery — Song",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/106.png"
+			}
+		},
+		{
+			"name": "Tragedy of Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/107.png"
+			}
+		},
+		{
+			"name": "Barbed Bracelet",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/108.png"
+			}
+		},
+		{
+			"name": "Curveclaw",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/109.png"
+			}
+		},
+		{
+			"name": "Diving Bell",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/110.png"
+			}
+		},
+		{
+			"name": "Volt Filament",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/111.png"
+			}
+		},
+		{
+			"name": "Voltridian",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/112.png"
+			}
+		},
+		{
+			"name": "Burning Bugs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/113.png"
+			}
+		},
+		{
+			"name": "Cogwork Hauler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/114.png"
+			}
+		},
+		{
+			"name": "Covetous Pilgrim",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/115.png"
+			}
+		},
+		{
+			"name": "Crustcrag",
+			"rarity": "common",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/116.png"
+			}
+		},
+		{
+			"name": "Deep Diver",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Insect Peasant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/117.png"
+			}
+		},
+		{
+			"name": "Flintbeetle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/118.png"
+			}
+		},
+		{
+			"name": "Smokerock Sifter",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Insect Peasant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/119.png"
+			}
+		},
+		{
+			"name": "Lavalarga",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Slug",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/120.png"
+			}
+		},
+		{
+			"name": "Mottled Skarr",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/121.png"
+			}
+		},
+		{
+			"name": "Skarrgard",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/122.png"
+			}
+		},
+		{
+			"name": "Skarr Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/123.png"
+			}
+		},
+		{
+			"name": "Skull Brute",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/124.png"
+			}
+		},
+		{
+			"name": "Smelt Shoveller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/125.png"
+			}
+		},
+		{
+			"name": "Red Memory",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "132",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/SLK-files/img/126_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/126_front.png"
+			}
+		},
+		{
+			"name": "Order of Karak",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/127.png"
+			}
+		},
+		{
+			"name": "Explosive Retribution",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/128.png"
+			}
+		},
+		{
+			"name": "Fiery Annihilation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/129.png"
+			}
+		},
+		{
+			"name": "Flintflame Explosion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/130.png"
+			}
+		},
+		{
+			"name": "Target Practice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/131.png"
+			}
+		},
+		{
+			"name": "Workshop Hazard",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/132.png"
+			}
+		},
+		{
+			"name": "Forebrothers Signis and Gron",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Insect Artificer",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/133.png"
+			}
+		},
+		{
+			"name": "Forge Daughter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Insect Artificer",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/134.png"
+			}
+		},
+		{
+			"name": "Hornet, Red Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/135.png"
+			}
+		},
+		{
+			"name": "Loddie the Ladybug",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/136.png"
+			}
+		},
+		{
+			"name": "The First Seamstress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Insect Artificer",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/137.png"
+			}
+		},
+		{
+			"name": "Trobbio, Dazzling Dancer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Insect Performer",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/138.png"
+			}
+		},
+		{
+			"name": "Voltvyrm, Charged Coil",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Worm Elder",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/139.png"
+			}
+		},
+		{
+			"name": "Beastling Call",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery — Song",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/140.png"
+			}
+		},
+		{
+			"name": "Skarr Ambush",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/141.png"
+			}
+		},
+		{
+			"name": "Tool Barrage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/142.png"
+			}
+		},
+		{
+			"name": "Work Orders",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/143.png"
+			}
+		},
+		{
+			"name": "Warding Bell",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/144.png"
+			}
+		},
+		{
+			"name": "Barnak",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/145.png"
+			}
+		},
+		{
+			"name": "Bone Bottom Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/146.png"
+			}
+		},
+		{
+			"name": "Cloverstag",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Plant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/147.png"
+			}
+		},
+		{
+			"name": "Craggler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/148.png"
+			}
+		},
+		{
+			"name": "Ductsucker",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/149.png"
+			}
+		},
+		{
+			"name": "Harbone Elder",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/150.png"
+			}
+		},
+		{
+			"name": "Horned Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/151.png"
+			}
+		},
+		{
+			"name": "Last Claw",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/152.png"
+			}
+		},
+		{
+			"name": "Thrashing Marrowmaw",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/153.png"
+			}
+		},
+		{
+			"name": "Massive Mossgrub",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/154.png"
+			}
+		},
+		{
+			"name": "Moss Druid",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Insect Druid",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/155.png"
+			}
+		},
+		{
+			"name": "Moss Mother",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/156.png"
+			}
+		},
+		{
+			"name": "Overgrown Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/157.png"
+			}
+		},
+		{
+			"name": "Rhinogrund",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/158.png"
+			}
+		},
+		{
+			"name": "Skarr Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/159.png"
+			}
+		},
+		{
+			"name": "Splinter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Plant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/160.png"
+			}
+		},
+		{
+			"name": "Weary Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/161.png"
+			}
+		},
+		{
+			"name": "Fading Voice",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "153",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/SLK-files/img/162_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/162_front.png"
+			}
+		},
+		{
+			"name": "Survive My Gauntlet",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/163.png"
+			}
+		},
+		{
+			"name": "Lost Couriers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/164.png"
+			}
+		},
+		{
+			"name": "Pale Hunt",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/165.png"
+			}
+		},
+		{
+			"name": "Putrid Rot",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/166.png"
+			}
+		},
+		{
+			"name": "Revolt of the Stilkin",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/167.png"
+			}
+		},
+		{
+			"name": "Vengeful Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/168.png"
+			}
+		},
+		{
+			"name": "Clover Dancers",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary creature — Insect Warrior Noble",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/169.png"
+			}
+		},
+		{
+			"name": "Gilly, Perfectly Disguised",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Insect Citizen",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/170.png"
+			}
+		},
+		{
+			"name": "Reed, the Last Pondcatcher",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/171.png"
+			}
+		},
+		{
+			"name": "Shakra, Defender of Bellhart",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/172.png"
+			}
+		},
+		{
+			"name": "Sister Splinter",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Insect Plant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/173.png"
+			}
+		},
+		{
+			"name": "Vog, Hunter Flea",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/174.png"
+			}
+		},
+		{
+			"name": "Heretical Behavior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/175.png"
+			}
+		},
+		{
+			"name": "Seek the Old Hearts",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/176.png"
+			}
+		},
+		{
+			"name": "Trail's End",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery — Song",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/177.png"
+			}
+		},
+		{
+			"name": "Cogwork Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/178.png"
+			}
+		},
+		{
+			"name": "Great Conchflies",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/179.png"
+			}
+		},
+		{
+			"name": "Fallen into Muckmaggots",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/180.png"
+			}
+		},
+		{
+			"name": "Ballador, Last Conductor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Insect Performer",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/181.png"
+			}
+		},
+		{
+			"name": "Crawfather, Lord and Justice",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Insect Bird",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/182.png"
+			}
+		},
+		{
+			"name": "Father of the Flame",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/183.png"
+			}
+		},
+		{
+			"name": "Fourth Chorus",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{R}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/184.png"
+			}
+		},
+		{
+			"name": "Green Prince of Verdania",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Creature — Insect Warrior Noble",
+			"collector_number": "188",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/SLK-files/img/185_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/185_front.png"
+			}
+		},
+		{
+			"name": "Groal the Great",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Elder Insect",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/186.png"
+			}
+		},
+		{
+			"name": "Gurr the Outcast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Insect Rogue",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/187.png"
+			}
+		},
+		{
+			"name": "Hornet, Pale Hunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Spider Warrior Noble",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/188.png"
+			}
+		},
+		{
+			"name": "Last Judge",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Insect Soldier",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/189.png"
+			}
+		},
+		{
+			"name": "The Moorwing, Mite-Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Insect Beast",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/190.png"
+			}
+		},
+		{
+			"name": "Phantom, Stretched Thin",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Artifact Creature — Silk Performer",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/191.png"
+			}
+		},
+		{
+			"name": "Shakra, Wielding Rings",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/192.png"
+			}
+		},
+		{
+			"name": "Sherma, Peppy Pilgrim",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/193.png"
+			}
+		},
+		{
+			"name": "The Unravelled",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Artifact Creature — Silk Zombie",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/194.png"
+			}
+		},
+		{
+			"name": "Tormented Trobbio",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Insect Performer",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/195.png"
+			}
+		},
+		{
+			"name": "Twelfth Architect",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Artifact Creature — Construct Artificer",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/196.png"
+			}
+		},
+		{
+			"name": "Mossberry Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/197.png"
+			}
+		},
+		{
+			"name": "Skull Tyrant's Rampage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/198.png"
+			}
+		},
+		{
+			"name": "Cogfly",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/199.png"
+			}
+		},
+		{
+			"name": "Craw Memento",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/B}",
+			"type": "Artifact",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/200.png"
+			}
+		},
+		{
+			"name": "Fractured Mask",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/G}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/201.png"
+			}
+		},
+		{
+			"name": "Cogwork Defender",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/202.png"
+			}
+		},
+		{
+			"name": "Coral Furm",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Insect",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/203.png"
+			}
+		},
+		{
+			"name": "Dregwheel",
+			"rarity": "common",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Creature — Insect Zombie",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/204.png"
+			}
+		},
+		{
+			"name": "Escalion",
+			"rarity": "common",
+			"mana_cost": "{3}{G/U}{G/U}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/205.png"
+			}
+		},
+		{
+			"name": "Gahlia",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Plant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/206.png"
+			}
+		},
+		{
+			"name": "Karak Guards",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/207.png"
+			}
+		},
+		{
+			"name": "Choir Maestro",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W/U}{W/U}{W/U}",
+			"type": "Creature — Insect Performer",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/208.png"
+			}
+		},
+		{
+			"name": "Plasmid",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Worm Mutant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/209.png"
+			}
+		},
+		{
+			"name": "Savage Beastfly",
+			"rarity": "rare",
+			"mana_cost": "{3}{R/G}{R/G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/210.png"
+			}
+		},
+		{
+			"name": "Skull Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{8}{B/R}{B/R}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/211.png"
+			}
+		},
+		{
+			"name": "Stilkin Trappers",
+			"rarity": "common",
+			"mana_cost": "{1}{B/G}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/212.png"
+			}
+		},
+		{
+			"name": "Tallcraw Juror",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Creature — Insect Bird",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/213.png"
+			}
+		},
+		{
+			"name": "Verdanirs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/214.png"
+			}
+		},
+		{
+			"name": "Whiteward Mortician",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W/B}",
+			"type": "Creature — Insect Shaman",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/215.png"
+			}
+		},
+		{
+			"name": "Roach Tenders' Rounds",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/G}{B/G}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/216.png"
+			}
+		},
+		{
+			"name": "Graceful Skirmish",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/217.png"
+			}
+		},
+		{
+			"name": "Bell Beast, Trusty Transport",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Legendary Creature — Insect Beast Mount",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/218.png"
+			}
+		},
+		{
+			"name": "Lugoli, Disgraced Chef",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/G}{B/G}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/219.png"
+			}
+		},
+		{
+			"name": "Nuu, Creature Collector",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Legendary Creature — Slug Scout",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/220.png"
+			}
+		},
+		{
+			"name": "Shrine Guardian Seth",
+			"rarity": "rare",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/221.png"
+			}
+		},
+		{
+			"name": "Plasmified Zango",
+			"rarity": "rare",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Legendary Creature — Insect Mutant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/222.png"
+			}
+		},
+		{
+			"name": "Pilgrimage's End",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G/W}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/223.png"
+			}
+		},
+		{
+			"name": "The Chorus Project",
+			"rarity": "rare",
+			"mana_cost": "{4}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/224.png"
+			}
+		},
+		{
+			"name": "Twisted End",
+			"rarity": "rare",
+			"mana_cost": "{3}{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/225.png"
+			}
+		},
+		{
+			"name": "The Threefold Statues",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/226.png"
+			}
+		},
+		{
+			"name": "Craftmetal",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/227.png"
+			}
+		},
+		{
+			"name": "Drifter's Cloak",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/228.png"
+			}
+		},
+		{
+			"name": "Fine Pin",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/229.png"
+			}
+		},
+		{
+			"name": "Injector Band",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/230.png"
+			}
+		},
+		{
+			"name": "Needolin",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/231.png"
+			}
+		},
+		{
+			"name": "Pollip Pouch",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/232.png"
+			}
+		},
+		{
+			"name": "Rosary Cannon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/233.png"
+			}
+		},
+		{
+			"name": "Sands of Karak Bench",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/234.png"
+			}
+		},
+		{
+			"name": "Shakra's Compass",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/235.png"
+			}
+		},
+		{
+			"name": "Watcher at the Edge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/236.png"
+			}
+		},
+		{
+			"name": "Weavelight",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Tool",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/237.png"
+			}
+		},
+		{
+			"name": "Cogworkers",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/238.png"
+			}
+		},
+		{
+			"name": "Shardillard",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Insect",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/239.png"
+			}
+		},
+		{
+			"name": "Winged Furm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Creature — Insect",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/240.png"
+			}
+		},
+		{
+			"name": "Greyroot, Servant of the Rite",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Creature — Plant Druid",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/241.png"
+			}
+		},
+		{
+			"name": "Blasted Steps",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/242.png"
+			}
+		},
+		{
+			"name": "Bone Bottom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/243.png"
+			}
+		},
+		{
+			"name": "Choral Chambers",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/244.png"
+			}
+		},
+		{
+			"name": "Deep Docks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/245.png"
+			}
+		},
+		{
+			"name": "Far Fields",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/246.png"
+			}
+		},
+		{
+			"name": "Greymoor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/247.png"
+			}
+		},
+		{
+			"name": "Moss Grotto",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/248.png"
+			}
+		},
+		{
+			"name": "Putrified Ducts",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/249.png"
+			}
+		},
+		{
+			"name": "Underworks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/250.png"
+			}
+		},
+		{
+			"name": "Weavenest Atla",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/251.png"
+			}
+		},
+		{
+			"name": "Wormways",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/252.png"
+			}
+		},
+		{
+			"name": "Citadel of Song",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "247",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/SLK-files/img/253_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/253_front.png"
+			}
+		},
+		{
+			"name": "Bilewater",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/254.png"
+			}
+		},
+		{
+			"name": "Cogwork Core",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/255.png"
+			}
+		},
+		{
+			"name": "Craw Lake",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/256.png"
+			}
+		},
+		{
+			"name": "High Halls",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/257.png"
+			}
+		},
+		{
+			"name": "Hunter's March",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/258.png"
+			}
+		},
+		{
+			"name": "Pilgrim's Rest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/259.png"
+			}
+		},
+		{
+			"name": "Sands of Karak",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/260.png"
+			}
+		},
+		{
+			"name": "The Marrow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/261.png"
+			}
+		},
+		{
+			"name": "Verdanian Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/262.png"
+			}
+		},
+		{
+			"name": "Whiteward",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/263.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Citadel Judge
+	1 Ancient Heart
+	2 Sermon in the Vaults
+	2 Caretaker of Songclave
+	2 Garmond and Zaza
+	1 Grand Mother Silk
+	2 Widow, Threading the Needle
+	2 Ecstasy of the End
+	2 School of Kai
+	2 Silk Cocoon
+	2 Choir Minister
+	1 Hardened Legacy
+	1 Cogwork Dancers
+	2 Fayforn, Oracle of the Mount
+	2 Relic Seeker Scrounge
+	2 Vaultkeeper Cardinius
+	2 Zylotol, Plasmium Alchemist
+	2 Architects' Melody
+	2 Overgrown Plasmidas
+	2 Slab Wardenfly
+	1 First of the First
+	2 Great Taste of Pharloom
+	2 Bell Eater, Bellveins' Blight
+	2 Crull and Benjin, Retired
+	2 Loam, Cog in the Machine
+	1 Lace, Lost to the Void
+	2 Skynx, Holding Face
+	2 Elegy of the Deep
+	2 Barbed Bracelet
+	2 Diving Bell
+	2 Covetous Pilgrim
+	1 Red Memory
+	2 Forebrothers Signis and Gron
+	2 Loddie the Ladybug
+	1 Trobbio, Dazzling Dancer
+	2 Beastling Call
+	2 Skarr Ambush
+	2 Moss Druid
+	1 Fading Voice
+	2 Survive My Gauntlet
+	2 Revolt of the Stilkin
+	2 Clover Dancers
+	2 Reed, the Last Pondcatcher
+	1 Shakra, Defender of Bellhart
+	2 Sister Splinter
+	2 Vog, Hunter Flea
+	1 Seek the Old Hearts
+	2 Trail's End
+	2 Ballador, Last Conductor
+	2 Crawfather, Lord and Justice
+	2 Father of the Flame
+	2 Fourth Chorus
+	2 Green Prince of Verdania
+	2 Groal the Great
+	2 Hornet, Pale Hunter
+	2 Last Judge
+	2 Phantom, Stretched Thin
+	2 Shakra, Wielding Rings
+	2 Tormented Trobbio
+	2 Craw Memento
+	2 Savage Beastfly
+	2 Roach Tenders' Rounds
+	2 Bell Beast, Trusty Transport
+	2 Nuu, Creature Collector
+	2 Shrine Guardian Seth
+	2 Plasmified Zango
+	2 The Chorus Project
+	2 Twisted End
+	1 The Threefold Statues
+	2 Drifter's Cloak
+	2 Needolin
+	2 Pollip Pouch
+	2 Greyroot, Servant of the Rite
+	2 Citadel of Song
+	2 Bilewater
+	2 Cogwork Core
+	2 Craw Lake
+	2 High Halls
+	2 Hunter's March
+	2 Pilgrim's Rest
+	2 Sands of Karak
+	2 The Marrow
+	2 Verdanian Temple
+	2 Whiteward
+[uncommon(3)]
+	4 Flea Caravan
+	4 Choir Hornhead
+	4 Choir Procession
+	4 Clawmaiden
+	4 Huge Flea
+	4 Pilgrim Preacher
+	4 Silk Wraith
+	4 Pilby's Funeral
+	4 Crushing Defeat
+	4 Thread Storm
+	4 Tragedy of Widow
+	4 Valorous Defense
+	4 Flick, the Fixer
+	4 Lace, Daughter of Silk
+	4 Pinmaster Plinney
+	4 Memory Crystal
+	4 Multibinder
+	4 Cogwork Clapper
+	4 Cogwork Cleanser
+	4 Cogwork Spine
+	4 Fay Mnemonid
+	4 Fay Mnemonord
+	4 Servitor Boran
+	4 Out in the Cold
+	4 Difficult Delivery
+	4 Refute Heresy
+	4 Tracked and Taken
+	4 The Last Pinstress
+	4 Pious Isamor
+	4 Roach Guts
+	4 Silk Siphon
+	4 Bloatroach
+	4 Slab Broodmother
+	4 Old Penitent
+	4 Rowdy Roachkeeper
+	4 Shadow Charger
+	4 Slab Guardfly
+	4 Snitchfly
+	4 Spit Squit
+	4 Whiteward Surgeon
+	4 Infestation Operation
+	4 Rune Rage
+	4 Dark Descent
+	4 Tragedy of Phantom
+	4 Volt Filament
+	4 Burning Bugs
+	4 Deep Diver
+	4 Flintbeetle
+	4 Skarr Scout
+	4 Smelt Shoveller
+	4 Order of Karak
+	4 Explosive Retribution
+	4 Fiery Annihilation
+	4 Target Practice
+	4 Forge Daughter
+	4 Hornet, Red Maiden
+	4 The First Seamstress
+	4 Voltvyrm, Charged Coil
+	4 Work Orders
+	4 Barnak
+	4 Bone Bottom Merchant
+	4 Craggler
+	4 Thrashing Marrowmaw
+	4 Moss Mother
+	4 Rhinogrund
+	4 Skarr Stalker
+	4 Lost Couriers
+	4 Vengeful Soul
+	4 Gilly, Perfectly Disguised
+	4 Heretical Behavior
+	4 Cogwork Heart
+	4 Great Conchflies
+	4 Fallen into Muckmaggots
+	4 Gurr the Outcast
+	4 The Moorwing, Mite-Beast
+	4 Sherma, Peppy Pilgrim
+	4 The Unravelled
+	4 Twelfth Architect
+	4 Mossberry Hunt
+	4 Skull Tyrant's Rampage
+	4 Cogfly
+	4 Fractured Mask
+	4 Karak Guards
+	4 Choir Maestro
+	4 Skull Tyrant
+	4 Tallcraw Juror
+	4 Verdanirs
+	4 Whiteward Mortician
+	4 Lugoli, Disgraced Chef
+	4 Pilgrimage's End
+	4 Rosary Cannon
+	4 Sands of Karak Bench
+	4 Watcher at the Edge
+	4 Winged Furm
+	4 Weavenest Atla
+[common(6)]
+	8 Silken Cradle
+	8 Choir Clapper
+	8 Choir Elder
+	8 Cogwork Crawler
+	8 Dreg Husk
+	8 Grand Reed
+	8 Bellhart Greeter
+	8 Pharlid
+	8 Running in Circles
+	8 Parry and Riposte
+	8 Save the Threadspun Town
+	8 Spun Deep
+	8 Architects' Puzzle
+	8 Karak Gor
+	8 Servitor Ignim
+	8 Silk Snipper
+	8 Squatcraw
+	8 Thread Raker
+	8 Vault Lampbearer
+	8 Vault Scrollreader
+	8 Cross Stitch
+	8 Frigid Attunement
+	8 Lost to History
+	8 Song's Authority
+	8 Drapelord
+	8 Gargant Gloom
+	8 Burrowing Grom
+	8 Muckroach
+	8 Penitent Prisoner
+	8 Stilkin Hunter
+	8 Undersweep
+	8 Void Mass
+	8 Overworked
+	8 Penance By Constriction
+	8 Sister of the Void
+	8 Threaded Black
+	8 Curveclaw
+	8 Voltridian
+	8 Cogwork Hauler
+	8 Crustcrag
+	8 Smokerock Sifter
+	8 Lavalarga
+	8 Mottled Skarr
+	8 Skarrgard
+	8 Skull Brute
+	8 Flintflame Explosion
+	8 Workshop Hazard
+	8 Tool Barrage
+	8 Warding Bell
+	8 Cloverstag
+	8 Ductsucker
+	8 Harbone Elder
+	8 Horned Pilgrim
+	8 Last Claw
+	8 Massive Mossgrub
+	8 Overgrown Pilgrim
+	8 Splinter
+	8 Weary Pilgrim
+	8 Pale Hunt
+	8 Putrid Rot
+	8 Cogwork Defender
+	8 Coral Furm
+	8 Dregwheel
+	8 Escalion
+	8 Gahlia
+	8 Plasmid
+	8 Stilkin Trappers
+	8 Graceful Skirmish
+	8 Craftmetal
+	8 Fine Pin
+	8 Injector Band
+	8 Shakra's Compass
+	8 Weavelight
+	8 Cogworkers
+	8 Shardillard
+	8 Blasted Steps
+	8 Bone Bottom
+	8 Choral Chambers
+	8 Deep Docks
+	8 Far Fields
+	8 Greymoor
+	8 Moss Grotto
+	8 Putrified Ducts
+	8 Underworks
+	8 Wormways
+[common | masterpiece(1)]
+	8 Silken Cradle
+	8 Choir Clapper
+	8 Choir Elder
+	8 Cogwork Crawler
+	8 Dreg Husk
+	8 Grand Reed
+	8 Bellhart Greeter
+	8 Pharlid
+	8 Running in Circles
+	8 Parry and Riposte
+	8 Save the Threadspun Town
+	8 Spun Deep
+	8 Architects' Puzzle
+	8 Karak Gor
+	8 Servitor Ignim
+	8 Silk Snipper
+	8 Squatcraw
+	8 Thread Raker
+	8 Vault Lampbearer
+	8 Vault Scrollreader
+	8 Cross Stitch
+	8 Frigid Attunement
+	8 Lost to History
+	8 Song's Authority
+	8 Drapelord
+	8 Gargant Gloom
+	8 Burrowing Grom
+	8 Muckroach
+	8 Penitent Prisoner
+	8 Stilkin Hunter
+	8 Undersweep
+	8 Void Mass
+	8 Overworked
+	8 Penance By Constriction
+	8 Sister of the Void
+	8 Threaded Black
+	8 Curveclaw
+	8 Voltridian
+	8 Cogwork Hauler
+	8 Crustcrag
+	8 Smokerock Sifter
+	8 Lavalarga
+	8 Mottled Skarr
+	8 Skarrgard
+	8 Skull Brute
+	8 Flintflame Explosion
+	8 Workshop Hazard
+	8 Tool Barrage
+	8 Warding Bell
+	8 Cloverstag
+	8 Ductsucker
+	8 Harbone Elder
+	8 Horned Pilgrim
+	8 Last Claw
+	8 Massive Mossgrub
+	8 Overgrown Pilgrim
+	8 Splinter
+	8 Weary Pilgrim
+	8 Pale Hunt
+	8 Putrid Rot
+	8 Cogwork Defender
+	8 Coral Furm
+	8 Dregwheel
+	8 Escalion
+	8 Gahlia
+	8 Plasmid
+	8 Stilkin Trappers
+	8 Graceful Skirmish
+	8 Craftmetal
+	8 Fine Pin
+	8 Injector Band
+	8 Shakra's Compass
+	8 Weavelight
+	8 Cogworkers
+	8 Shardillard
+	8 Blasted Steps
+	8 Bone Bottom
+	8 Choral Chambers
+	8 Deep Docks
+	8 Far Fields
+	8 Greymoor
+	8 Moss Grotto
+	8 Putrified Ducts
+	8 Underworks
+	8 Wormways
+[foil(1)]
+	6 Flea Caravan
+	12 Silken Cradle
+	12 Choir Clapper
+	12 Choir Elder
+	6 Choir Hornhead
+	6 Choir Procession
+	6 Clawmaiden
+	12 Cogwork Crawler
+	12 Dreg Husk
+	12 Grand Reed
+	6 Huge Flea
+	2 Citadel Judge
+	12 Bellhart Greeter
+	12 Pharlid
+	6 Pilgrim Preacher
+	6 Silk Wraith
+	1 Ancient Heart
+	6 Pilby's Funeral
+	12 Running in Circles
+	2 Sermon in the Vaults
+	6 Crushing Defeat
+	12 Parry and Riposte
+	12 Save the Threadspun Town
+	6 Thread Storm
+	6 Tragedy of Widow
+	6 Valorous Defense
+	2 Caretaker of Songclave
+	6 Flick, the Fixer
+	2 Garmond and Zaza
+	1 Grand Mother Silk
+	6 Lace, Daughter of Silk
+	6 Pinmaster Plinney
+	2 Widow, Threading the Needle
+	2 Ecstasy of the End
+	12 Spun Deep
+	12 Architects' Puzzle
+	6 Memory Crystal
+	6 Multibinder
+	2 School of Kai
+	2 Silk Cocoon
+	2 Choir Minister
+	6 Cogwork Clapper
+	6 Cogwork Cleanser
+	6 Cogwork Spine
+	12 Karak Gor
+	6 Fay Mnemonid
+	6 Fay Mnemonord
+	6 Servitor Boran
+	12 Servitor Ignim
+	12 Silk Snipper
+	12 Squatcraw
+	12 Thread Raker
+	12 Vault Lampbearer
+	12 Vault Scrollreader
+	1 Hardened Legacy
+	6 Out in the Cold
+	12 Cross Stitch
+	12 Frigid Attunement
+	6 Difficult Delivery
+	12 Lost to History
+	6 Refute Heresy
+	6 Tracked and Taken
+	1 Cogwork Dancers
+	2 Fayforn, Oracle of the Mount
+	6 The Last Pinstress
+	6 Pious Isamor
+	2 Relic Seeker Scrounge
+	2 Vaultkeeper Cardinius
+	2 Zylotol, Plasmium Alchemist
+	2 Architects' Melody
+	12 Song's Authority
+	6 Roach Guts
+	6 Silk Siphon
+	6 Bloatroach
+	6 Slab Broodmother
+	12 Drapelord
+	12 Gargant Gloom
+	12 Burrowing Grom
+	12 Muckroach
+	6 Old Penitent
+	12 Penitent Prisoner
+	2 Overgrown Plasmidas
+	6 Rowdy Roachkeeper
+	6 Shadow Charger
+	6 Slab Guardfly
+	6 Snitchfly
+	6 Spit Squit
+	12 Stilkin Hunter
+	12 Undersweep
+	12 Void Mass
+	2 Slab Wardenfly
+	6 Whiteward Surgeon
+	1 First of the First
+	2 Great Taste of Pharloom
+	6 Infestation Operation
+	12 Overworked
+	12 Penance By Constriction
+	6 Rune Rage
+	12 Sister of the Void
+	12 Threaded Black
+	2 Bell Eater, Bellveins' Blight
+	2 Crull and Benjin, Retired
+	2 Loam, Cog in the Machine
+	1 Lace, Lost to the Void
+	2 Skynx, Holding Face
+	6 Dark Descent
+	2 Elegy of the Deep
+	6 Tragedy of Phantom
+	2 Barbed Bracelet
+	12 Curveclaw
+	2 Diving Bell
+	6 Volt Filament
+	12 Voltridian
+	6 Burning Bugs
+	12 Cogwork Hauler
+	2 Covetous Pilgrim
+	12 Crustcrag
+	6 Deep Diver
+	6 Flintbeetle
+	12 Smokerock Sifter
+	12 Lavalarga
+	12 Mottled Skarr
+	12 Skarrgard
+	6 Skarr Scout
+	12 Skull Brute
+	6 Smelt Shoveller
+	1 Red Memory
+	6 Order of Karak
+	6 Explosive Retribution
+	6 Fiery Annihilation
+	12 Flintflame Explosion
+	6 Target Practice
+	12 Workshop Hazard
+	2 Forebrothers Signis and Gron
+	6 Forge Daughter
+	6 Hornet, Red Maiden
+	2 Loddie the Ladybug
+	6 The First Seamstress
+	1 Trobbio, Dazzling Dancer
+	6 Voltvyrm, Charged Coil
+	2 Beastling Call
+	2 Skarr Ambush
+	12 Tool Barrage
+	6 Work Orders
+	12 Warding Bell
+	6 Barnak
+	6 Bone Bottom Merchant
+	12 Cloverstag
+	6 Craggler
+	12 Ductsucker
+	12 Harbone Elder
+	12 Horned Pilgrim
+	12 Last Claw
+	6 Thrashing Marrowmaw
+	12 Massive Mossgrub
+	2 Moss Druid
+	6 Moss Mother
+	12 Overgrown Pilgrim
+	6 Rhinogrund
+	6 Skarr Stalker
+	12 Splinter
+	12 Weary Pilgrim
+	1 Fading Voice
+	2 Survive My Gauntlet
+	6 Lost Couriers
+	12 Pale Hunt
+	12 Putrid Rot
+	2 Revolt of the Stilkin
+	6 Vengeful Soul
+	2 Clover Dancers
+	6 Gilly, Perfectly Disguised
+	2 Reed, the Last Pondcatcher
+	1 Shakra, Defender of Bellhart
+	2 Sister Splinter
+	2 Vog, Hunter Flea
+	6 Heretical Behavior
+	1 Seek the Old Hearts
+	2 Trail's End
+	6 Cogwork Heart
+	6 Great Conchflies
+	6 Fallen into Muckmaggots
+	2 Ballador, Last Conductor
+	2 Crawfather, Lord and Justice
+	2 Father of the Flame
+	2 Fourth Chorus
+	2 Green Prince of Verdania
+	2 Groal the Great
+	6 Gurr the Outcast
+	2 Hornet, Pale Hunter
+	2 Last Judge
+	6 The Moorwing, Mite-Beast
+	2 Phantom, Stretched Thin
+	2 Shakra, Wielding Rings
+	6 Sherma, Peppy Pilgrim
+	6 The Unravelled
+	2 Tormented Trobbio
+	6 Twelfth Architect
+	6 Mossberry Hunt
+	6 Skull Tyrant's Rampage
+	6 Cogfly
+	2 Craw Memento
+	6 Fractured Mask
+	12 Cogwork Defender
+	12 Coral Furm
+	12 Dregwheel
+	12 Escalion
+	12 Gahlia
+	6 Karak Guards
+	6 Choir Maestro
+	12 Plasmid
+	2 Savage Beastfly
+	6 Skull Tyrant
+	12 Stilkin Trappers
+	6 Tallcraw Juror
+	6 Verdanirs
+	6 Whiteward Mortician
+	2 Roach Tenders' Rounds
+	12 Graceful Skirmish
+	2 Bell Beast, Trusty Transport
+	6 Lugoli, Disgraced Chef
+	2 Nuu, Creature Collector
+	2 Shrine Guardian Seth
+	2 Plasmified Zango
+	6 Pilgrimage's End
+	2 The Chorus Project
+	2 Twisted End
+	1 The Threefold Statues
+	12 Craftmetal
+	2 Drifter's Cloak
+	12 Fine Pin
+	12 Injector Band
+	2 Needolin
+	2 Pollip Pouch
+	6 Rosary Cannon
+	6 Sands of Karak Bench
+	12 Shakra's Compass
+	6 Watcher at the Edge
+	12 Weavelight
+	12 Cogworkers
+	12 Shardillard
+	6 Winged Furm
+	2 Greyroot, Servant of the Rite
+	12 Blasted Steps
+	12 Bone Bottom
+	12 Choral Chambers
+	12 Deep Docks
+	12 Far Fields
+	12 Greymoor
+	12 Moss Grotto
+	12 Putrified Ducts
+	12 Underworks
+	6 Weavenest Atla
+	12 Wormways
+	2 Citadel of Song
+	2 Bilewater
+	2 Cogwork Core
+	2 Craw Lake
+	2 High Halls
+	2 Hunter's March
+	2 Pilgrim's Rest
+	2 Sands of Karak
+	2 The Marrow
+	2 Verdanian Temple
+	2 Whiteward
+[wildcard(1)]
+	15 Flea Caravan
+	6 Silken Cradle
+	6 Choir Clapper
+	6 Choir Elder
+	15 Choir Hornhead
+	15 Choir Procession
+	15 Clawmaiden
+	6 Cogwork Crawler
+	6 Dreg Husk
+	6 Grand Reed
+	15 Huge Flea
+	7 Citadel Judge
+	6 Bellhart Greeter
+	6 Pharlid
+	15 Pilgrim Preacher
+	15 Silk Wraith
+	4 Ancient Heart
+	15 Pilby's Funeral
+	6 Running in Circles
+	7 Sermon in the Vaults
+	15 Crushing Defeat
+	6 Parry and Riposte
+	6 Save the Threadspun Town
+	15 Thread Storm
+	15 Tragedy of Widow
+	15 Valorous Defense
+	7 Caretaker of Songclave
+	15 Flick, the Fixer
+	7 Garmond and Zaza
+	4 Grand Mother Silk
+	15 Lace, Daughter of Silk
+	15 Pinmaster Plinney
+	7 Widow, Threading the Needle
+	7 Ecstasy of the End
+	6 Spun Deep
+	6 Architects' Puzzle
+	15 Memory Crystal
+	15 Multibinder
+	7 School of Kai
+	7 Silk Cocoon
+	7 Choir Minister
+	15 Cogwork Clapper
+	15 Cogwork Cleanser
+	15 Cogwork Spine
+	6 Karak Gor
+	15 Fay Mnemonid
+	15 Fay Mnemonord
+	15 Servitor Boran
+	6 Servitor Ignim
+	6 Silk Snipper
+	6 Squatcraw
+	6 Thread Raker
+	6 Vault Lampbearer
+	6 Vault Scrollreader
+	4 Hardened Legacy
+	15 Out in the Cold
+	6 Cross Stitch
+	6 Frigid Attunement
+	15 Difficult Delivery
+	6 Lost to History
+	15 Refute Heresy
+	15 Tracked and Taken
+	4 Cogwork Dancers
+	7 Fayforn, Oracle of the Mount
+	15 The Last Pinstress
+	15 Pious Isamor
+	7 Relic Seeker Scrounge
+	7 Vaultkeeper Cardinius
+	7 Zylotol, Plasmium Alchemist
+	7 Architects' Melody
+	6 Song's Authority
+	15 Roach Guts
+	15 Silk Siphon
+	15 Bloatroach
+	15 Slab Broodmother
+	6 Drapelord
+	6 Gargant Gloom
+	6 Burrowing Grom
+	6 Muckroach
+	15 Old Penitent
+	6 Penitent Prisoner
+	7 Overgrown Plasmidas
+	15 Rowdy Roachkeeper
+	15 Shadow Charger
+	15 Slab Guardfly
+	15 Snitchfly
+	15 Spit Squit
+	6 Stilkin Hunter
+	6 Undersweep
+	6 Void Mass
+	7 Slab Wardenfly
+	15 Whiteward Surgeon
+	4 First of the First
+	7 Great Taste of Pharloom
+	15 Infestation Operation
+	6 Overworked
+	6 Penance By Constriction
+	15 Rune Rage
+	6 Sister of the Void
+	6 Threaded Black
+	7 Bell Eater, Bellveins' Blight
+	7 Crull and Benjin, Retired
+	7 Loam, Cog in the Machine
+	4 Lace, Lost to the Void
+	7 Skynx, Holding Face
+	15 Dark Descent
+	7 Elegy of the Deep
+	15 Tragedy of Phantom
+	7 Barbed Bracelet
+	6 Curveclaw
+	7 Diving Bell
+	15 Volt Filament
+	6 Voltridian
+	15 Burning Bugs
+	6 Cogwork Hauler
+	7 Covetous Pilgrim
+	6 Crustcrag
+	15 Deep Diver
+	15 Flintbeetle
+	6 Smokerock Sifter
+	6 Lavalarga
+	6 Mottled Skarr
+	6 Skarrgard
+	15 Skarr Scout
+	6 Skull Brute
+	15 Smelt Shoveller
+	4 Red Memory
+	15 Order of Karak
+	15 Explosive Retribution
+	15 Fiery Annihilation
+	6 Flintflame Explosion
+	15 Target Practice
+	6 Workshop Hazard
+	7 Forebrothers Signis and Gron
+	15 Forge Daughter
+	15 Hornet, Red Maiden
+	7 Loddie the Ladybug
+	15 The First Seamstress
+	4 Trobbio, Dazzling Dancer
+	15 Voltvyrm, Charged Coil
+	7 Beastling Call
+	7 Skarr Ambush
+	6 Tool Barrage
+	15 Work Orders
+	6 Warding Bell
+	15 Barnak
+	15 Bone Bottom Merchant
+	6 Cloverstag
+	15 Craggler
+	6 Ductsucker
+	6 Harbone Elder
+	6 Horned Pilgrim
+	6 Last Claw
+	15 Thrashing Marrowmaw
+	6 Massive Mossgrub
+	7 Moss Druid
+	15 Moss Mother
+	6 Overgrown Pilgrim
+	15 Rhinogrund
+	15 Skarr Stalker
+	6 Splinter
+	6 Weary Pilgrim
+	4 Fading Voice
+	7 Survive My Gauntlet
+	15 Lost Couriers
+	6 Pale Hunt
+	6 Putrid Rot
+	7 Revolt of the Stilkin
+	15 Vengeful Soul
+	7 Clover Dancers
+	15 Gilly, Perfectly Disguised
+	7 Reed, the Last Pondcatcher
+	4 Shakra, Defender of Bellhart
+	7 Sister Splinter
+	7 Vog, Hunter Flea
+	15 Heretical Behavior
+	4 Seek the Old Hearts
+	7 Trail's End
+	15 Cogwork Heart
+	15 Great Conchflies
+	15 Fallen into Muckmaggots
+	7 Ballador, Last Conductor
+	7 Crawfather, Lord and Justice
+	7 Father of the Flame
+	7 Fourth Chorus
+	7 Green Prince of Verdania
+	7 Groal the Great
+	15 Gurr the Outcast
+	7 Hornet, Pale Hunter
+	7 Last Judge
+	15 The Moorwing, Mite-Beast
+	7 Phantom, Stretched Thin
+	7 Shakra, Wielding Rings
+	15 Sherma, Peppy Pilgrim
+	15 The Unravelled
+	7 Tormented Trobbio
+	15 Twelfth Architect
+	15 Mossberry Hunt
+	15 Skull Tyrant's Rampage
+	15 Cogfly
+	7 Craw Memento
+	15 Fractured Mask
+	6 Cogwork Defender
+	6 Coral Furm
+	6 Dregwheel
+	6 Escalion
+	6 Gahlia
+	15 Karak Guards
+	15 Choir Maestro
+	6 Plasmid
+	7 Savage Beastfly
+	15 Skull Tyrant
+	6 Stilkin Trappers
+	15 Tallcraw Juror
+	15 Verdanirs
+	15 Whiteward Mortician
+	7 Roach Tenders' Rounds
+	6 Graceful Skirmish
+	7 Bell Beast, Trusty Transport
+	15 Lugoli, Disgraced Chef
+	7 Nuu, Creature Collector
+	7 Shrine Guardian Seth
+	7 Plasmified Zango
+	15 Pilgrimage's End
+	7 The Chorus Project
+	7 Twisted End
+	4 The Threefold Statues
+	6 Craftmetal
+	7 Drifter's Cloak
+	6 Fine Pin
+	6 Injector Band
+	7 Needolin
+	7 Pollip Pouch
+	15 Rosary Cannon
+	15 Sands of Karak Bench
+	6 Shakra's Compass
+	15 Watcher at the Edge
+	6 Weavelight
+	6 Cogworkers
+	6 Shardillard
+	15 Winged Furm
+	7 Greyroot, Servant of the Rite
+	6 Blasted Steps
+	6 Bone Bottom
+	6 Choral Chambers
+	6 Deep Docks
+	6 Far Fields
+	6 Greymoor
+	6 Moss Grotto
+	6 Putrified Ducts
+	6 Underworks
+	15 Weavenest Atla
+	6 Wormways
+	7 Citadel of Song
+	7 Bilewater
+	7 Cogwork Core
+	7 Craw Lake
+	7 High Halls
+	7 Hunter's March
+	7 Pilgrim's Rest
+	7 Sands of Karak
+	7 The Marrow
+	7 Verdanian Temple
+	7 Whiteward

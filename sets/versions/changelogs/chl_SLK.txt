@@ -1,4 +1,48 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Bellhart Greeter
+rules_text: Whenever you cast a Song spell, put a +1/+1 counter on this creature, you gain 2 life. => Whenever you cast a Song spell, put a +1/+1 counter on this creature. You gain 2 life.
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II, III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II, III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Ductsucker
+cost: {3}{G}{G} => {4}{G}{G}
+
+Fallen into Muckmaggots
+cost: {B}{G}{G} => {B}{G}
+rules_text: Choose target spell. For each ward ability among permanents you control, counter that spell unless its controller pays that ability's ward cost.
+Cycling—Pay 2 life, sacrifice a permanent. => Destroy target creature with mana value 3 or less. Surveil 1.
+
+Skull Tyrant's Rampage
+rules_text: As an additional cost to cast this spell, sacrifice any number of creatures and/or artifacts. When you do, copy this spell for each permanent sacrificed this way.
+Skull Tyrant's Rampage deals 1 damage to any target. => As an additional cost to cast this spell, sacrifice a creature or artifact.
+Put a creature card from your hand onto the battlefield. It gains haste and “when this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.
+
+Tallcraw Juror
+rules_text: Flying
+This creature costs {1} less to cast if a permanent was sacrificed this turn.
+When this creature enters, draw a card. => Flying
+When this creature enters, draw two cards, then discard two cards unless you discard a creature with flying.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Bilewater added.
