@@ -461,7 +461,7 @@
 			"name": "Fay Mnemonid",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Elemental Insect",
+			"type": "Artifact Creature — Elemental Insect",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/45.png"
@@ -471,7 +471,7 @@
 			"name": "Fay Mnemonord",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature — Elemental Insect",
+			"type": "Artifact Creature — Elemental Insect",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/46.png"
@@ -1362,7 +1362,7 @@
 			"name": "Forebrothers Signis and Gron",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Legendary Creature — Insect Artificer",
+			"type": "Legendary Artifact Creature — Insect Artificer",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/133.png"
@@ -1372,7 +1372,7 @@
 			"name": "Forge Daughter",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Insect Artificer",
+			"type": "Legendary Artifact Creature — Insect Artificer",
 			"collector_number": "127",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/134.png"

@@ -1,4 +1,85 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Huge Flea
+rules_text: Flash
+Flying
+Creatures you control with mana value 2 or less get +1/+1. => Flash
+Flying
+Other creatures you control get +1/+1.
+pt: 5/6 => 4/5
+
+Grand Mother Silk
+rules_text: Indestructible
+Grand Mother Silk isn't a creature unless you control three or more Silk tokens.
+Whenever a creature attacks you, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i]
+Sacrifice two other Silk: When target creature dies this turn, return it to the battlefield under your control. => Indestructible
+Grand Mother Silk isn't a creature unless you control three or more Silk tokens.
+Whenever a creature attacks you, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i]
+Sacrifice two other Silk: When target creature you control dies this turn, return it to the battlefield under your control.
+
+Fay Mnemonid
+type: Creature — Elemental Insect => Artifact Creature — Elemental Insect
+
+Fay Mnemonord
+type: Creature — Elemental Insect => Artifact Creature — Elemental Insect
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Order of Karak
+rules_text: Warriors and Soldiers you control get +1/+0 and have haste.
+{2}, Sacrifice this enchantment: Put X +1/+1 counters on target artifact you control, where X is the number of Warriors and Soldiers in your graveyard. If it's not a creature, it becomes a 0/0 Construct artifact creature in addition to its other types. => Warriors and Soldiers you control get +1/+0.
+At the beginning of combat on your turn, create a 1/1 white Insect Soldier creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+
+Forebrothers Signis and Gron
+type: Legendary Creature — Insect Artificer => Legendary Artifact Creature — Insect Artificer
+
+Forge Daughter
+type: Legendary Creature — Insect Artificer => Legendary Artifact Creature — Insect Artificer
+rules_text: Artifact creatures you control get +1/+0.
+{2}, {T}: Put a charge counter on each nontoken artifact you control. => Other artifact creatures you control get +1/+0.
+{1}, {T}: Put a charge counter on target artifact.
+
+Fallen into Muckmaggots
+rules_text: Reveal the top five cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.
+Target creature gets -2/-2 until end of turn. => Reveal the top five cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.
+Up to one target creature gets -2/-2 until end of turn.
+
+Skull Tyrant's Rampage
+rules_text: As an additional cost to cast this spell, discard a card.
+Choose one —
+• Draw two cards.
+• Skull Tyrant's Rampage deals 4 damage to target creature. => As an additional cost to cast this spell, sacrifice an artifact or discard a card.
+Choose one —
+• Draw two cards.
+• Skull Tyrant's Rampage deals 4 damage to target creature.
+
+Tallcraw Juror
+pt: 2/2 => 3/3
+
+Sands of Karak Bench
+rules_text: {3}, {T}: Create a 1/1 white Insect Warrior creature token.
+{6}, {T}, Sacrifice this artifact: Put two +1/+1 counters on each creature you control. => {3}, {T}: Create a 1/1 white Insect Soldier creature token.
+{6}, {T}, Sacrifice this artifact: Put two +1/+1 counters on each creature you control.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Synchronized Flight added.

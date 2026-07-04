@@ -207,7 +207,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 			<name>Huge Flea</name>
 			<text>Flash
 Flying
-Creatures you control with mana value 2 or less get +1/+1.</text>
+Other creatures you control get +1/+1.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/10.png" num="21">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -218,7 +218,7 @@ Creatures you control with mana value 2 or less get +1/+1.</text>
 				<cmc>7</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>5/6</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -564,7 +564,7 @@ When Garmond and Zaza enters or blocks, you may put a creature card with mana va
 			<text>Indestructible
 Grand Mother Silk isn&apos;t a creature unless you control three or more Silk tokens.
 Whenever a creature attacks you, create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)
-Sacrifice two other Silk: When target creature dies this turn, return it to the battlefield under your control.</text>
+Sacrifice two other Silk: When target creature you control dies this turn, return it to the battlefield under your control.</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/29.png" num="19">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -854,7 +854,7 @@ When this creature dies, if it had no counters on it, return it to the battlefie
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elemental Insect</type>
+				<type>Artifact Creature — Elemental Insect</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
@@ -873,7 +873,7 @@ When this creature enters, return up to one target tapped creature to its owner&
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elemental Insect</type>
+				<type>Artifact Creature — Elemental Insect</type>
 				<maintype>Creature</maintype>
 				<manacost>5UU</manacost>
 				<cmc>7</cmc>
@@ -1734,8 +1734,8 @@ Whenever an opponent commits a crime, you gain 1 life.</text>
 			<name>First of the First</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
 Create a 1/2 white Spider token with reach.
-Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
-Exile this Saga, then return it to the battlefield transformed under your control.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): First Sinner, Absolution Denied</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/92_front.png" num="82a">SLK</set>
@@ -2413,8 +2413,8 @@ When Hornet deals combat damage to a player, untap all artifacts you control.
 		</card>
 		<card>
 			<name>Order of Karak</name>
-			<text>Warriors and Soldiers you control get +1/+0 and have haste.
-{2}, Sacrifice this enchantment: Put X +1/+1 counters on target artifact you control, where X is the number of Warriors and Soldiers in your graveyard. If it&apos;s not a creature, it becomes a 0/0 Construct artifact creature in addition to its other types.</text>
+			<text>Warriors and Soldiers you control get +1/+0.
+At the beginning of combat on your turn, create a 1/1 white Insect Soldier creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/127.png" num="132">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2521,7 +2521,7 @@ Whenever one or more other creature cards are put into your graveyard from anywh
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Insect Artificer</type>
+				<type>Legendary Artifact Creature — Insect Artificer</type>
 				<maintype>Creature</maintype>
 				<manacost>3R</manacost>
 				<cmc>4</cmc>
@@ -2533,13 +2533,13 @@ Whenever one or more other creature cards are put into your graveyard from anywh
 		</card>
 		<card>
 			<name>Forge Daughter</name>
-			<text>Artifact creatures you control get +1/+0.
-{2}, {T}: Put a charge counter on each nontoken artifact you control.</text>
+			<text>Other artifact creatures you control get +1/+0.
+{1}, {T}: Put a charge counter on target artifact.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/134.png" num="127">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Insect Artificer</type>
+				<type>Legendary Artifact Creature — Insect Artificer</type>
 				<maintype>Creature</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
@@ -3396,7 +3396,7 @@ Creatures you control have menace and haste.</text>
 		<card>
 			<name>Fallen into Muckmaggots</name>
 			<text>Reveal the top five cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.
-Target creature gets -2/-2 until end of turn.</text>
+Up to one target creature gets -2/-2 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/180.png" num="185">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3761,7 +3761,7 @@ Target opponent sacrifice a creature or artifact unless they discard a card.</te
 		</card>
 		<card>
 			<name>Skull Tyrant&apos;s Rampage</name>
-			<text>As an additional cost to cast this spell, discard a card.
+			<text>As an additional cost to cast this spell, sacrifice an artifact or discard a card.
 Choose one —
 • Draw two cards.
 • Skull Tyrant&apos;s Rampage deals 4 damage to target creature.</text>
@@ -4048,7 +4048,7 @@ When this creature enters, draw two cards, then discard two cards unless you dis
 				<cmc>4</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4392,7 +4392,7 @@ Equip—Sacrifice an artifact.</text>
 		</card>
 		<card>
 			<name>Sands of Karak Bench</name>
-			<text>{3}, {T}: Create a 1/1 white Insect Warrior creature token.
+			<text>{3}, {T}: Create a 1/1 white Insect Soldier creature token.
 {6}, {T}, Sacrifice this artifact: Put two +1/+1 counters on each creature you control.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/234.png" num="240">SLK</set>
 			<prop>
