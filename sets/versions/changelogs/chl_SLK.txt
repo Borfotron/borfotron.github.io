@@ -1,4 +1,134 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Synchronized Flight added.
+Sherma, Devout Caretaker added.
+Corrcrust Karaka added.
+Yumama added.
+
+Great Conchflies removed.
+
+Valorous Defense
+
+Widow, Threading the Needle
+
+Rowdy Roachkeeper
+rules_text: Menace
+Ward—Sacrifice a permanent or pay 3 life.
+Ward abilities you control trigger an additional time. => Menace
+Ward—Sacrifice a permanent or pay 2 life.
+Ward abilities you control trigger an additional time.
+pt: 5/3 => 4/3
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Infestation Operation
+rules_text: As an additional cost to cast this spell, pay X life.
+Destroy target creature card with mana value X or less. => As an additional cost to cast this spell, pay X life.
+Destroy target creature with mana value X or less.
+
+Lace, Lost to the Void
+
+Tragedy of Phantom
+
+Red Memory
+
+Order of Karak
+
+Trobbio, Dazzling Dancer
+
+Tool Barrage
+
+Overgrown Pilgrim
+
+Weary Pilgrim
+type: Creature — Insect Citizen => Creature — Insect Peasant
+
+Survive My Gauntlet
+
+Pale Hunt
+
+Shakra, Defender of Bellhart
+
+Seek the Old Hearts
+
+Fallen into Muckmaggots
+cost: {B}{G} => {1}{B}{G}
+rules_text: Destroy target creature with mana value 3 or less. Surveil 1. => Reveal the top five cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.
+Target creature gets -2/-2 until end of turn.
+
+Fourth Chorus
+rules_text: When Fourth Chorus attacks, create a Silk token. Then, Fourth Chorus deals X damage divided among any number of targets, where X is the number of other artifacts you control. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Whenever Fourth Chorus attacks, create a Silk token. Then, Fourth Chorus deals X damage divided among any number of targets, where X is the number of other artifacts you control. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Green Prince of Verdania
+
+Groal the Great
+rules_text: Ward—Sacrifice a nontoken creature or pay {3}.
+Groal gets +X/+0, where X is the number of creature cards in your graveyard. If X is 5 or more, Groal has flying.
+Groal has all ward abilities among other creatures you control. => Ward—Sacrifice a creature or pay {2}.
+Groal gets +X/+0, where X is the number of creature cards in your graveyard. If X is 5 or more, Groal has flying.
+Groal has all ward abilities among other creatures you control.
+
+Phantom, Stretched Thin
+
+Sherma, Peppy Pilgrim
+
+Skull Tyrant's Rampage
+type: Sorcery => Instant
+cost: {1}{B}{R} => {1}{BR}
+rules_text: As an additional cost to cast this spell, sacrifice a creature or artifact.
+Put a creature card from your hand onto the battlefield. It gains haste and “when this creature dies, draw a card.” Sacrifice it at the beginning of the next end step. => As an additional cost to cast this spell, discard a card.
+Choose one —
+• Draw two cards.
+• Skull Tyrant's Rampage deals 4 damage to target creature.
+
+Cogfly
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature has “Whenever this creature attacks, artifact creatures you control get +1/+0 until end of turn.”
+{1}, {T}, Remove a charge counter from this artifact: Create a 1/1 Insect Construct artifact creature token with flying.
+Equip {1} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature has “Whenever this creature attacks, artifact creatures you control get +1/+0 until end of turn.”
+{2}, {T}, Remove a charge counter from this artifact: Create a 1/1 Insect Construct artifact creature token with flying.
+Equip {1}
+
+Craw Memento
+rules_text: When this artifact enters or leaves the battlefield, target opponent reveals their hand. You choose a nonland card from it. That player puts it into their library second from the top or on the bottom.
+{1}{B}, Sacrifice this artifact: Target creature gains flying until end of turn. Activate only as a sorcery. => When this artifact enters or leaves the battlefield, target opponent reveals their hand. You choose a nonland card from it. That player puts it into their library second from the top or on the bottom.
+{1}{UB}, Sacrifice this artifact: Target creature gains flying until end of turn. Activate only as a sorcery.
+
+Gahlia
+rules_text: When this creature enters, put a +1/+1 counter on up to one other target creature. That creature can't be blocked by creatures with power 1 or less this turn. => When this creature enters, put a +1/+1 counter on target creature. If it's another creature, surveil 1.
+
+Skull Tyrant
+cost: {8}{BR}{BR} => {8}{B}{R}
+rules_text: As an additional cost to cast this spell, you may sacrifice any number of artifacts and/or creatures. This spell costs {2} less for each permanent sacrificed this way.
+Menace, trample => As an additional cost to cast this spell, you may sacrifice any number of artifacts and/or creatures. This spell costs {2} less for each permanent sacrificed this way.
+Menace, trample
+When Skull Tyrant enters, it deals 3 damage to up to one target creature.
+
+Verdanirs
+rules_text: When this creature enters, if you cast it, create a token that's a copy of it.
+Verdant — This creature's power is equal to the number of colors among permanents you control. => When this creature enters, if you cast it, create a token that's a copy of it.
+[i]Verdant[/i] — This creature's power is equal to the number of colors among permanents you control.
+
+Bell Beast, Trusty Transport
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
