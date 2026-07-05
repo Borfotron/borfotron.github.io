@@ -1,4 +1,101 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Flitting Pendragor added.
+Grindle, Snivelling Swindler added.
+Sandcarver Pit added.
+Magnetite Dice added.
+
+
+Choir Elder
+rules_text: When this creature enters, create a 1/1 white Insect creature token. => Flying
+When this creature enters, create a 1/1 white Insect creature token.
+pt: 3/3 => 2/3
+
+Choir Hornhead
+
+Pilgrim Preacher
+rules_text: [i]Pilgrimage[/i] — {3}{W}: Creatures you control get +1/+1 until end of turn. Then if you control six or more lands, put a +1/+1 counter on up to one target creature you control. => Lifelink
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Difficult Delivery
+rules_text: Choose three. You may choose the same more more than once.
+• Tap target creature and put a stun counter on it.
+• Draw a card. => [i]Verdant[/i] — Choose X, where X is the number of colors among permanents you control. You may choose the same more more than once.
+• Tap up to one target creature and put a stun counter on it.
+• Draw a card.
+
+Burrowing Grom
+rules_text: Whenever this creature attacks, you may sacrifice another artifact or creature. If you do, put two +1/+1 counters on this creature and draw a card. => Menace
+Whenever this creature attacks, you may sacrifice another artifact or creature. If you do, put two +1/+1 counters on this creature and draw a card.
+pt: 4/3 => 2/4
+
+Stilkin Hunter
+type: Creature — Insect Ranger => Creature — Insect Scout
+cost: {1}{B} => {3}{B}
+rules_text: Flash
+Ward—Pay 2 life.
+When this creature enters or dies, surveil 1. => Flying, menace, lifelink
+Ward—Sacrifice an artifact or pay {2}.
+When this creature attacks, mill a card.
+pt: 2/1 => 2/3
+
+Undersweep
+rules_text: When this creature enters or dies, mill two cards.
+{2}: Exile target card from a graveyard. Surveil 1. You gain 1 life. Activate only once each turn. => When this creature enters or dies, mill two cards.
+{3}: Exile target card from a graveyard. Surveil 1. Activate only once each turn.
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Gahlia
+rules_text: [i]Pilgrimage[/i] — When this creature enters, put a +1/+1 counter on another target creature. Surveil 1. If you control six or more lands, repeat this process once. => [i]Pilgrimage[/i] — When this creature enters, put a +1/+1 counter on up to one other target creature, then surveil 1. If you control six or more lands, repeat this process once.
+
+Stilkin Trappers
+rules_text: Deathtouch
+Ward—Sacrifice an artifact or pay 3 life.
+Whenever this creature attacks, mill two cards. => Flash
+Ward—Pay 2 life.
+When this creature enters or dies, surveil 1.
+pt: 1/1 => 2/1
+
+Fine Pin
+rules_text: When this Equipment enters, create a 2/2 white Insect Soldier creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0.
+Equip {1} => When this Equipment enters, create a 2/2 white Insect Soldier creature token, then attach this Equipment to it.
+Equipped creature gets +1/+1.
+Equip {1}
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Karaka Guards added.
