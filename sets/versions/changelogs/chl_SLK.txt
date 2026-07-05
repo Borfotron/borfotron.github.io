@@ -1,4 +1,225 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Karaka Guards added.
+Choral Barracks added.
+Grand Confrontation added.
+Vaultkeeper's Melody added.
+Eva, Discarded Weaverspawn added.
+
+Karak Guards removed.
+
+Bellhart Greeter
+rules_text: Whenever you cast a Song spell, put a +1/+1 counter on this creature. You gain 2 life. => Lifelink
+Whenever you cast a Song spell, put a +1/+1 counter on this creature.
+
+Pilgrim Preacher
+type: Creature — Insect Peasant => Creature — Insect Cleric
+rules_text: {3}{W}: Creatures you control get +1/+1 until end of turn. If this is the second time this ability has resolved this turn, put a +1/+1 counter on each creature you control instead. => [i]Pilgrimage[/i] — {3}{W}: Creatures you control get +1/+1 until end of turn. Then if you control six or more lands, put a +1/+1 counter on up to one target creature you control.
+pt:  => 2/2
+
+Pilby's Funeral
+rules_text: Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+{W}, Sacrifice this enchantment: Create a 1/1 white Insect creature token. => Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+[i]Pilgrimage[/i] — {1}{W}: Create two 1/1 white Insect creature tokens. Activate only if you control six or more lands, and only once.
+
+Save the Threadspun Town
+
+Cogwork Spine
+rules_text: Flying
+Whenever you cast your first noncreature spell each turn, surveil 2. => Flying
+Whenever you cast your first noncreature spell each turn, surveil 1.
+
+Karak Gor
+rules_text: When this creature attacks or blocks, put two +1/+1 counters on target artifact you control. If it's not a creature, it becomes a 0/0 Construct artifact creature. => Vigilance
+When this creature attacks or blocks, put two +1/+1 counters on target artifact you control. If it's not a creature, it becomes a 0/0 Construct artifact creature.
+pt: 5/5 => 5/6
+
+Muckroach
+rules_text: Deathtouch
+{4}{B}: Each player loses 2 life. Surveil 1. => Deathtouch
+{B}{B}, Sacrifice another creature or artifact: Target player loses 1 life and you gain 1 life.
+
+Old Penitent
+rules_text: When this creature enters the battlefield, target opponent gains 3 life.
+At the beginning of your end step, if you committed a crime this turn, return target creature card with mana value 2 or less from your graveyard to the battlefield with a finality counter. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => When this creature enters the battlefield, target opponent gains 2 life.
+At the beginning of your end step, if you committed a crime this turn, return target creature or artifact card with mana value 2 or less from your graveyard to the battlefield with a finality counter. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Rune Rage
+rules_text: Destroy target creature.
+If you sacrificed a permanent this turn, all creatures get -2/-2 until end of turn. => Destroy target creature.
+If you sacrificed a permanent this turn, all creatures get -1/-1 until end of turn.
+
+Burning Bugs
+rules_text: When this creature attacks, you may sacrifice an artifact or discard a card. If you do, choose one —
+• Draw a card.
+• Create a tapped Treasure token.
+• It deals 1 damage to any target. => Whenever this creature attacks, you may discard a card or sacrifice an artifact or creature. If you do, choose one —
+• Draw a card.
+• Create a tapped Treasure token.
+• It deals 1 damage to any target.
+
+Skarr Scout
+rules_text: Fierce — As long as you control a creature with power 5 or greater, this creature has menace and haste.
+{T}: Add {R}. Use this mana only to cast an Equipment spell or activate an equip ability. => As long as you control a creature with power 5 or greater, this creature has menace and haste.
+{T}: Add {R}. Use this mana only to cast an Equipment spell or activate an equip ability.
+
+Smelt Shoveller
+type: Creature — Insect Peasant => Artifact Creature — Insect Peasant
+
+Order of Karak
+
+Workshop Hazard
+rules_text: Workshop Hazard deals 6 damage to target creature. Then if you control two or more artifacts, Workshop also deals 2 damage to that creature's controller. => Kicker—Sacrifice an artifact or creature. [i](You may sacrifice an artifact or creature in addition to any other costs as you cast this spell.)[/i]
+Workshop Hazard deals 6 damage to target creature. If this spell was kicked, it deals 8 damage to that creature instead.
+
+The First Seamstress
+rules_text: When The First Seamstress enters, you may pay {1} up to three times. When you do, choose up to that many —
+• Destroy target artifact.
+• Put two +1/+1 counters on up to one other target creature.
+• You may discard an artifact card. If you do, draw two cards. => When The First Seamstress enters, you may pay {1} up to three times. When you do, choose up to that many —
+• Destroy target artifact.
+• Put two +1/+1 counters on up to one other target creature.
+• You may discard an artifact card or sacrifice an artifact. If you do, draw two cards.
+
+Beastling Call
+cost: {2}{R} => {1}{R}
+rules_text: [i](Sing only one Song per turn.)[/i]
+Search your library for a creature card with mana value 2 or less, put it onto the battlefield, then shuffle. Then if this card was cast from your graveyard, it deals damage equal to the number of creatures you control to any target.
+Flashback—Sacrifice two lands. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](Sing only one Song per turn.)[/i]
+Search your library for a creature card with mana value 2 or less, put it into your hand, then shuffle. Then if this card was cast from your graveyard, it deals damage equal to the number of creatures you control to any target.
+Flashback—Sacrifice two lands. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Tool Barrage
+type: Sorcery => Instant
+cost: {1}{R} => {R}
+rules_text: Kicker—Tap two untapped artifacts you control. [i](You may tap two untapped artifacts you control in addition to any other costs as you cast this spell.)[/i]
+Tool Barrage deals 4 damage to target creature. If this spell was kicked, it also deals 2 damage to that creature's controller. => Kicker—{1}{R}. [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Target creature you control gets +2/+1 until end of turn. If this spell was kicked, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+Cloverstag
+rules_text: Defender
+As long as you control no untapped lands, this creature can attack as though it didn't have defender. => Defender
+[i]Pilgrimage[/i] — As long as you control six or more lands, this creature can attack as though it didn't have defender.
+
+Craggler
+rules_text: Reach, ward {2}
+Verdant — This creature enters with X +1/+1 counters, where X is the number of colors among permanents you control. => Reach, ward {2}
+[i]Verdant[/i] — This creature enters with X +1/+1 counters, where X is the number of colors among permanents you control.
+
+Horned Pilgrim
+
+Last Claw
+rules_text: Vigilance
+[i]Fierce[/i] — As long as you control a creature with power 5 or greater, you may cast this card from your graveyard. => Vigilance
+As long as you control a creature with power 5 or greater, you may cast this card from your graveyard.
+
+Massive Mossgrub
+cost: {4}{G}{G} => {5}{G}{G}
+rules_text: Trample
+Whenever this creature becomes blocked, you gain 2 life.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Trample
+This creature's power and toughness are each equal to the number of lands you control.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 6/6 => */*
+
+Moss Druid
+rules_text: [i]Landfall[/i] —Whenever a land you control enters, you gain 1 life and surveil 1.
+Pilgrimage — As long as you control six or more lands, creatures you control have “Whenever this creature is dealt damage, create a Silk token.” [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => [i]Landfall[/i] —Whenever a land you control enters, you gain 1 life and surveil 1.
+[i]Pilgrimage[/i] — As long as you control six or more lands, creatures you control have “Whenever this creature is dealt damage, create a Silk token.” [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Weary Pilgrim
+rules_text: When this creature enters, mill four cards. You may put a legendary creature or land card from among them into your hand. => [i]Pilgrimage[/i] — When this creature enters, mill four cards. You may put a land card from among them into your hand. If you control six or more lands, you may put a permanent card from among them into your hand instead.
+
+Clover Dancers
+rules_text: Vigilance
+Verdant — When this creature enters, create X 3/2 green Insect Warrior creature tokens with vigilance, where X is twice the number of colors among permanents you control. => Vigilance
+[i]Verdant[/i] — When this creature enters, create X 3/2 green Insect Warrior creature tokens with vigilance, where X is twice the number of colors among permanents you control.
+
+Reed, the Last Pondcatcher
+rules_text: Reed gets +1/+1 for each card type among cards in your graveyard.
+Pilgrimage — When Reed enters, if you control six or more lands, he deals damage equal to his power to up to one target creature. => Reed gets +1/+1 for each card type among cards in your graveyard.
+[i]Pilgrimage[/i] — When Reed enters, if you control six or more lands, he deals damage equal to his power to up to one target creature.
+
+Fallen into Muckmaggots
+rules_text: Reveal the top five cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard.
+Up to one target creature gets -2/-2 until end of turn. => Mill five cards. You may put a permanent card from among them into your hand. Put the rest into your graveyard.
+Up to one target creature gets -2/-2 until end of turn.
+
+Green Prince of Verdania
+
+Fractured Mask
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Fierce — Whenever equipped creature attacks, it gains indestructible until end of turn if you control a creature with power 5 or creater.
+{1}, {T}, Remove a charge counter from this artifact: Put two +1/+1 counters on target creature you control.
+Equip {3} => [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, it gains indestructible until end of turn if you control a creature with power 5 or creater.
+{1}, {T}, Remove a charge counter from this artifact: Put two +1/+1 counters on target creature you control.
+Equip {3}
+
+Escalion
+rules_text: Flash
+Vigilance
+Verdant — When this creature enters, surveil X, where X is the number of colors among permanents you control, then draw a card. => Flash
+Vigilance
+[i]Verdant[/i] — When this creature enters, surveil X, where X is the number of colors among permanents you control, then draw a card.
+
+Gahlia
+rules_text: When this creature enters, put a +1/+1 counter on target creature. If it's another creature, surveil 1. => [i]Pilgrimage[/i] — When this creature enters, put a +1/+1 counter on another target creature. Surveil 1. If you control six or more lands, repeat this process once.
+
+Tallcraw Juror
+rules_text: Flying
+When this creature enters, draw two cards, then discard two cards unless you discard a creature with flying. => Flying
+When this creature enters, draw two cards, then discard two cards unless you discard a creature card with flying.
+
+Twisted End
+rules_text: Target creature you control becomes a Plant in addition to its other types and has base power and toughness 1/1. It gains indestructible until end of turn. Then, destroy all creatures. => Up to one target creature you control becomes a Plant in addition to its other types and has base power and toughness 1/1. It gains indestructible until end of turn. Then, destroy all creatures.
+
+Rosary Cannon
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, you may sacrifice an artifact. If you do, it gets +3/+3 until end of turn.
+{2}, {T}, Remove a charge counter from this Equipment: Create a Treasure token.
+Equip—Sacrifice an artifact. => [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, you may sacrifice an artifact. If you do, it gets +3/+3 until end of turn.
+{1}, {T}, Remove a charge counter from this Equipment: Create a Treasure token.
+Equip—Sacrifice an artifact or pay {2}.
+
+Sands of Karak Bench
+rules_text: {3}, {T}: Create a 1/1 white Insect Soldier creature token.
+{6}, {T}, Sacrifice this artifact: Put two +1/+1 counters on each creature you control. => {4}, {T}: Create a 2/2 white Insect Soldier creature token.
+{6}, {T}, Sacrifice this artifact: Put two +1/+1 counters on each creature you control.
+
+Shakra's Compass
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +3/+3 as long as you control six or more lands.
+{2}, {T}, Remove a charge counter from this artifact: Search your library for a basic land card, put it into your hand, then shuffle. Activate only if this Equipment is attached to a creature.
+Equip {1} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +3/+3 and has vigilance as long as you control six or more lands.
+{2}, {T}, Remove a charge counter from this artifact: Search your library for a basic land card, put it into your hand, then shuffle. Activate only if this Equipment is attached to a creature.
+Equip {1}
+
+Corrcrust Karaka
+rules_text: When this creature enters, create a token that's a copy of target artifact you control, except it's a 2/1 Construct artifact creature with haste in addition to its other types. Sacrifice it at the beginning of the next end step. => When this creature enters, put two +1/+1 counters on target artifact you control. If it's not a creature, it becomes a 0/0 Construct artifact creature.
+pt: 4/3 => 4/2
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
