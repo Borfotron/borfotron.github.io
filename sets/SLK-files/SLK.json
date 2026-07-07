@@ -1623,7 +1623,7 @@
             "number": 103,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Whenever a creature or artifact you control dies, put a charge counter on this artifact.\n{2}, {T}, Remove X charge counters from this artifact: Each opponent loses X life and you gain X life.",
+            "rules_text": "Whenever a creature or artifact you control dies, target opponent loses 1 life and you gain 1 life. Put a charge counter on this artifact.\n{4}{B}, {T}, Remove X charge counters from this artifact and sacrifice it: Return target creature with mana value X or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3182,8 +3182,8 @@
             "type": "Artifact \u2014 Equipment",
             "number": 186,
             "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "Flash\nWhen this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.\nEquipped creature gets +3/+0.\nEquip {4}",
+            "cost": "{1}{G}",
+            "rules_text": "Flash\nWhen this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.\nEquipped creature gets +1/+0 and has trample.\nEquip {4}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5372,7 +5372,7 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Bone Bottom",
@@ -5393,7 +5393,7 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Choral Chambers",
@@ -5414,7 +5414,7 @@
             "alias": "",
             "position": "244",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Deep Docks",
@@ -5435,7 +5435,7 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Far Fields",
@@ -5456,7 +5456,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Greymoor",
@@ -5477,7 +5477,7 @@
             "alias": "",
             "position": "247",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Moss Grotto",
@@ -5498,7 +5498,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Putrified Ducts",
@@ -5519,7 +5519,7 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Underworks",
@@ -5540,7 +5540,7 @@
             "alias": "",
             "position": "250",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Weavenest Atla",
@@ -5582,7 +5582,7 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Citadel of Song",
@@ -5636,7 +5636,7 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Cogwork Core",
@@ -5657,7 +5657,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Craw Lake",
@@ -5678,7 +5678,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "High Halls",
@@ -5699,7 +5699,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Hunter's March",
@@ -5720,7 +5720,7 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Pilgrim's Rest",
@@ -5741,7 +5741,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Sands of Karak",
@@ -5762,7 +5762,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "The Marrow",
@@ -5783,7 +5783,7 @@
             "alias": "",
             "position": "261",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Verdanian Temple",
@@ -5804,7 +5804,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Whiteward",
@@ -5825,7 +5825,7 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": "landslot"
+            "notes": "!landslot"
         },
         {
             "card_name": "Sherma, Devout Caretaker",
@@ -6092,5 +6092,5 @@
             "notes": ""
         }
     ],
-    "version": 10
+    "version": 11
 }

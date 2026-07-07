@@ -1,4 +1,65 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Silk Siphon
+rules_text: Whenever a creature or artifact you control dies, put a charge counter on this artifact.
+{2}, {T}, Remove X charge counters from this artifact: Each opponent loses X life and you gain X life. => Whenever a creature or artifact you control dies, target opponent loses 1 life and you gain 1 life. Put a charge counter on this artifact.
+{4}{B}, {T}, Remove X charge counters from this artifact and sacrifice it: Return target creature with mana value X or less from your graveyard to the battlefield.
+
+Warding Bell
+cost: {2}{G} => {1}{G}
+rules_text: Flash
+When this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.
+Equipped creature gets +3/+0.
+Equip {4} => Flash
+When this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.
+Equipped creature gets +1/+0 and has trample.
+Equip {4}
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Wormways
+
+Bilewater
+
+Cogwork Core
+
+Craw Lake
+
+High Halls
+
+Hunter's March
+
+Pilgrim's Rest
+
+Sands of Karak
+
+The Marrow
+
+Verdanian Temple
+
+Whiteward
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Crawling Craggler added.

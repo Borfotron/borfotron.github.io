@@ -1760,7 +1760,7 @@
             "number": 103,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Whenever a creature or artifact you control dies, put a charge counter on this artifact.\n{2}, {T}, Remove X charge counters from this artifact: Each opponent loses X life and you gain X life.",
+            "rules_text": "Whenever a creature or artifact you control dies, target opponent loses 1 life and you gain 1 life. Put a charge counter on this artifact.\n{4}{B}, {T}, Remove X charge counters from this artifact and sacrifice it: Return target creature with mana value X or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3463,8 +3463,8 @@
             "type": "Artifact \u2013 Equipment",
             "number": 186,
             "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "Flash\nWhen this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.\nEquipped creature gets +3/+0.\nEquip {4}",
+            "cost": "{1}{G}",
+            "rules_text": "Flash\nWhen this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.\nEquipped creature gets +1/+0 and has trample.\nEquip {4}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5849,7 +5849,7 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5872,7 +5872,7 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5895,7 +5895,7 @@
             "alias": "",
             "position": "244",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5918,7 +5918,7 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5941,7 +5941,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5964,7 +5964,7 @@
             "alias": "",
             "position": "247",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5987,7 +5987,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6010,7 +6010,7 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6033,7 +6033,7 @@
             "alias": "",
             "position": "250",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6079,7 +6079,7 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6137,7 +6137,7 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6160,7 +6160,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6183,7 +6183,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6206,7 +6206,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6229,7 +6229,7 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6252,7 +6252,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6275,7 +6275,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6298,7 +6298,7 @@
             "alias": "",
             "position": "261",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6321,7 +6321,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6344,7 +6344,7 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": "landslot",
+            "notes": "!landslot",
             "image_type": "png",
             "v_mana": ""
         },

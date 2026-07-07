@@ -1471,7 +1471,7 @@
 		{
 			"name": "Warding Bell",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment",
 			"collector_number": "186",
 			"image_uris": {

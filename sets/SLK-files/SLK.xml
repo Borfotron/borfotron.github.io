@@ -1372,8 +1372,8 @@ When this artifact enters, up to one target creature gets -3/-3 until end of tur
 		</card>
 		<card>
 			<name>Silk Siphon</name>
-			<text>Whenever a creature or artifact you control dies, put a charge counter on this artifact.
-{2}, {T}, Remove X charge counters from this artifact: Each opponent loses X life and you gain X life.</text>
+			<text>Whenever a creature or artifact you control dies, target opponent loses 1 life and you gain 1 life. Put a charge counter on this artifact.
+{4}{B}, {T}, Remove X charge counters from this artifact and sacrifice it: Return target creature with mana value X or less from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/72.png" num="103">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2730,7 +2730,7 @@ Target creature you control gets +2/+1 until end of turn. If this spell was kick
 			<name>Warding Bell</name>
 			<text>Flash
 When this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.
-Equipped creature gets +3/+0.
+Equipped creature gets +1/+0 and has trample.
 Equip {4}</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/144.png" num="186">SLK</set>
 			<prop>
@@ -2738,8 +2738,8 @@ Equip {4}</text>
 				<side>front</side>
 				<type>Artifact — Equipment</type>
 				<maintype>Artifact</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
