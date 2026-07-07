@@ -1,4 +1,132 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Crawling Craggler added.
+Putrid Ductsucker added.
+Roachserver added.
+
+Craggler removed.
+Ductsucker removed.
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Running in Circles
+
+Thread Storm
+
+Widow, Threading the Needle
+
+Vault Lampbearer
+
+Vault Scrollreader
+
+Hardened Legacy
+
+Cogwork Dancers
+
+Pious Isamor
+
+Song's Authority
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Rune Rage
+
+Threaded Black
+
+Loam, Cog in the Machine
+
+Skynx, Holding Face
+rules_text: Flash
+Menace
+You may have Skynx enter as a copy of any creature card in a graveyard that was put there this turn, except it's a 4/3 black Horror with menace in addition to its other types. => Skynx enters with two +1/+1 counters on it.
+At the beginning of your first main phase, you may have Skynx become a copy of target creature card in a graveyard until end of turn, except its name is Skynx, Holding Face.
+pt: 4/3 => 2/1
+
+Tragedy of Phantom
+
+Crustcrag
+
+Red Memory
+
+Explosive Retribution
+
+Hornet, Red Maiden
+
+Horned Pilgrim
+pt: 1/1 => 2/2
+
+Weary Pilgrim
+
+Pale Hunt
+
+Green Prince of Verdania
+
+Gurr the Outcast
+cost: {3}{R}{G} => {2}{R}{G}
+pt: 5/5 => 3/5
+
+The Moorwing, Mite-Beast
+rules_text: Flying, menace
+At the beginning of your end step, you may sacrifice another creature or artifact. If you do, you lose 1 life and draw a card. => Flying, menace
+Other creatures you control with flying get +1/+1.
+Whenever The Moorwing deals combat damage to a player, that player may discard a card. If they don't, you draw a card.
+pt: 5/3 => 4/3
+
+Mossberry Hunt
+cost: {G}{U} => {2}{G}{U}
+rules_text: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control five or more lands, repeat this process once. => [i]Verdant[/i] — Search your library for X basic land cards, where X is the number of colors among permanents you control. Put half of them, rounded up, onto the battlefield, and put the rest into your hand. Then shuffle.
+
+Pilgrimage's End
+
+The Chorus Project
+
+Twisted End
+
+Pollip Pouch
+cost: {3} => {2}
+
+Greyroot, Servant of the Rite
+
+Bilewater
+
+Hunter's March
+
+Sandcarver Pit
+rules_text: [i]Verdant[/i] — When this artifact enters, create X 1/1 white Insect creature tokens, where X is twice the number of colors among permanents you control.
+Whenever a creature you control dies, you gain 1 life, each opponent loses 1 life if you control a black permanent, and this artifact deals 1 damage to each opponent if you control a red permanent. => [i]Verdant[/i] — When this artifact enters, create X 1/1 white Insect creature tokens, where X is twice the number of colors among permanents you control.
+{2}{W}, {T}, Tap X untapped creatures you control and sacrifice this artifact: Exile target creature with mana value X or less. You gain X life. Activate only as a sorcery.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Flitting Pendragor added.
