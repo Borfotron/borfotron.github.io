@@ -1,4 +1,445 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Claw Mirrors added.
+Longclaw added.
+Strung to Serve added.
+The Everbloom added.
+Hoker added.
+Bellhart added.
+Mount Fay added.
+The Slab added.
+Coral Tower added.
+Shellwood added.
+Crest of the Wanderer added.
+Crest of the Hunter added.
+Crest of the Architect added.
+Crest of the Witch added.
+Crest of the Reaper added.
+Crest of the Beast added.
+Crest of the Shaman added.
+
+Volt Filament removed.
+Heretical Behavior removed.
+Choral Barracks removed.
+
+Grand Reed
+rules_text: Vigilance
+{1}, Tap two untapped artifacts you control: This creature gains flying until end of turn.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => Vigilance
+{1}, Tap two untapped artifacts you control: This creature gains flying until end of turn.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Silk Wraith
+rules_text: Flying, vigilance
+At the beginning of your upkeep, if this card is in your graveyard, you may sacrifice a creature. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered
+this turn. => Flying, vigilance
+At the beginning of your upkeep, if this card is in your graveyard, you may sacrifice a creature or artifact. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered
+this turn.
+pt: 4/2 => 3/3
+
+Silk Cocoon
+rules_text: Whenever a creature you control leaves the battlefield, put a charge counter on this artifact.
+{T}, Remove X charge counters from this artifact: Create X Silk tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Whenever a creature you control leaves the battlefield, put a charge counter on this artifact.
+{T}, Remove X charge counters from this artifact and sacrifice it: Create X Silk tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Thread Raker
+rules_text: Flash
+This creature enters tapped if it's not your turn.
+When this creature enters, tap up to two target creatures and put a stun counter on each of them.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Flash
+This creature enters tapped if it's not your turn.
+When this creature enters, tap up to two target creatures and put a stun counter on each of them.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+The Last Pinstress
+rules_text: When The Last Pinstress enters, you may pay {1} up to 3 times. When you do, choose up to that many —
+• Put a flying counter on Pinstress.
+• Create a Pin token. [i](It's an Equipment with “Equipped creature gets +2/+0 and Equip {1}.)[/i]
+• Draw a card. Put a stun counter on up to one target tapped creature. => When The Last Pinstress enters, you may pay {1} up to 3 times. When you do, choose up to that many —
+• Put a flying counter on Pinstress.
+• Create a Pin token. [i](It's an Equipment with “Equipped creature gets +2/+0” And Equip {2}.)[/i]
+• Draw a card. Put a stun counter on up to one target tapped creature.
+
+Vaultkeeper Cardinius
+type: Legendary Creature — Insect Advisor => Legendary Creature — Insect Cleric
+rules_text: Whenever you cast a sorcery spell, note its name.
+Whenever a nontoken artifact you control enters, you may create a copy of a spell with a name noted by Cardinius. You may cast the copy by paying {2} instead of its mana cost. Do this only once each turn. => Whenever a nontoken artifact you control enters, target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost reduced by {2}. [i](You may cast it from your graveyard for its flashback cost. Then exile it.)[/i]
+pt:  => 1/4
+
+Gargant Gloom
+rules_text: Menace
+At the beginning of your upkeep, create a 1/1 black Insect Horror creature token with flying and “Whenever this creature deals combat damage to a player, sacrifice it.”
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Menace
+At the beginning of your upkeep, create a 1/1 black Insect Horror creature token with flying and “Whenever this creature deals combat damage to a player, sacrifice it.”
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Old Penitent
+pt: 3/4 => 4/4
+
+Rowdy Roachkeeper
+pt: 4/3 => 2/4
+
+Elegy of the Deep
+
+Tragedy of Phantom
+
+Barbed Bracelet
+
+Curveclaw
+
+Diving Bell
+
+Voltridian
+
+Burning Bugs
+
+Cogwork Hauler
+
+Covetous Pilgrim
+
+Crustcrag
+
+Deep Diver
+
+Flintbeetle
+
+Smokerock Sifter
+
+Lavalarga
+
+Mottled Skarr
+
+Skarrgard
+rules_text: Haste
+When this creature enters, it deals 2 damage to up to one target creature.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Haste
+When this creature enters, it deals 2 damage to up to one target creature.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Skarr Scout
+
+Skull Brute
+
+Smelt Shoveller
+
+Red Memory
+
+Order of Karak
+
+Explosive Retribution
+
+Fiery Annihilation
+
+Flintflame Explosion
+
+Target Practice
+
+Workshop Hazard
+
+Forebrothers Signis and Gron
+
+Forge Daughter
+
+Hornet, Red Maiden
+
+Loddie the Ladybug
+
+The First Seamstress
+
+Trobbio, Dazzling Dancer
+
+Voltvyrm, Charged Coil
+
+Beastling Call
+
+Skarr Ambush
+
+Tool Barrage
+
+Work Orders
+
+Warding Bell
+
+Barnak
+
+Bone Bottom Merchant
+
+Cloverstag
+
+Crawling Craggler
+
+Putrid Ductsucker
+
+Harbone Elder
+
+Horned Pilgrim
+
+Last Claw
+
+Thrashing Marrowmaw
+
+Massive Mossgrub
+rules_text: Trample
+This creature's power and toughness are each equal to the number of lands you control.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Trample
+This creature's power and toughness are each equal to the number of lands you control.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Moss Druid
+
+Moss Mother
+
+Overgrown Pilgrim
+
+Rhinogrund
+
+Skarr Stalker
+
+Splinter
+
+Weary Pilgrim
+
+Fading Voice
+
+Survive My Gauntlet
+
+Lost Couriers
+
+Pale Hunt
+
+Putrid Rot
+
+Revolt of the Stilkin
+
+Vengeful Soul
+
+Clover Dancers
+
+Gilly, Perfectly Disguised
+
+Reed, the Last Pondcatcher
+
+Shakra, Defender of Bellhart
+
+Sister Splinter
+
+Vog, Hunter Flea
+
+Seek the Old Hearts
+
+Trail's End
+
+Cogwork Heart
+
+Synchronized Flight
+
+Fallen into Muckmaggots
+
+Ballador, Last Conductor
+
+Crawfather, Lord and Justice
+
+Father of the Flame
+
+Fourth Chorus
+
+Green Prince of Verdania
+
+Groal the Great
+
+Gurr the Outcast
+
+Hornet, Pale Hunter
+
+Last Judge
+
+The Moorwing, Mite-Beast
+
+Phantom, Stretched Thin
+
+Shakra, Wielding Rings
+
+Sherma, Peppy Pilgrim
+
+The Unravelled
+
+Tormented Trobbio
+
+Twelfth Architect
+
+Mossberry Hunt
+
+Skull Tyrant's Rampage
+
+Cogfly
+
+Craw Memento
+
+Fractured Mask
+
+Cogwork Defender
+
+Coral Furm
+
+Dregwheel
+
+Escalion
+
+Gahlia
+
+Karaka Guards
+
+Choir Maestro
+
+Plasmid
+
+Savage Beastfly
+
+Skull Tyrant
+
+Stilkin Trappers
+
+Tallcraw Juror
+
+Verdanirs
+
+Whiteward Mortician
+
+Roach Tenders' Rounds
+
+Graceful Skirmish
+
+Bell Beast, Trusty Transport
+
+Lugoli, Disgraced Chef
+
+Nuu, Creature Collector
+
+Shrine Guardian Seth
+
+Plasmified Zango
+
+Pilgrimage's End
+
+The Chorus Project
+
+Twisted End
+rules_text: Up to one target creature you control becomes a Plant in addition to its other types and has base power and toughness 1/1. It gains indestructible until end of turn. Then, destroy all creatures. => Up to one target creature you control becomes a colorless Plant in addition to its other types and has base power and toughness 1/1. It gains indestructible until end of turn. Then, destroy all creatures.
+
+The Threefold Statues
+
+Craftmetal
+
+Drifter's Cloak
+
+Fine Pin
+
+Injector Band
+
+Needolin
+
+Pollip Pouch
+rules_text: Equipped creatures you control have toxic 2. [i](Players dealt combat damage by this creature also get two poison counters.)[/i] => Equipped creatures you control have toxic 2 for each equipment attached to them. [i](Players dealt combat damage by this creature also get two poison counters.)[/i]
+
+Rosary Cannon
+
+Sands of Karak Bench
+
+Shakra's Compass
+
+Watcher at the Edge
+
+Weavelight
+
+Cogworkers
+
+Shardillard
+
+Winged Furm
+
+Greyroot, Servant of the Rite
+rules_text: When Greyroot enters, target permanent becomes a 1/1 Plant creature and loses all other card types and abilities. It gains “When this creature dies, its controller loses 4 life.” => When Greyroot enters, target permanent becomes a 1/1 colorless Plant creature and loses all other card types and abilities. It gains “When this creature dies, its controller loses 4 life.”
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Weavenest Atla
+
+Wormways
+
+Citadel of Song
+
+Bilewater
+
+Cogwork Core
+
+Craw Lake
+
+High Halls
+
+Hunter's March
+
+Pilgrim's Rest
+
+Sands of Karak
+
+The Marrow
+
+Verdanian Temple
+
+Whiteward
+
+Sherma, Devout Caretaker
+
+Corrcrust Karaka
+
+Yumama
+
+Grand Confrontation
+
+Vaultkeeper's Melody
+
+Eva, Discarded Weaverspawn
+
+Flitting Pendragor
+
+Grindle, Snivelling Swindler
+
+Sandcarver Pit
+
+Magnetite Dice
+
+Roachserver
+cost: {5}{B} => {3}{B}
+rules_text: [i]Verdant [/i]— Whenever a creature you control dies, target opponent loses X life and you gain X life, where X is the number of colors among permanents you control.
+At the beginning of your end step, sacrifice this creature unless you discard a card. => [i]Verdant [/i]— {T}: Each opponent loses X life and you gain X life, where X is the number of colors among permanents you control. Then, sacrifice a creature.
+pt: 4/4 => 3/4
+
+Dark Descent
+cost: {1}{B} => {3}{B}{B}{B}
+rules_text: Mill three cards, then put a +1/+1 counter on target creature you control for each permanent card milled this way. If this card was cast from a graveyard, put up to one target creature card from among the milled cards into your hand.
+Flashback {1}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Each player discards their hand, then draws that many cards minus one. Then, for each player, return a creature card from that player's graveyard to the battlefield under your conrol.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 
