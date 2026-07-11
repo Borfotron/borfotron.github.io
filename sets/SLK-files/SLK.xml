@@ -5,7 +5,7 @@
 			<name>SLK</name>
 			<longname>Hollow Knight: Silksong</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-08</releasedate>
+			<releasedate>2026-07-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -46,8 +46,7 @@ As long as you control three or more Silk tokens, this artifact has indestructib
 		<card>
 			<name>Choir Clapper</name>
 			<text>Vigilance
-When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance until end of turn.
-{1}{W}, Exile this card from your graveyard: Create a tapped Silk token. Activate only as a sorcery. (It&apos;s an artifact with {1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)</text>
+Landfall — When Choir Clapper enters and whenever a land you control enters, creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/2.png" num="6">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -58,7 +57,7 @@ When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance un
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/5</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -242,7 +241,7 @@ Whenever a creature an opponent controls dies or is put into exile, create a tap
 		</card>
 		<card>
 			<name>Bellhart Greeter</name>
-			<text>Lifelink
+			<text>Pilgrimage — This creature has vigilance and lifelink as long as you control six or more lands.
 Whenever you cast a Song spell, put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/12.png" num="4">SLK</set>
 			<prop>
@@ -254,7 +253,7 @@ Whenever you cast a Song spell, put a +1/+1 counter on this creature.</text>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -320,9 +319,9 @@ this turn.</text>
 		<card>
 			<name>Ancient Heart</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
-Create two 1/1 green Insect Plant creature tokens.
-Each creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
-Exile this Saga, then return it to the battlefield transformed under your control.
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Nyleth, Seed of Shellwood</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/16_front.png" num="3a">SLK</set>
@@ -1463,7 +1462,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/7</pt>
+				<pt>2/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1743,8 +1742,8 @@ Whenever an opponent commits a crime, you gain 1 life.</text>
 			<name>First of the First</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
 Create a 1/2 white Spider token with reach.
-Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
-Exile this Saga, then return it to the battlefield transformed under your control.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): First Sinner, Absolution Denied</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/92_front.png" num="87a">SLK</set>
@@ -2048,7 +2047,7 @@ Equip—{1}, Pay 3 life.</text>
 		<card>
 			<name>Curveclaw</name>
 			<text>(Tools enter with three charge counters on them.)
-Equipped creature gets +1/+1 and has first strike.
+Equipped creature gets +1/+1 and has first strike during your turn.
 {T}, Remove a charge counter from this artifact: Equipped creature deals 1 damage to any target. (Activate only if this Equipment is attached to a creature.)
 Equip {2}</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/108.png" num="126">SLK</set>
@@ -2454,14 +2453,14 @@ At the beginning of combat on your turn, create a 1/1 white Insect Soldier creat
 		<card>
 			<name>Flintflame Explosion</name>
 			<text>Choose one —
-• Flintflame Explosion deals 3 damage to target creature.
+• Flintflame Explosion deals 4 damage to target creature.
 • Destroy target artifact.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/129.png" num="133">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
@@ -2807,19 +2806,18 @@ Verdant — This creature enters with X +1/+1 counters, where X is the number of
 		<card>
 			<name>Putrid Ductsucker</name>
 			<text>Reach, trample
-Ward—Discard a land card or pay {2}.
-When this creature attacks, mill two cards.</text>
+When this creature attacks or dies, surveil 1.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/148.png" num="174">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Insect Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>7/6</pt>
+				<pt>5/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3879,17 +3877,22 @@ When this creature dies, put its counters on another target creature or artifact
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Escalion</name>
+			<name>Escalion // Flitting Dirge</name>
 			<text>Flash
 Vigilance
-Verdant — When this creature enters, surveil X, where X is the number of colors among permanents you control, then draw a card.</text>
+When this creature enters, draw a card.
+
+---
+
+(Sing only one Song per turn.)
+Verdant — Surveil X, where X is the number of colors among permanents you control.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/204.png" num="227">SLK</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Insect Warrior</type>
+				<type>Creature — Insect Warrior // Sorcery — Song</type>
 				<maintype>Creature</maintype>
-				<manacost>3G/UG/U</manacost>
+				<manacost>3G/UG/U // 2G/UG/U</manacost>
 				<cmc>5</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
@@ -4273,7 +4276,9 @@ Once during each of your turns, you may cast a Song spell without paying its man
 		<card>
 			<name>Craftmetal</name>
 			<text>{1}: Add one mana of any color. Activate only once each turn.
-{4}, {T}, Sacrifice this artifact: Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.</text>
+{4}, {T}, Sacrifice this artifact: Choose one: 
+• This artifact deals 5 damage to target creature.
+• Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/226.png" num="249">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4306,7 +4311,7 @@ Equip {2}</text>
 			<name>Fine Pin</name>
 			<text>When this Equipment enters, create a 2/2 white Insect Soldier creature token, then attach this Equipment to it.
 Equipped creature gets +1/+1.
-Equip {1}</text>
+Equip {3}</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/228.png" num="252">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5132,7 +5137,7 @@ Target opponent sacrifices a creature.</text>
 		</card>
 		<card>
 			<name>Dark Descent</name>
-			<text>Each player discards their hand, then draws that many cards minus one. Then, for each player, return a creature card from that player&apos;s graveyard to the battlefield under your conrol.</text>
+			<text>Exile all graveyards. Each player discards their hand, then draws that many cards minus one. For each nonland card discarded this way, return a creature exiled this way onto the battlefield under your control.</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/275.png" num="84">SLK</set>
 			<prop>
 				<layout>normal</layout>

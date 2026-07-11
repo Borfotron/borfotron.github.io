@@ -1972,7 +1972,7 @@
     {
         "card_name": "Escalion",
         "number": 227,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "SLK",
         "rotated": false,
         "position": "204"

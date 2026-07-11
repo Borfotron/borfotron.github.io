@@ -1,4 +1,107 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Choir Clapper
+rules_text: Vigilance
+When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{W}, Exile this card from your graveyard: Create a tapped Silk token. Activate only as a sorcery. [i](It's an artifact with {1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i] => Vigilance
+[i]Landfall[/i] — When Choir Clapper enters and whenever a land you control enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+pt: 4/5 => 4/4
+
+Bellhart Greeter
+rules_text: Lifelink
+Whenever you cast a Song spell, put a +1/+1 counter on this creature. => [i]Pilgrimage[/i] [i]— [/i]This creature has vigilance and lifelink as long as you control six or more lands.
+Whenever you cast a Song spell, put a +1/+1 counter on this creature.
+pt: 1/2 => 2/2
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Gargant Gloom
+pt: 2/7 => 2/6
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Curveclaw
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 and has first strike.
+{T}, Remove a charge counter from this artifact: Equipped creature deals 1 damage to any target. [i](Activate only if this Equipment is attached to a creature.)[/i]
+Equip {2} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 and has first strike during your turn.
+{T}, Remove a charge counter from this artifact: Equipped creature deals 1 damage to any target. [i](Activate only if this Equipment is attached to a creature.)[/i]
+Equip {2}
+
+Flintflame Explosion
+type: Instant => Sorcery
+rules_text: Choose one —
+• Flintflame Explosion deals 3 damage to target creature.
+• Destroy target artifact. => Choose one —
+• Flintflame Explosion deals 4 damage to target creature.
+• Destroy target artifact.
+
+Putrid Ductsucker
+cost: {4}{G}{G} => {3}{G}{G}
+rules_text: Reach, trample
+Ward—Discard a land card or pay {2}.
+When this creature attacks, mill two cards. => Reach, trample
+When this creature attacks or dies, surveil 1.
+pt: 7/6 => 5/6
+
+Escalion
+rules_text: Flash
+Vigilance
+[i]Verdant[/i] — When this creature enters, surveil X, where X is the number of colors among permanents you control, then draw a card. => Flash
+Vigilance
+When this creature enters, draw a card.
+
+Craftmetal
+rules_text: {1}: Add one mana of any color. Activate only once each turn.
+{4}, {T}, Sacrifice this artifact: Search your library for an Equipment card, reveal it, put it into your hand, then shuffle. => {1}: Add one mana of any color. Activate only once each turn.
+{4}, {T}, Sacrifice this artifact: Choose one: 
+• This artifact deals 5 damage to target creature.
+• Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+
+Fine Pin
+rules_text: When this Equipment enters, create a 2/2 white Insect Soldier creature token, then attach this Equipment to it.
+Equipped creature gets +1/+1.
+Equip {1} => When this Equipment enters, create a 2/2 white Insect Soldier creature token, then attach this Equipment to it.
+Equipped creature gets +1/+1.
+Equip {3}
+
+Dark Descent
+rules_text: Each player discards their hand, then draws that many cards minus one. Then, for each player, return a creature card from that player's graveyard to the battlefield under your conrol. => Exile all graveyards. Each player discards their hand, then draws that many cards minus one. For each nonland card discarded this way, return a creature exiled this way onto the battlefield under your control.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Claw Mirrors added.

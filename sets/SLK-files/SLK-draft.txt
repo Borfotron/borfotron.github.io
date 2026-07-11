@@ -1322,7 +1322,7 @@
 			"name": "Flintflame Explosion",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/129.png"
@@ -1511,7 +1511,7 @@
 		{
 			"name": "Putrid Ductsucker",
 			"rarity": "common",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Insect Beast",
 			"collector_number": "174",
 			"image_uris": {
