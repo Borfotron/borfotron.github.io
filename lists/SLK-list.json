@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Fading Voice",
-        "number": 161,
+        "number": 162,
         "shape": "transform double faced",
         "set": "SLK",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Seek the Old Hearts",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Shakra, Defender of Bellhart",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Clover Dancers",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Moss Druid",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Reed, the Last Pondcatcher",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Revolt of the Stilkin",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Sister Splinter",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "Survive My Gauntlet",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Trail's End",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Vog, Hunter Flea",
-        "number": 188,
+        "number": 189,
         "shape": "adventure",
         "set": "SLK",
         "rotated": false,
@@ -456,7 +456,7 @@
         "position": "41"
     },
     {
-        "card_name": "Bloatroach",
+        "card_name": "The Bell Hermit",
         "number": 81,
         "shape": "normal",
         "set": "SLK",
@@ -552,12 +552,12 @@
         "position": "127"
     },
     {
-        "card_name": "Crawling Craggler",
-        "number": 160,
+        "card_name": "The Chapel Maid",
+        "number": 158,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "147"
+        "position": "290"
     },
     {
         "card_name": "Crushing Defeat",
@@ -592,12 +592,12 @@
         "position": "128"
     },
     {
-        "card_name": "Gilly, Perfectly Disguised",
-        "number": 162,
+        "card_name": "Crawling Craggler",
+        "number": 161,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "169"
+        "position": "147"
     },
     {
         "card_name": "Flea Caravan",
@@ -632,12 +632,12 @@
         "position": "136"
     },
     {
-        "card_name": "Hoker",
-        "number": 164,
+        "card_name": "Gilly, Perfectly Disguised",
+        "number": 163,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "277"
+        "position": "169"
     },
     {
         "card_name": "Flick, the Fixer",
@@ -672,12 +672,12 @@
         "position": "117"
     },
     {
-        "card_name": "Longclaw",
-        "number": 167,
+        "card_name": "Hoker",
+        "number": 165,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "174"
+        "position": "277"
     },
     {
         "card_name": "Huge Flea",
@@ -712,12 +712,12 @@
         "position": "133"
     },
     {
-        "card_name": "Lost Couriers",
+        "card_name": "Longclaw",
         "number": 168,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "163"
+        "position": "174"
     },
     {
         "card_name": "Lace, Daughter of Silk",
@@ -752,12 +752,12 @@
         "position": "134"
     },
     {
-        "card_name": "Moss Mother",
-        "number": 171,
+        "card_name": "Lost Couriers",
+        "number": 169,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "155"
+        "position": "163"
     },
     {
         "card_name": "Pilby's Funeral",
@@ -792,12 +792,12 @@
         "position": "126"
     },
     {
-        "card_name": "Rhinogrund",
-        "number": 178,
+        "card_name": "Moss Mother",
+        "number": 172,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "157"
+        "position": "155"
     },
     {
         "card_name": "Pilgrim Preacher",
@@ -832,12 +832,12 @@
         "position": "122"
     },
     {
-        "card_name": "Skarr Stalker",
-        "number": 182,
+        "card_name": "Rhinogrund",
+        "number": 179,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "158"
+        "position": "157"
     },
     {
         "card_name": "Pinmaster Plinney",
@@ -872,12 +872,12 @@
         "position": "124"
     },
     {
-        "card_name": "Thrashing Marrowmaw",
-        "number": 185,
+        "card_name": "Skarr Stalker",
+        "number": 183,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "152"
+        "position": "158"
     },
     {
         "card_name": "Sandcarver Pit",
@@ -912,12 +912,12 @@
         "position": "130"
     },
     {
-        "card_name": "Vengeful Soul",
-        "number": 187,
+        "card_name": "Thrashing Marrowmaw",
+        "number": 186,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "167"
+        "position": "152"
     },
     {
         "card_name": "Silk Wraith",
@@ -952,12 +952,12 @@
         "position": "138"
     },
     {
-        "card_name": "Cloverstag",
-        "number": 159,
-        "shape": "adventure",
+        "card_name": "Vengeful Soul",
+        "number": 188,
+        "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "146"
+        "position": "167"
     },
     {
         "card_name": "Thread Storm",
@@ -992,12 +992,12 @@
         "position": "142"
     },
     {
-        "card_name": "Harbone Elder",
-        "number": 163,
-        "shape": "normal",
+        "card_name": "Cloverstag",
+        "number": 160,
+        "shape": "adventure",
         "set": "SLK",
         "rotated": false,
-        "position": "149"
+        "position": "146"
     },
     {
         "card_name": "Tragedy of Widow",
@@ -1032,12 +1032,12 @@
         "position": "113"
     },
     {
-        "card_name": "Horned Pilgrim",
-        "number": 165,
-        "shape": "adventure",
+        "card_name": "Harbone Elder",
+        "number": 164,
+        "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "150"
+        "position": "149"
     },
     {
         "card_name": "Valorous Defense",
@@ -1072,12 +1072,12 @@
         "position": "115"
     },
     {
-        "card_name": "Last Claw",
+        "card_name": "Horned Pilgrim",
         "number": 166,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "SLK",
         "rotated": false,
-        "position": "151"
+        "position": "150"
     },
     {
         "card_name": "Bellhart Greeter",
@@ -1112,12 +1112,12 @@
         "position": "108"
     },
     {
-        "card_name": "Massive Mossgrub",
-        "number": 169,
+        "card_name": "Last Claw",
+        "number": 167,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "153"
+        "position": "151"
     },
     {
         "card_name": "Choir Clapper",
@@ -1152,12 +1152,12 @@
         "position": "129"
     },
     {
-        "card_name": "Overgrown Pilgrim",
-        "number": 172,
-        "shape": "adventure",
+        "card_name": "Massive Mossgrub",
+        "number": 170,
+        "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "156"
+        "position": "153"
     },
     {
         "card_name": "Choir Elder",
@@ -1192,12 +1192,12 @@
         "position": "119"
     },
     {
-        "card_name": "Pale Hunt",
+        "card_name": "Overgrown Pilgrim",
         "number": 173,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "SLK",
         "rotated": false,
-        "position": "164"
+        "position": "156"
     },
     {
         "card_name": "Cogwork Crawler",
@@ -1232,12 +1232,12 @@
         "position": "120"
     },
     {
-        "card_name": "Putrid Ductsucker",
+        "card_name": "Pale Hunt",
         "number": 174,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "148"
+        "position": "164"
     },
     {
         "card_name": "Dreg Husk",
@@ -1272,12 +1272,12 @@
         "position": "121"
     },
     {
-        "card_name": "Putrid Rot",
+        "card_name": "Putrid Ductsucker",
         "number": 175,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "165"
+        "position": "148"
     },
     {
         "card_name": "Grand Reed",
@@ -1312,12 +1312,12 @@
         "position": "123"
     },
     {
-        "card_name": "Splinter",
-        "number": 183,
+        "card_name": "Putrid Rot",
+        "number": 176,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "159"
+        "position": "165"
     },
     {
         "card_name": "Parry and Riposte",
@@ -1352,12 +1352,12 @@
         "position": "118"
     },
     {
-        "card_name": "Warding Bell",
-        "number": 189,
+        "card_name": "Splinter",
+        "number": 184,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "143"
+        "position": "159"
     },
     {
         "card_name": "Pharlid",
@@ -1392,12 +1392,12 @@
         "position": "141"
     },
     {
-        "card_name": "Weary Pilgrim",
+        "card_name": "Warding Bell",
         "number": 190,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "160"
+        "position": "143"
     },
     {
         "card_name": "Running in Circles",
@@ -1432,7 +1432,12 @@
         "position": "111"
     },
     {
-        "card_name": "e"
+        "card_name": "Weary Pilgrim",
+        "number": 191,
+        "shape": "normal",
+        "set": "SLK",
+        "rotated": false,
+        "position": "160"
     },
     {
         "card_name": "Save the Threadspun Town",
@@ -1539,7 +1544,7 @@
     "a->gold",
     {
         "card_name": "Ballador, Last Conductor",
-        "number": 191,
+        "number": 192,
         "shape": "adventure",
         "set": "SLK",
         "rotated": false,
@@ -1547,7 +1552,7 @@
     },
     {
         "card_name": "Crawfather, Lord and Justice",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1555,7 +1560,7 @@
     },
     {
         "card_name": "Tormented Trobbio",
-        "number": 210,
+        "number": 212,
         "shape": "adventure",
         "set": "SLK",
         "rotated": false,
@@ -1563,7 +1568,7 @@
     },
     {
         "card_name": "Father of the Flame",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1571,7 +1576,7 @@
     },
     {
         "card_name": "Shakra, Wielding Rings",
-        "number": 206,
+        "number": 207,
         "shape": "adventure",
         "set": "SLK",
         "rotated": false,
@@ -1579,7 +1584,7 @@
     },
     {
         "card_name": "Crest of the Hunter",
-        "number": 223,
+        "number": 225,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1587,7 +1592,7 @@
     },
     {
         "card_name": "Craw Memento",
-        "number": 220,
+        "number": 222,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1595,7 +1600,7 @@
     },
     {
         "card_name": "Plasmified Zango",
-        "number": 236,
+        "number": 238,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1603,7 +1608,7 @@
     },
     {
         "card_name": "Crest of the Beast",
-        "number": 222,
+        "number": 224,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1611,7 +1616,7 @@
     },
     {
         "card_name": "Shrine Guardian Seth",
-        "number": 239,
+        "number": 241,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1619,7 +1624,7 @@
     },
     {
         "card_name": "Yumama",
-        "number": 247,
+        "number": 249,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1627,7 +1632,7 @@
     },
     {
         "card_name": "The Moorwing, Mite-Beast",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1635,7 +1640,7 @@
     },
     {
         "card_name": "Skull Tyrant",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1643,7 +1648,7 @@
     },
     {
         "card_name": "Savage Beastfly",
-        "number": 238,
+        "number": 240,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1651,7 +1656,7 @@
     },
     {
         "card_name": "Sherma, Peppy Pilgrim",
-        "number": 207,
+        "number": 208,
         "shape": "adventure",
         "set": "SLK",
         "rotated": false,
@@ -1659,7 +1664,7 @@
     },
     {
         "card_name": "Cogwork Heart",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1667,7 +1672,7 @@
     },
     {
         "card_name": "Tallcraw Juror",
-        "number": 242,
+        "number": 244,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1675,7 +1680,7 @@
     },
     {
         "card_name": "Skull Tyrant's Rampage",
-        "number": 240,
+        "number": 242,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1683,7 +1688,7 @@
     },
     {
         "card_name": "Gurr the Outcast",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1691,7 +1696,7 @@
     },
     {
         "card_name": "Pilgrimage's End",
-        "number": 234,
+        "number": 236,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1699,7 +1704,7 @@
     },
     {
         "card_name": "Choir Maestro",
-        "number": 214,
+        "number": 216,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1707,7 +1712,7 @@
     },
     {
         "card_name": "Vaultkeeper's Melody",
-        "number": 244,
+        "number": 246,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1715,7 +1720,7 @@
     },
     {
         "card_name": "Plasmid",
-        "number": 235,
+        "number": 237,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1723,7 +1728,7 @@
     },
     {
         "card_name": "Fractured Mask",
-        "number": 228,
+        "number": 230,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1731,7 +1736,7 @@
     },
     {
         "card_name": "Gahlia",
-        "number": 229,
+        "number": 231,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1739,7 +1744,7 @@
     },
     {
         "card_name": "Cogwork Defender",
-        "number": 217,
+        "number": 219,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1753,7 +1758,7 @@
     },
     {
         "card_name": "Graceful Skirmish",
-        "number": 230,
+        "number": 232,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1779,7 +1784,7 @@
     },
     {
         "card_name": "Phantom, Stretched Thin",
-        "number": 205,
+        "number": 206,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1787,7 +1792,7 @@
     },
     {
         "card_name": "Fourth Chorus",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1795,7 +1800,7 @@
     },
     {
         "card_name": "Groal the Great",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1803,7 +1808,7 @@
     },
     {
         "card_name": "Last Judge",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1811,7 +1816,7 @@
     },
     {
         "card_name": "Green Prince of Verdania",
-        "number": 198,
+        "number": 199,
         "shape": "transform double faced",
         "set": "SLK",
         "rotated": false,
@@ -1819,7 +1824,7 @@
     },
     {
         "card_name": "Crest of the Reaper",
-        "number": 224,
+        "number": 226,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1827,7 +1832,7 @@
     },
     {
         "card_name": "The Chorus Project",
-        "number": 215,
+        "number": 217,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1835,7 +1840,7 @@
     },
     {
         "card_name": "Crest of the Witch",
-        "number": 225,
+        "number": 227,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1843,7 +1848,7 @@
     },
     {
         "card_name": "Bell Beast, Trusty Transport",
-        "number": 213,
+        "number": 215,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1851,7 +1856,7 @@
     },
     {
         "card_name": "Nuu, Creature Collector",
-        "number": 233,
+        "number": 235,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1859,7 +1864,7 @@
     },
     {
         "card_name": "Twisted End",
-        "number": 243,
+        "number": 245,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1867,7 +1872,7 @@
     },
     {
         "card_name": "Crest of the Architect",
-        "number": 221,
+        "number": 223,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1875,7 +1880,7 @@
     },
     {
         "card_name": "Roach Tenders' Rounds",
-        "number": 237,
+        "number": 239,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1883,7 +1888,7 @@
     },
     {
         "card_name": "Synchronized Flight",
-        "number": 209,
+        "number": 211,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1891,7 +1896,7 @@
     },
     {
         "card_name": "Mossberry Hunt",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1899,7 +1904,7 @@
     },
     {
         "card_name": "The Unravelled",
-        "number": 212,
+        "number": 214,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1907,7 +1912,7 @@
     },
     {
         "card_name": "Twelfth Architect",
-        "number": 211,
+        "number": 213,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1915,7 +1920,7 @@
     },
     {
         "card_name": "Fallen into Muckmaggots",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1923,7 +1928,7 @@
     },
     {
         "card_name": "Karaka Guards",
-        "number": 231,
+        "number": 233,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1931,7 +1936,7 @@
     },
     {
         "card_name": "Verdanirs",
-        "number": 245,
+        "number": 247,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1939,7 +1944,7 @@
     },
     {
         "card_name": "Whiteward Mortician",
-        "number": 246,
+        "number": 248,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1947,7 +1952,7 @@
     },
     {
         "card_name": "Cogfly",
-        "number": 216,
+        "number": 218,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1955,7 +1960,7 @@
     },
     {
         "card_name": "Lugoli, Disgraced Chef",
-        "number": 232,
+        "number": 234,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1963,7 +1968,7 @@
     },
     {
         "card_name": "Coral Furm",
-        "number": 218,
+        "number": 220,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1971,7 +1976,7 @@
     },
     {
         "card_name": "Escalion",
-        "number": 227,
+        "number": 229,
         "shape": "adventure",
         "set": "SLK",
         "rotated": false,
@@ -1979,7 +1984,7 @@
     },
     {
         "card_name": "Dregwheel",
-        "number": 226,
+        "number": 228,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1987,7 +1992,7 @@
     },
     {
         "card_name": "Corrcrust Karaka",
-        "number": 219,
+        "number": 221,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1995,7 +2000,7 @@
     },
     {
         "card_name": "Stilkin Trappers",
-        "number": 241,
+        "number": 243,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2024,22 +2029,27 @@
     },
     {
         "card_name": "Hornet, Pale Hunter",
-        "number": 201,
+        "number": 202,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
         "position": "187"
     },
     {
+        "card_name": "The Snail Shamans",
+        "number": 210,
+        "shape": "normal",
+        "set": "SLK",
+        "rotated": false,
+        "position": "291"
+    },
+    {
         "card_name": "Crest of the Shaman",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
         "position": "289"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2062,7 +2072,7 @@
     "a->colorless",
     {
         "card_name": "The Threefold Statues",
-        "number": 261,
+        "number": 263,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2078,7 +2088,7 @@
     },
     {
         "card_name": "Crest of the Wanderer",
-        "number": 250,
+        "number": 252,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2086,7 +2096,7 @@
     },
     {
         "card_name": "Drifter's Cloak",
-        "number": 251,
+        "number": 253,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2094,7 +2104,7 @@
     },
     {
         "card_name": "Needolin",
-        "number": 255,
+        "number": 257,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2102,7 +2112,7 @@
     },
     {
         "card_name": "Pollip Pouch",
-        "number": 256,
+        "number": 258,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2118,7 +2128,7 @@
     },
     {
         "card_name": "Magnetite Dice",
-        "number": 254,
+        "number": 256,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2126,7 +2136,7 @@
     },
     {
         "card_name": "Rosary Cannon",
-        "number": 257,
+        "number": 259,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2134,7 +2144,7 @@
     },
     {
         "card_name": "Sands of Karak Bench",
-        "number": 258,
+        "number": 260,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2142,7 +2152,7 @@
     },
     {
         "card_name": "Watcher at the Edge",
-        "number": 262,
+        "number": 264,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2150,7 +2160,7 @@
     },
     {
         "card_name": "Cogworkers",
-        "number": 248,
+        "number": 250,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2158,7 +2168,7 @@
     },
     {
         "card_name": "Craftmetal",
-        "number": 249,
+        "number": 251,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2166,7 +2176,7 @@
     },
     {
         "card_name": "Fine Pin",
-        "number": 252,
+        "number": 254,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2174,7 +2184,7 @@
     },
     {
         "card_name": "Injector Band",
-        "number": 253,
+        "number": 255,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2182,7 +2192,7 @@
     },
     {
         "card_name": "Shakra's Compass",
-        "number": 259,
+        "number": 261,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2190,7 +2200,7 @@
     },
     {
         "card_name": "Shardillard",
-        "number": 260,
+        "number": 262,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2198,7 +2208,7 @@
     },
     {
         "card_name": "Weavelight",
-        "number": 263,
+        "number": 265,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2225,7 +2235,7 @@
     "a->land",
     {
         "card_name": "Bellhart",
-        "number": 264,
+        "number": 266,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2233,7 +2243,7 @@
     },
     {
         "card_name": "Mount Fay",
-        "number": 280,
+        "number": 282,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2241,7 +2251,7 @@
     },
     {
         "card_name": "The Slab",
-        "number": 285,
+        "number": 287,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2249,7 +2259,7 @@
     },
     {
         "card_name": "Coral Tower",
-        "number": 271,
+        "number": 273,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2257,7 +2267,7 @@
     },
     {
         "card_name": "Shellwood",
-        "number": 284,
+        "number": 286,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2280,7 +2290,7 @@
     },
     {
         "card_name": "High Halls",
-        "number": 276,
+        "number": 278,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2288,7 +2298,7 @@
     },
     {
         "card_name": "Craw Lake",
-        "number": 272,
+        "number": 274,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2296,7 +2306,7 @@
     },
     {
         "card_name": "The Marrow",
-        "number": 278,
+        "number": 280,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2304,7 +2314,7 @@
     },
     {
         "card_name": "Hunter's March",
-        "number": 277,
+        "number": 279,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2312,7 +2322,7 @@
     },
     {
         "card_name": "Pilgrim's Rest",
-        "number": 281,
+        "number": 283,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2320,7 +2330,7 @@
     },
     {
         "card_name": "Choral Chambers",
-        "number": 268,
+        "number": 270,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2328,7 +2338,7 @@
     },
     {
         "card_name": "Greymoor",
-        "number": 275,
+        "number": 277,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2336,7 +2346,7 @@
     },
     {
         "card_name": "Wormways",
-        "number": 290,
+        "number": 292,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2344,7 +2354,7 @@
     },
     {
         "card_name": "Far Fields",
-        "number": 274,
+        "number": 276,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2352,7 +2362,7 @@
     },
     {
         "card_name": "Bone Bottom",
-        "number": 267,
+        "number": 269,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2375,7 +2385,7 @@
     },
     {
         "card_name": "Whiteward",
-        "number": 289,
+        "number": 291,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2383,7 +2393,7 @@
     },
     {
         "card_name": "Cogwork Core",
-        "number": 270,
+        "number": 272,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2391,7 +2401,7 @@
     },
     {
         "card_name": "Bilewater",
-        "number": 265,
+        "number": 267,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2399,7 +2409,7 @@
     },
     {
         "card_name": "Sands of Karak",
-        "number": 283,
+        "number": 285,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2407,7 +2417,7 @@
     },
     {
         "card_name": "Verdanian Temple",
-        "number": 287,
+        "number": 289,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2415,7 +2425,7 @@
     },
     {
         "card_name": "Underworks",
-        "number": 286,
+        "number": 288,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2423,7 +2433,7 @@
     },
     {
         "card_name": "Deep Docks",
-        "number": 273,
+        "number": 275,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2431,7 +2441,7 @@
     },
     {
         "card_name": "Putrified Ducts",
-        "number": 282,
+        "number": 284,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2439,7 +2449,7 @@
     },
     {
         "card_name": "Blasted Steps",
-        "number": 266,
+        "number": 268,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2447,7 +2457,7 @@
     },
     {
         "card_name": "Moss Grotto",
-        "number": 279,
+        "number": 281,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2470,7 +2480,7 @@
     },
     {
         "card_name": "Citadel of Song",
-        "number": 269,
+        "number": 271,
         "shape": "transform double faced",
         "set": "SLK",
         "rotated": false,
@@ -2478,7 +2488,7 @@
     },
     {
         "card_name": "Weavenest Atla",
-        "number": 288,
+        "number": 290,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
