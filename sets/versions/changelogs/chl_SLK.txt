@@ -1,4 +1,590 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Flea Brew added.
+The Cogwork Dancers added.
+Pimpillo added.
+Silkshot added.
+Plasmium Phial added.
+Wreath of Purity added.
+Statue of Hope added.
+Ventrica Station added.
+
+Sermon in the Vaults removed.
+Silk Cocoon removed.
+Cogwork Dancers removed.
+Overgrown Plasmidas removed.
+Revolt of the Stilkin removed.
+Weavelight removed.
+
+Cogwork Crawler
+rules_text: Whenever this creature attacks or blocks, if you control another artifact, it gets +2/+1 until end of turn. => Lifelink
+This creature's toughness is equal to the number of artifacts you control.
+pt: 2/3 => 2/*
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Choir Minister
+
+Cogwork Clapper
+
+Cogwork Cleanser
+
+Cogwork Spine
+
+Karak Gor
+
+Fay Mnemonid
+
+Fay Mnemonord
+
+Servitor Boran
+
+Servitor Ignim
+
+Silk Snipper
+
+Squatcraw
+
+Thread Raker
+
+Vault Lampbearer
+
+Vault Scrollreader
+
+Hardened Legacy
+
+Out in the Cold
+
+Cross Stitch
+
+Frigid Attunement
+
+Difficult Delivery
+
+Lost to History
+
+Refute Heresy
+
+Tracked and Taken
+
+Fayforn, Oracle of the Mount
+
+The Last Pinstress
+
+Pious Isamor
+
+Relic Seeker Scrounge
+
+Vaultkeeper Cardinius
+
+Zylotol, Plasmium Alchemist
+
+Architects' Melody
+
+Song's Authority
+
+Roach Guts
+
+Silk Siphon
+
+The Bell Hermit
+
+Slab Broodmother
+
+Drapelord
+
+Gargant Gloom
+rules_text: Menace
+At the beginning of your upkeep, create a 1/1 black Insect Horror creature token with flying and “Whenever this creature deals combat damage to a player, sacrifice it.”
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Menace
+At the beginning of your upkeep, create a 1/1 black Insect Horror creature token with flying and “This creature can't block. Whenever it deals combat damage to a player, sacrifice it.”
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Burrowing Grom
+
+Muckroach
+
+Old Penitent
+
+Penitent Prisoner
+
+Rowdy Roachkeeper
+
+Shadow Charger
+
+Slab Guardfly
+
+Snitchfly
+
+Spit Squit
+
+Stilkin Hunter
+rules_text: Flying, menace, lifelink
+Ward—Sacrifice an artifact or pay {2}.
+When this creature attacks, mill a card. => Flying, lifelink
+Ward—Sacrifice an artifact or pay {2}.
+When this creature attacks, mill a card.
+
+Undersweep
+
+Void Mass
+
+Slab Wardenfly
+
+Whiteward Surgeon
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Great Taste of Pharloom
+
+Infestation Operation
+
+Overworked
+
+Penance By Constriction
+
+Rune Rage
+
+Sister of the Void
+
+Threaded Black
+
+Bell Eater, Bellveins' Blight
+
+Crull and Benjin, Retired
+
+Loam, Cog in the Machine
+
+Lace, Lost to the Void
+
+Skynx, Holding Face
+
+Elegy of the Deep
+
+Tragedy of Phantom
+
+Barbed Bracelet
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Double all damage equipped creature would deal and be dealt.
+{2}, {T}, Remove a charge counter from this Equipment: Equipped creature gets +1/+0 and gains trample until end of turn.
+Equip—{1}, Pay 3 life. => [i](Tools enter with three charge counters on them.)[/i]
+Double all damage equipped creature would deal and be dealt.
+Whenever equipped creature attacks, you may remove a charge counter from this Equipment. If you do, equipped creature gains trample until end of turn.
+Equip—{1}, Pay 3 life.
+
+Curveclaw
+
+Diving Bell
+
+Claw Mirrors
+
+Voltridian
+
+Burning Bugs
+
+Cogwork Hauler
+
+Covetous Pilgrim
+
+Crustcrag
+
+Deep Diver
+
+Flintbeetle
+
+Smokerock Sifter
+
+Lavalarga
+
+Mottled Skarr
+
+Skarrgard
+
+Skarr Scout
+
+Skull Brute
+
+Smelt Shoveller
+pt: 4/2 => 3/2
+
+Red Memory
+
+Order of Karak
+
+Explosive Retribution
+
+Fiery Annihilation
+
+Flintflame Explosion
+
+Target Practice
+
+Workshop Hazard
+
+Forebrothers Signis and Gron
+
+Forge Daughter
+
+Hornet, Red Maiden
+
+Loddie the Ladybug
+
+The First Seamstress
+
+Trobbio, Dazzling Dancer
+
+Voltvyrm, Charged Coil
+
+Beastling Call
+
+Skarr Ambush
+
+Tool Barrage
+
+Work Orders
+
+Warding Bell
+
+Barnak
+
+Bone Bottom Merchant
+rules_text: [i]Pilgrimage[/i] — {1}, {T}: Reveal the top card of your library. If it's a creature card, put it into your hand and create a Treasure token. Activate only if you control six or mroe lands. => [i]Pilgrimage[/i] — {1}, {T}: Surveil 1. If you put a creature card into your graveyard this way, return it to your hand and create a Treasure token. Activate only if you control six or more lands.
+
+Cloverstag
+
+Crawling Craggler
+
+Putrid Ductsucker
+
+Harbone Elder
+
+Horned Pilgrim
+
+Last Claw
+
+Thrashing Marrowmaw
+
+Massive Mossgrub
+
+Moss Druid
+
+Moss Mother
+
+Overgrown Pilgrim
+
+Rhinogrund
+
+Skarr Stalker
+
+Splinter
+
+Weary Pilgrim
+
+Fading Voice
+
+Survive My Gauntlet
+
+Lost Couriers
+
+Pale Hunt
+
+Putrid Rot
+
+Vengeful Soul
+
+Clover Dancers
+
+Gilly, Perfectly Disguised
+
+Reed, the Last Pondcatcher
+
+Shakra, Defender of Bellhart
+
+Sister Splinter
+
+Vog, Hunter Flea
+
+Longclaw
+
+Seek the Old Hearts
+
+Trail's End
+
+Cogwork Heart
+
+Synchronized Flight
+
+Fallen into Muckmaggots
+
+Ballador, Last Conductor
+
+Crawfather, Lord and Justice
+
+Father of the Flame
+
+Fourth Chorus
+
+Green Prince of Verdania
+
+Groal the Great
+
+Gurr the Outcast
+
+Hornet, Pale Hunter
+
+Last Judge
+
+The Moorwing, Mite-Beast
+
+Phantom, Stretched Thin
+
+Shakra, Wielding Rings
+
+Sherma, Peppy Pilgrim
+
+The Unravelled
+
+Tormented Trobbio
+
+Twelfth Architect
+
+Mossberry Hunt
+
+Skull Tyrant's Rampage
+
+Cogfly
+
+Craw Memento
+
+Fractured Mask
+
+Cogwork Defender
+
+Coral Furm
+
+Dregwheel
+
+Escalion
+
+Gahlia
+
+Karaka Guards
+
+Choir Maestro
+
+Plasmid
+
+Savage Beastfly
+
+Skull Tyrant
+
+Stilkin Trappers
+
+Tallcraw Juror
+
+Verdanirs
+
+Whiteward Mortician
+
+Roach Tenders' Rounds
+
+Graceful Skirmish
+
+Bell Beast, Trusty Transport
+
+Lugoli, Disgraced Chef
+
+Nuu, Creature Collector
+
+Shrine Guardian Seth
+pt: 3/3 => 2/3
+
+Plasmified Zango
+
+Pilgrimage's End
+
+The Chorus Project
+
+Twisted End
+
+The Threefold Statues
+
+Craftmetal
+
+Drifter's Cloak
+
+Fine Pin
+
+Injector Band
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 for each creature and artifact card in your graveyard.
+{T}, Remove a charge counter from this artifact and sacrifice another nonland permanent: Draw a card.
+Equip {3} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 for each card type among cards in your graveyard.
+{1}, {T}, Remove a charge counter from this artifact and sacrifice another nonland permanent: You lose 1 life and draw a card.
+Equip {3}
+
+Needolin
+
+Pollip Pouch
+
+Rosary Cannon
+
+Sands of Karak Bench
+
+Shakra's Compass
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +3/+3 and has vigilance as long as you control six or more lands.
+{2}, {T}, Remove a charge counter from this artifact: Search your library for a basic land card, put it into your hand, then shuffle. Activate only if this Equipment is attached to a creature.
+Equip {1} => [i](Tools enter with three charge counters on them.)[/i]
+[i]Pilgrimage[/i] — Equipped creature gets +2/+2 and has vigilance as long as you control six or more lands.
+Whenever equipped creature deals combat damage to a player, remove a charge counter from this artifact. When you do, search your library for a basic land card, put it into your hand, then shuffle.
+Equip {2}
+
+Watcher at the Edge
+
+Cogworkers
+
+Shardillard
+
+Winged Furm
+
+Greyroot, Servant of the Rite
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Weavenest Atla
+
+Wormways
+
+Citadel of Song
+
+Bilewater
+
+Cogwork Core
+
+Craw Lake
+
+High Halls
+
+Hunter's March
+
+Pilgrim's Rest
+
+Sands of Karak
+
+The Marrow
+
+Verdanian Temple
+
+Whiteward
+
+Sherma, Devout Caretaker
+
+Corrcrust Karaka
+
+Yumama
+
+Grand Confrontation
+
+Vaultkeeper's Melody
+
+Eva, Discarded Weaverspawn
+
+Flitting Pendragor
+
+Grindle, Snivelling Swindler
+
+Sandcarver Pit
+
+Magnetite Dice
+
+Roachserver
+
+Strung to Serve
+
+Dark Descent
+rules_text: Exile all graveyards. Each player discards their hand, then draws that many cards minus one. For each nonland card discarded this way, return a creature exiled this way onto the battlefield under your control. => Exile all graveyards. Each player discards their hand, then draws that many cards minus one. For each nonland card discarded this way, put a creature card exiled this way onto the battlefield under your control.
+
+The Everbloom
+
+Hoker
+
+Bellhart
+
+Mount Fay
+
+The Slab
+
+Coral Tower
+
+Shellwood
+
+Crest of the Wanderer
+
+Crest of the Hunter
+
+Crest of the Architect
+
+Crest of the Witch
+
+Crest of the Reaper
+
+Crest of the Beast
+
+Crest of the Shaman
+
+The Chapel Maid
+
+The Snail Shamans
+
+
+VERSION 14 CHANGELOG
 ====================
 
 The Bell Hermit added.
