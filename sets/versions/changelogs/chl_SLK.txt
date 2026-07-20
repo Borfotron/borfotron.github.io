@@ -1,4 +1,594 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Ventrica Tube added.
+Songclave Merchant added.
+Mooshka, the Fleamaster added.
+Psalm Cylinder added.
+
+Tragedy of Widow removed.
+Valorous Defense removed.
+Tragedy of Phantom removed.
+Ventrica Station removed.
+
+Silken Cradle
+rules_text: When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+As long as you control three or more Silk tokens, this artifact has indestructible. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+As long as you control three or more Silk, this artifact has indestructible.
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Caretaker of Songclave
+
+Flick, the Fixer
+
+Garmond and Zaza
+
+Grand Mother Silk
+rules_text: Indestructible
+Grand Mother Silk isn't a creature unless you control three or more Silk tokens.
+Whenever a creature attacks you, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i]
+Sacrifice two other Silk: When target creature you control dies this turn, return it to the battlefield under your control. => Indestructible
+Grand Mother Silk isn't a creature unless you control three or more Silk tokens.
+Whenever one or more creatures attack you, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i]
+Sacrifice two other Silk: When target creature you control dies this turn, return it to the battlefield under your control.
+
+Lace, Daughter of Silk
+
+Pinmaster Plinney
+rules_text: At the beginning of combat on your turn, put a +1/+1 counter on each of up to two other target creatures you control.
+{T}: Another target modified creature you control gains protection from the color of your choice until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => At the beginning of combat on your turn, put a +1/+1 counter on each of up to two other target creatures you control.
+Modified creatures you control have vigilance. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Widow, Threading the Needle
+
+Ecstasy of the End
+
+Spun Deep
+type: Sorcery => Sorcery — Song
+cost: {3}{W} => {1}{W}
+rules_text: Create three 1/1 white Insect artifact creature tokens. Then if you control five or more creatures, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => [i](Sing only one Song per turn.)[/i]
+Create two 1/1 white Insect artifact creature tokens.
+Flashback—{1}{W}{W}, Create a Silk token. [i](You may cast this card from your graveyard for its flashback cost. Then exile it. It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Architects' Puzzle
+
+Memory Crystal
+
+Multibinder
+
+School of Kai
+
+Choir Minister
+
+Cogwork Clapper
+
+Cogwork Cleanser
+
+Cogwork Spine
+
+Karak Gor
+
+Fay Mnemonid
+
+Fay Mnemonord
+
+Servitor Boran
+
+Servitor Ignim
+
+Silk Snipper
+
+Squatcraw
+
+Thread Raker
+
+Vault Lampbearer
+
+Vault Scrollreader
+
+Hardened Legacy
+
+Out in the Cold
+
+Cross Stitch
+
+Frigid Attunement
+
+Difficult Delivery
+
+Lost to History
+
+Refute Heresy
+
+Tracked and Taken
+
+The Cogwork Dancers
+
+Fayforn, Oracle of the Mount
+
+The Last Pinstress
+
+Pious Isamor
+
+Relic Seeker Scrounge
+
+Vaultkeeper Cardinius
+
+Zylotol, Plasmium Alchemist
+
+Architects' Melody
+
+Song's Authority
+
+Roach Guts
+
+Silk Siphon
+
+The Bell Hermit
+
+Slab Broodmother
+
+Drapelord
+
+Gargant Gloom
+
+Burrowing Grom
+
+Muckroach
+
+Old Penitent
+
+Penitent Prisoner
+
+Rowdy Roachkeeper
+
+Shadow Charger
+
+Slab Guardfly
+
+Snitchfly
+
+Spit Squit
+
+Stilkin Hunter
+
+Undersweep
+
+Void Mass
+
+Slab Wardenfly
+
+Whiteward Surgeon
+
+First of the First
+
+Great Taste of Pharloom
+
+Infestation Operation
+type: Instant => Sorcery
+
+Overworked
+
+Penance By Constriction
+
+Rune Rage
+
+Sister of the Void
+
+Threaded Black
+
+Bell Eater, Bellveins' Blight
+
+Crull and Benjin, Retired
+
+Loam, Cog in the Machine
+
+Lace, Lost to the Void
+
+Skynx, Holding Face
+
+Elegy of the Deep
+
+Barbed Bracelet
+
+Curveclaw
+
+Diving Bell
+
+Claw Mirrors
+
+Voltridian
+
+Burning Bugs
+
+Cogwork Hauler
+
+Covetous Pilgrim
+
+Crustcrag
+
+Deep Diver
+
+Flintbeetle
+
+Smokerock Sifter
+
+Lavalarga
+
+Mottled Skarr
+
+Skarrgard
+
+Skarr Scout
+
+Skull Brute
+
+Smelt Shoveller
+
+Red Memory
+
+Order of Karak
+
+Explosive Retribution
+
+Fiery Annihilation
+
+Flintflame Explosion
+
+Target Practice
+
+Workshop Hazard
+
+Forebrothers Signis and Gron
+
+Forge Daughter
+
+Hornet, Red Maiden
+
+Loddie the Ladybug
+
+The First Seamstress
+
+Trobbio, Dazzling Dancer
+
+Voltvyrm, Charged Coil
+
+Beastling Call
+
+Skarr Ambush
+
+Tool Barrage
+
+Work Orders
+
+Warding Bell
+
+Barnak
+
+Bone Bottom Merchant
+
+Cloverstag
+
+Crawling Craggler
+
+Putrid Ductsucker
+
+Harbone Elder
+
+Horned Pilgrim
+
+Last Claw
+
+Thrashing Marrowmaw
+
+Massive Mossgrub
+
+Moss Druid
+
+Moss Mother
+
+Overgrown Pilgrim
+
+Rhinogrund
+
+Skarr Stalker
+
+Splinter
+
+Weary Pilgrim
+
+Fading Voice
+
+Survive My Gauntlet
+
+Lost Couriers
+
+Pale Hunt
+
+Putrid Rot
+
+Vengeful Soul
+
+Clover Dancers
+
+Gilly, Perfectly Disguised
+
+Reed, the Last Pondcatcher
+
+Shakra, Defender of Bellhart
+
+Sister Splinter
+
+Vog, Hunter Flea
+
+Longclaw
+
+Seek the Old Hearts
+
+Trail's End
+
+Cogwork Heart
+
+Synchronized Flight
+
+Fallen into Muckmaggots
+
+Ballador, Last Conductor
+
+Crawfather, Lord and Justice
+
+Father of the Flame
+
+Fourth Chorus
+
+Green Prince of Verdania
+
+Groal the Great
+
+Gurr the Outcast
+
+Hornet, Pale Hunter
+
+Last Judge
+
+The Moorwing, Mite-Beast
+
+Phantom, Stretched Thin
+
+Shakra, Wielding Rings
+
+Sherma, Peppy Pilgrim
+
+The Unravelled
+
+Tormented Trobbio
+
+Twelfth Architect
+
+Mossberry Hunt
+
+Skull Tyrant's Rampage
+
+Cogfly
+
+Craw Memento
+
+Fractured Mask
+
+Cogwork Defender
+
+Coral Furm
+
+Dregwheel
+
+Escalion
+
+Gahlia
+
+Karaka Guards
+
+Choir Maestro
+
+Plasmid
+
+Savage Beastfly
+
+Skull Tyrant
+
+Stilkin Trappers
+
+Tallcraw Juror
+
+Verdanirs
+
+Whiteward Mortician
+
+Roach Tenders' Rounds
+
+Graceful Skirmish
+
+Bell Beast, Trusty Transport
+
+Lugoli, Disgraced Chef
+
+Nuu, Creature Collector
+
+Shrine Guardian Seth
+
+Plasmified Zango
+
+Pilgrimage's End
+
+The Chorus Project
+
+Twisted End
+
+The Threefold Statues
+
+Craftmetal
+
+Drifter's Cloak
+
+Fine Pin
+
+Injector Band
+
+Needolin
+
+Pollip Pouch
+
+Rosary Cannon
+
+Sands of Karak Bench
+
+Shakra's Compass
+
+Watcher at the Edge
+
+Cogworkers
+
+Shardillard
+
+Winged Furm
+
+Greyroot, Servant of the Rite
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Weavenest Atla
+
+Wormways
+
+Citadel of Song
+
+Bilewater
+
+Cogwork Core
+
+Craw Lake
+
+High Halls
+
+Hunter's March
+
+Pilgrim's Rest
+
+Sands of Karak
+
+The Marrow
+
+Verdanian Temple
+
+Whiteward
+
+Sherma, Devout Caretaker
+
+Corrcrust Karaka
+
+Yumama
+
+Grand Confrontation
+
+Vaultkeeper's Melody
+
+Eva, Discarded Weaverspawn
+
+Flitting Pendragor
+
+Grindle, Snivelling Swindler
+
+Sandcarver Pit
+
+Magnetite Dice
+
+Roachserver
+
+Strung to Serve
+
+Dark Descent
+
+The Everbloom
+
+Hoker
+
+Bellhart
+
+Mount Fay
+
+The Slab
+
+Coral Tower
+
+Shellwood
+
+Crest of the Wanderer
+
+Crest of the Hunter
+
+Crest of the Architect
+
+Crest of the Witch
+
+Crest of the Reaper
+
+Crest of the Beast
+
+Crest of the Shaman
+
+The Chapel Maid
+
+The Snail Shamans
+
+Pimpillo
+
+Silkshot
+
+Plasmium Phial
+
+Wreath of Purity
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Creatures you control have ward {3} as long as this Equipment has a charge counter on it. At the beginning of your upkeep, remove a charge counter from this Equipment.
+Equipped creature gets +3/+3 and has vigilance.
+Equip {1}{G} => [i](Tools enter with three charge counters on them.)[/i]
+Creatures you control get +1/+1 and have ward {2} as long as this Equipment has a charge counter on it. At the beginning of your upkeep, remove a charge counter from this Equipment.
+Equipped creature gets +3/+3 and has vigilance.
+Equip {1}{G}
+
+Statue of Hope
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Flea Brew added.
