@@ -30,7 +30,7 @@
 			<name>Silken Cradle</name>
 			<text>When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
 As long as you control three or more Silk, this artifact has indestructible.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/1.png" num="37">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/1.png" num="38">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -261,7 +261,7 @@ Whenever you cast a Song spell, put a +1/+1 counter on this creature.</text>
 		<card>
 			<name>Pharlid</name>
 			<text>When this creature enters, create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/13.png" num="28">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/13.png" num="29">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -283,7 +283,7 @@ Whenever you cast a Song spell, put a +1/+1 counter on this creature.</text>
 
 (Sing only one Song per turn.)
 Pilgrimage — Creatures you control get +1/+1 until end of turn. Then if you control six or more lands, put a +1/+1 counter on up to one target creature you control.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/14.png" num="30">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/14.png" num="31">SLK</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -303,7 +303,7 @@ Pilgrimage — Creatures you control get +1/+1 until end of turn. Then if you co
 At the beginning of your upkeep, if this card is in your graveyard, you may sacrifice a creature or artifact. If you do, return this card from your graveyard to your hand.
 {1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered
 this turn.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/15.png" num="36">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/15.png" num="37">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -365,7 +365,7 @@ Whenever a land or another Plant enters under your control, put a +1/+1 counter 
 			<name>Pilby&apos;s Funeral</name>
 			<text>Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
 Pilgrimage — {1}{W}: Create two 1/1 white Insect creature tokens. Activate only if you control six or more lands, and only once.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/17.png" num="29">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/17.png" num="30">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -383,7 +383,7 @@ Pilgrimage — {1}{W}: Create two 1/1 white Insect creature tokens. Activate onl
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block.
 {6}: Exile enchanted creature, then return it to the battlefield under your control. It&apos;s a Silk artifact and loses all other card types. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/18.png" num="32">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/18.png" num="33">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -435,7 +435,7 @@ Equip {2}</text>
 			<name>Parry and Riposte</name>
 			<text>Kicker—{2}, Sacrifice an artifact or creature. (You may pay an additional {2} and sacrifice an artifact or creature as you cast this spell.)
 Target creature you control gets +2/+1 and gains first strike until end of turn. If this spell was kicked, it deals 4 damage to target attacking or blocking creature.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/21.png" num="27">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/21.png" num="28">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -453,7 +453,7 @@ Target creature you control gets +2/+1 and gains first strike until end of turn.
 			<text>Choose one —
 • Save the Threadspun Town deals damage equal to the number of creatures you control to target creature.
 • Destroy target artifact with mana value 3 or less.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/22.png" num="34">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/22.png" num="35">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -579,7 +579,7 @@ Whenever Lace deals combat damage, put your choice of a +1/+1 counter or charge 
 			<name>Pinmaster Plinney</name>
 			<text>At the beginning of combat on your turn, put a +1/+1 counter on each of up to two other target creatures you control.
 Modified creatures you control have vigilance. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/29.png" num="31">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/29.png" num="32">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -630,18 +630,18 @@ Flashback—Each opponent creates two 1/1 white Insect creature tokens. (You may
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Spun Deep</name>
+			<name>Oath of the Whiteward</name>
 			<text>(Sing only one Song per turn.)
-Create two 1/1 white Insect artifact creature tokens.
-Flashback—{1}{W}{W}, Create a Silk token. (You may cast this card from your graveyard for its flashback cost. Then exile it. It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/32.png" num="39">SLK</set>
+Create two 2/2 white Insect artifact creature tokens.
+Flashback—{3}{W}{W}, Create a Silk token. (You may cast this card from your graveyard for its flashback cost. Then exile it. It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/32.png" num="27">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery — Song</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -4791,7 +4791,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Sherma, Devout Caretaker</name>
 			<text>Whenever another creature you control enters, put a +1/+1 counter on it.</text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/256.png" num="35">SLK</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/256.png" num="36">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4958,7 +4958,7 @@ Verdant — When Grindle enters, create a number of Treasure tokens equal to the
 			<name>Sandcarver Pit</name>
 			<text>Verdant — When this artifact enters, create X 1/1 white Insect creature tokens, where X is twice the number of colors among permanents you control.
 {2}{W}, {T}, Tap X untapped creatures you control and sacrifice this artifact: Exile target creature with mana value X or less. You gain X life. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/264.png" num="33">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/264.png" num="34">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5420,7 +5420,7 @@ Crew 2</text>
 		<card>
 			<name>Songclave Merchant</name>
 			<text>Pilgrimage — {1}, {T}: Surveil 1. If you put a creature card into your graveyard this way, create two 1/1 green Insect creature tokens and a Treasure token. Activate only if you control six or more lands.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/291.png" num="38">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/291.png" num="39">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

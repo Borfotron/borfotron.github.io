@@ -1,4 +1,12 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Oath of the Whiteward added.
+
+Spun Deep removed.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Ventrica Tube added.

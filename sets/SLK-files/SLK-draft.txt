@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/1.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Spider",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Silk Wraith",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/15.png"
 			}
@@ -182,7 +182,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/17.png"
 			}
@@ -192,7 +192,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/18.png"
 			}
@@ -222,7 +222,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/21.png"
 			}
@@ -232,7 +232,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/22.png"
 			}
@@ -302,7 +302,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Insect Artificer",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/29.png"
 			}
@@ -328,11 +328,11 @@
 			}
 		},
 		{
-			"name": "Spun Deep",
+			"name": "Oath of the Whiteward",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Sorcery — Song",
-			"collector_number": "39",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/32.png"
 			}
@@ -2614,7 +2614,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Insect Cleric",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/256.png"
 			}
@@ -2701,7 +2701,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Artifact",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/264.png"
 			}
@@ -2971,7 +2971,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Insect Peasant",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/291.png"
 			}
@@ -3218,7 +3218,7 @@
 	8 Running in Circles
 	8 Parry and Riposte
 	8 Save the Threadspun Town
-	8 Spun Deep
+	8 Oath of the Whiteward
 	8 Architects' Puzzle
 	8 Cogwork Spine
 	8 Servitor Ignim
@@ -3307,7 +3307,7 @@
 	8 Running in Circles
 	8 Parry and Riposte
 	8 Save the Threadspun Town
-	8 Spun Deep
+	8 Oath of the Whiteward
 	8 Architects' Puzzle
 	8 Cogwork Spine
 	8 Servitor Ignim
@@ -3417,7 +3417,7 @@
 	6 Pinmaster Plinney
 	2 Widow, Threading the Needle
 	2 Ecstasy of the End
-	12 Spun Deep
+	12 Oath of the Whiteward
 	12 Architects' Puzzle
 	6 Memory Crystal
 	6 Multibinder
@@ -3712,7 +3712,7 @@
 	15 Pinmaster Plinney
 	7 Widow, Threading the Needle
 	7 Ecstasy of the End
-	6 Spun Deep
+	6 Oath of the Whiteward
 	6 Architects' Puzzle
 	15 Memory Crystal
 	15 Multibinder
