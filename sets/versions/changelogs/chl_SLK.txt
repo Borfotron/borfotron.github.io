@@ -1,4 +1,211 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Silkfly Chorus added.
+Vaultkeeper's Shell added.
+Revolt of the Stilkin added.
+
+Song's Authority removed.
+Psalm Cylinder removed.
+
+Choir Elder
+
+Choir Hornhead
+
+Choir Procession
+
+Bellhart Greeter
+rules_text: [i]Pilgrimage[/i] [i]— [/i]This creature has vigilance and lifelink as long as you control six or more lands.
+Whenever you cast a Song spell, put a +1/+1 counter on this creature. => [i]Pilgrimage[/i] [i]— [/i]This creature has vigilance as long as you control six or more lands.
+Whenever you cast a Song spell, put a +1/+1 counter on this creature.
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II, III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II, III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Caretaker of Songclave
+rules_text: {T}, Sacrifice another creature or artifact: Target creature gains protection from the color of your choice until end of turn.
+[i]Pilgrimage[/i] — As long as you control six or more lands, once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard. => {T}, Sacrifice another creature or artifact: Another target creature gains protection from the color of your choice until end of turn.
+[i]Pilgrimage[/i] — As long as you control six or more lands, once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.
+
+Oath of the Whiteward
+rules_text: [i](Sing only one Song per turn.)[/i]
+Create two 2/2 white Insect artifact creature tokens.
+Flashback—{3}{W}{W}, Create a Silk token. [i](You may cast this card from your graveyard for its flashback cost. Then exile it. It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => [i](Sing only one Song per turn.)[/i]
+Create two 2/2 white Insect artifact creature tokens. Then if you control four or more creatures, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Cogwork Cleanser
+rules_text: Artifact spells you cast cost {1} less to cast.
+Whenever another nontoken artifact you control enters, surveil 1. => Artifact spells you cast cost {1} less to cast.
+When this creature enters, surveil 1.
+pt: 2/1 => 1/2
+
+Fay Mnemonid
+type: Artifact Creature — Elemental Insect => Creature — Elemental Insect
+cost: {1}{U} => {3}{U}
+rules_text: Flying
+When this creature dies, if it had no counters on it, return it to the battlefield tapped with two stun counters on it.
+{2}{U}, Discard this card: Tap target creature and put two stun counters on it. => Flying
+When this creature enters, create a Coldshard token. [i](It's an artifact with “{T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+pt: 2/1 => 3/3
+
+Fay Mnemonord
+type: Artifact Creature — Elemental Insect => Creature — Elemental Insect
+rules_text: This spell costs {1} less to cast for each tapped creature your opponents control.
+Flying
+When this creature enters, return up to one target tapped creature to its owner's hand. => This spell costs {1} less to cast for each tapped creature your opponents control.
+Flying
+When this creature enters, return up to one target creature to its owner's hand.
+
+Silk Snipper
+
+Squatcraw
+rules_text: Flying
+When this creature attacks, you may tap an untapped artifact you control. If you do, surveil 2. => Flying
+Whenever this creature attacks, surveil 1. If you control three or more artifacts, surveil 2 instead.
+
+Thread Raker
+rules_text: Flash
+This creature enters tapped if it's not your turn.
+When this creature enters, tap up to two target creatures and put a stun counter on each of them.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Flash
+When this creature enters, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Vault Lampbearer
+
+Vault Scrollreader
+
+The Cogwork Dancers
+pt: 1/2 => 1/1
+
+Fayforn, Oracle of the Mount
+rules_text: Flash
+Flying
+When Fayforn enters, tap up to two target creatures and distribute two stun counters as you choose among them.
+Whenever one or more counters are removed from a permanent, if it has no other counters of the same type on it, you may draw a card. => Flying
+When Fayforn enters, create two Coldshard tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+Whenever one or more counters are removed from a permanent, if it has no other counters of the same type on it, you may draw a card.
+
+Gargant Gloom
+pt: 2/6 => 2/5
+
+Smelt Shoveller
+rules_text: Haste
+{2}{R}: Put a +1/+1 counter on this creature or a charge counter on target artifact. Activate only as a sorcery. => Haste
+
+Flintflame Explosion
+
+Trobbio, Dazzling Dancer
+
+Fallen into Muckmaggots
+cost: {1}{B}{G} => {2}{B}{G}
+rules_text: Mill five cards. You may put a permanent card from among them into your hand.
+Up to one target creature gets -2/-2 until end of turn. => Mill five cards. You may put a permanent card from among them into your hand. Up to one target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.
+
+Roach Tenders' Rounds
+cost: {1}{BG}{BG} => {2}{BG}{BG}
+rules_text: When this enchantment enters, surveil 3.
+Whenever a creature card is put into your graveyard from anywhere, you lose 1 life.
+At the beginning of your end step, return a creature card at random from your graveyard to your hand. You gain life equal to its mana value. => When this enchantment enters, surveil 3.
+Whenever a creature card is put into your graveyard from anywhere, you lose 1 life.
+At the beginning of your end step, return a creature card at random from your graveyard to your hand.
+
+Bell Beast, Trusty Transport
+rules_text: When Bell Beast attacks while saddles, search your library for a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.
+Saddle 2 [i](Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i] => When Bell Beast attacks while saddled, search your library for a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.
+Saddle 2 [i](Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i]
+
+The Threefold Statues
+cost: {6} => {5}
+
+Drifter's Cloak
+rules_text: When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1 and has flying.
+Whenever equipped creature attacks, draw a card.
+Equip {2} => When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1, has flying, and can only block creatures with flying.
+Whenever equipped creature attacks, draw a card.
+Equip {3}
+
+Rosary Cannon
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, you may sacrifice an artifact. If you do, it gets +3/+3 until end of turn.
+{1}, {T}, Remove a charge counter from this Equipment: Create a Treasure token.
+Equip—Sacrifice an artifact or pay {2}. => [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, you may sacrifice another artifact. If you do, it gets +3/+3 until end of turn.
+{1}, {T}, Remove a charge counter from this Equipment: Create a Treasure token.
+Equip—Sacrifice an artifact or pay {2}.
+
+Shardillard
+rules_text: Flying
+{T}: Put your choice of a +1/+1 counter or charge counter on another target artifact. => Flying
+{1}, {T}: Put your choice of a +1/+1 counter or charge counter on another target artifact.
+
+Bilewater
+type: Land — Swamp Forest => Land
+
+Cogwork Core
+type: Land — Island Mountain => Land
+
+Craw Lake
+type: Land — Island Swamp => Land
+
+High Halls
+type: Land — Plains Island => Land
+
+Hunter's March
+type: Land — Mountain Forest => Land
+
+Pilgrim's Rest
+type: Land — Forest Plains => Land
+
+Sands of Karak
+type: Land — Mountain Plains => Land
+
+The Marrow
+type: Land — Swamp Mountain => Land
+
+Verdanian Temple
+type: Land — Forest Island => Land
+
+Whiteward
+type: Land — Plains Swamp => Land
+
+Mount Fay
+rules_text: You may have this land enter tapped. If you do, when it enters, put a stun counter on target tapped creature.
+{T}, Pay 1 life: Add {U}. => You may have this land enter tapped. If you do, when it enters, create a Coldshard token. [i](It's an artifact with “{T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+{T}, Pay 1 life: Add {U}.
+
+Pimpillo
+rules_text: When this Equipment enters, destroy up to one target creature or artifact.
+Equipped creature gets +1/+1 and has “Whenever this creature attacks, it deals 1 damage to target opponent.”
+Equip {3} => When this Equipment enters, destroy up to one target creature or artifact. Its controller creates a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Equipped creature gets +1/+1 and has “Whenever this creature attacks, it deals 1 damage to target opponent.”
+Equip {3}
+
+Statue of Hope
+type: Artifact => Artifact Creature — Sculpture
+rules_text: At the beginning of your upkeep, put a +1/+1 counter on this artifact and surveil 1. If it's not a creature, it becomes a 0/0 Construct artifact creature. => At the beginning of your upkeep, if this creature has three or more counters on it, surveil 1 and create a 1/1 green Insect creature token.
+pt:  => 2/3
+
+Ventrica Tube
+pt: 5/5 => 6/6
+
+
+VERSION 19 CHANGELOG
 ====================
 
 No changes.
