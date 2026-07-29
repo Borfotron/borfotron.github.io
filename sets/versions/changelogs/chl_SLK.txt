@@ -1,4 +1,372 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Scrounge, Relic Seeker added.
+Penitent Prisoners added.
+Hardbone Elder added.
+Passing of the Age added.
+The Great Herald added.
+Shear Force added.
+
+Relic Seeker Scrounge removed.
+Penitent Prisoner removed.
+Harbone Elder removed.
+Cogworkers removed.
+
+Choir Clapper
+rules_text: Vigilance
+[i]Landfall[/i] — When Choir Clapper enters and whenever a land you control enters, other creatures you control get +1/+1 and gain vigilance until end of turn. => Vigilance
+When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{W}, Exile this card from your graveyard: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+pt: 4/4 => 4/5
+
+Choir Elder
+
+Cogwork Crawler
+rules_text: Lifelink
+This creature's toughness is equal to the number of artifacts you control. => Lifelink
+Whenever this creature blocks, if you control two or more other artifacts, it gets +2/+1 until end of turn.
+pt: 2/* => 2/3
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II, III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II, III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Running in Circles
+rules_text: Enchant creature
+Enchanted creature can't attack or block.
+{6}: Exile enchanted creature, then return it to the battlefield under your control. It's a Silk artifact and loses all other card types. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Enchant creature
+Enchanted creature can't attack or block.
+{6}, Sacrifice this Aura: Exile enchanted creature, then create a 1/1 white Insect Silk artifact creature token with flying and “{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn.” Activate only during your turn.
+
+Garmond and Zaza
+rules_text: Vigilance
+When Garmond and Zaza enter or attack, reveal the top card of your library. If it's a land card, put it into your hand. Otherwise, create a 1/1 green Insect creature token. => Vigilance
+When Garmond and Zaza enter or attack, reveal the top card of your library. If it's a land card, put it into your hand. Otherwise, create a 1/1 green Insect Peasant creature token.
+
+Architects' Puzzle
+rules_text: When this artifact enters, surveil 1, then draw a card.
+{2}{U}{U}, Sacrifice this artifact: Surveil 2, then draw two cards. => When this artifact enters, surveil 1, then draw a card.
+{2}{U}{U}, Sacrifice this artifact: Surveil 1, then draw two cards.
+
+Cogwork Spine
+rules_text: Flying
+Whenever you cast your first noncreature spell each turn, surveil 1. => Flash
+Flying
+Whenever you cast a Song spell, this creature gets +1/+1 until end of turn.
+
+Fay Mnemonid
+rules_text: Flying
+When this creature enters, create a Coldshard token. [i](It's an artifact with “{T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i] => Flying
+When this creature enters, create a Coldshard token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Put a stun counter on target tapped creature. Activate only as a sorcery.”)[/i]
+
+Squatcraw
+rules_text: Flying
+Whenever this creature attacks, surveil 1. If you control three or more artifacts, surveil 2 instead. => Flying
+This creature enters tapped unless you control an artifact.
+
+Cross Stitch
+cost: {1}{U}{U} => {1}{U}
+rules_text: Counter target spell. Tap up to one target creature and put a stun counter on it. => Choose one—
+• Counter target spell unless its controller pays {2}.
+• Tap target creature and put two stun counters on it.
+
+Lost to History
+rules_text: The owner of target creature, artifact, or nonbasic land puts it into their library second from the top or on the bottom. You create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => The owner of target creature or artifact puts it into their library second from the top or on the bottom. You create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+The Bell Hermit
+rules_text: Whenever a player or permanent becomes the target of an ability you control, surveil 1 and create a 1/1 green Insect creature token. This ability triggers only once each turn. => Whenever a player or permanent becomes the target of an ability you control, surveil 2 and create a 1/1 green Insect Peasant creature token. This ability triggers only once each turn.
+
+Drapelord
+rules_text: Flying
+Whenever this creature deals combat damage to a player, you may sacrifice another creature or artifact. If you don't, you lose 3 life. => Flying
+When this creature enters, you lose 3 life unless you sacrifice another creature or artifact.
+
+Gargant Gloom
+rules_text: Menace
+At the beginning of your upkeep, create a 1/1 black Insect Horror creature token with flying and “This creature can't block. Whenever it deals combat damage to a player, sacrifice it.”
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Menace
+At the beginning of your upkeep, you lose 1 life and create a 1/1 black Insect Horror creature token with flying and “This creature can't block.”
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Burrowing Grom
+pt: 2/4 => 4/3
+
+Muckroach
+rules_text: Deathtouch
+{B}{B}, Sacrifice another creature or artifact: Target player loses 1 life and you gain 1 life. => Menace, deathtouch
+{1}{B}, Sacrifice another creature or artifact: Target player loses 1 life and you gain 1 life.
+
+Stilkin Hunter
+rules_text: Flying, lifelink
+Ward—Sacrifice an artifact or pay {2}.
+When this creature attacks, mill a card. => Flying, lifelink
+Ward—Pay 2 life.
+Whenever this creature attacks, mill a card.
+
+Undersweep
+rules_text: When this creature enters or dies, mill two cards.
+{3}: Exile target card from a graveyard. Surveil 1. Activate only once each turn. => When this creature enters or dies, you gain 2 life and mill two cards. When you do, exile up to one target card from a graveyard.
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Penance By Constriction
+rules_text: Exile target creature. If an opponent committed a crime this turn, create a Silk token. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime. It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Exile target creature. If you cast this spell during your main phase, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Lace, Lost to the Void
+rules_text: First strike, deathtouch
+Whenever Lace deals combat damage to a player, you may put a +1/+1 counter on her. If you do, each player discards their hand, then draws that many cards minus one.
+{1}, {T}: Lace phases out. Draw a card. Activate only if a creature entered this turn, and only if Lace has three or more counters on her. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => First strike, deathtouch
+Whenever Lace deals combat damage to a player, you may put a +1/+1 counter on her. If you do, each player discards their hand, then draws that many cards minus one.
+{1}, {T}: Lace phases out. Draw a card. Activate only if a creature entered this turn, and only if Lace has three or more counters on her. [i](Treat her and anything attached to her as though they don't exist until her controller's next turn.)[/i]
+pt: 2/2 => 1/1
+
+Curveclaw
+cost: {1}{R} => {R}
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 and has first strike during your turn.
+{T}, Remove a charge counter from this artifact: Equipped creature deals 1 damage to any target. [i](Activate only if this Equipment is attached to a creature.)[/i]
+Equip {2} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+0 and has first strike during your turn.
+Remove a charge counter from this Equipment: Target creature can't block this turn. Activate only once each turn.
+Equip {R}
+
+Mottled Skarr
+rules_text: Whenever this creature attacks alone, if it's modified, it gets +2/+2 and gains first strike until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => This creature has first strike as long as its attacking.
+Whenever this creature attacks, if it's modified, exile the top card of your library. You may play that card this turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Skarrgard
+pt: 7/3 => 6/3
+
+Workshop Hazard
+cost: {4}{R} => {3}{R}
+
+Tool Barrage
+rules_text: Kicker—{1}{R}. [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Target creature you control gets +2/+1 until end of turn. If this spell was kicked, exile the top two cards of your library. Until the end of your next turn, you may play those cards. => Kicker—{1}{R}. [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Put a +1/+1 counter on target creature you control. It gains haste until end of turn. If this spell was kicked, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+Putrid Ductsucker
+cost: {4}{G}{G} => {3}{G}{G}
+pt: 6/6 => 5/5
+
+Horned Pilgrim
+
+Massive Mossgrub
+rules_text: Trample
+This creature's power and toughness are each equal to the number of lands you control.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Vigilance
+This creature's power and toughness are each equal to twice the number of lands you control.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Moss Druid
+rules_text: [i]Landfall[/i] —Whenever a land you control enters, you gain 1 life and surveil 1.
+[i]Pilgrimage[/i] — As long as you control six or more lands, creatures you control have “Whenever this creature is dealt damage, create a Silk token.” [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => [i]Landfall[/i] —Whenever a land you control enters, you gain 1 life and surveil 1.
+[i]Pilgrimage[/i] — As long as you control six or more lands, creatures you control have “Whenever this creature is dealt damage, create a tapped Silk token.” [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Pale Hunt
+
+Putrid Rot
+type: Instant => Sorcery
+cost: {2}{G} => {1}{G}
+rules_text: Destroy target artifact, enchantment, or creature with flying. => Destroy target artifact, enchantment, or creature with flying. Surveil 1.
+
+Groal the Great
+rules_text: Ward—Sacrifice a creature or pay {2}.
+Groal gets +X/+0, where X is the number of creature cards in your graveyard. If X is 5 or more, Groal has flying.
+Groal has all ward abilities among other creatures you control. => Groal gets +X/+0, where X is the number of creature cards in your graveyard. If X is 5 or more, Groal has flying.
+Groal has all ward abilities among other permanents you control.
+
+Coral Furm
+rules_text: This creature enters with a +1/+1 counter on it,
+When this creature dies, put its counters on another target creature or artifact you control. If it's not a creature, it becomes a 0/0 Construct artifact creature in addition to its other types. => This creature enters with a +1/+1 counter on it.
+When this creature dies, put its counters on another target creature or artifact you control. If it's not a creature, it becomes a 0/0 Construct artifact creature in addition to its other types.
+
+Dregwheel
+rules_text: When this creature enters or dies, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => When this creature enters or dies, you lose 1 life and create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Plasmid
+pt: 5/1 => 4/1
+
+Pilgrimage's End
+rules_text: Create a 1/1 green Insect creature token for each land you control. => Create a 1/1 green Insect Peasant creature token for each land you control.
+
+Fine Pin
+cost: {3} => {4}
+rules_text: When this Equipment enters, create a 2/2 white Insect Soldier creature token, then attach this Equipment to it.
+Equipped creature gets +1/+1.
+Equip {3} => When this Equipment enters, create a 2/2 white Insect Soldier creature token, then attach this Equipment to it.
+Equipped creature gets +2/+1.
+Equip {3}
+
+Rosary Cannon
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, you may sacrifice another artifact. If you do, it gets +3/+3 until end of turn.
+{1}, {T}, Remove a charge counter from this Equipment: Create a Treasure token.
+Equip—Sacrifice an artifact or pay {2}. => [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, you may sacrifice another artifact. If you do, it gets +3/+3 until end of turn.
+{2}, Remove a charge counter from this Equipment: Create a Treasure token. Activate only as a sorcery, and only once each turn.
+Equip—Sacrifice an artifact or pay {2}.
+
+Shardillard
+
+Winged Furm
+
+Greyroot, Servant of the Rite
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Weavenest Atla
+
+Wormways
+
+Citadel of Song
+
+Bilewater
+
+Cogwork Core
+
+Craw Lake
+
+High Halls
+
+Hunter's March
+
+Pilgrim's Rest
+
+Sands of Karak
+
+The Marrow
+
+Verdanian Temple
+
+Whiteward
+
+Sherma, Devout Caretaker
+
+Corrcrust Karaka
+pt: 4/2 => 3/2
+
+Yumama
+
+Grand Confrontation
+
+Vaultkeeper's Melody
+
+Eva, Discarded Weaverspawn
+
+Flitting Pendragor
+
+Grindle, Snivelling Swindler
+
+Sandcarver Pit
+
+Magnetite Dice
+
+Roachserver
+
+Strung to Serve
+
+Dark Descent
+
+The Everbloom
+
+Hoker
+
+Bellhart
+
+Mount Fay
+
+The Slab
+
+Coral Tower
+
+Shellwood
+
+Crest of the Wanderer
+
+Crest of the Hunter
+
+Crest of the Architect
+
+Crest of the Witch
+
+Crest of the Reaper
+
+Crest of the Beast
+
+Crest of the Shaman
+
+The Chapel Maid
+
+The Snail Shamans
+
+Pimpillo
+
+Silkshot
+
+Plasmium Phial
+
+Wreath of Purity
+
+Statue of Hope
+rules_text: At the beginning of your upkeep, if this creature has three or more counters on it, surveil 1 and create a 1/1 green Insect creature token. => {5}, {T}: Create a 1/1 green Insect Peasant creature token. This ability costs {1} less to activate for each other artifact you control.
+
+Ventrica Tube
+
+Songclave Merchant
+rules_text: [i]Pilgrimage[/i] — {1}, {T}: Surveil 1. If you put a creature card into your graveyard this way, create two 1/1 green Insect creature tokens and a Treasure token. Activate only if you control six or more lands. => [i]Pilgrimage[/i] — {1}, {T}: Surveil 1. If you put a creature card into your graveyard this way, create two 1/1 green Insect Peasant creature tokens and a Treasure token. Activate only if you control six or more lands.
+
+Mooshka, the Fleamaster
+
+Vaultkeeper's Shell
+
+Revolt of the Stilkin
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Silkfly Chorus added.
