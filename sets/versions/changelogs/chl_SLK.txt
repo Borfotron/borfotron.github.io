@@ -1,4 +1,287 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+silktoken added.
+randompilgrim added.
+silkfly added.
+flea added.
+phacia added.
+choristor added.
+artifacthusk added.
+sandcarver added.
+coldshard added.
+pin added.
+fishy added.
+deathtoucher added.
+spider added.
+gloomsac added.
+rosary added.
+karakasoldier added.
+hornetemblem added.
+karmelitaemblem added.
+skarrwarrior added.
+cloverdancer added.
+secondsentinel added.
+greatconchfly added.
+coggingflyerton added.
+food added.
+Karak Alita added.
+Halfway House Merchant added.
+Pilgrim Bellbearer added.
+
+
+Flea Caravan
+
+Choir Clapper
+
+Choir Elder
+cost: {3}{W} => {2}{W}
+rules_text: Flying
+When this creature enters, create a 1/1 white Insect creature token. => Flying
+When this creature enters, create a 1/1 green Insect Peasant creature token.
+pt: 2/3 => 2/1
+
+Choir Procession
+
+Pharlid
+
+Ancient Heart
+
+Pilby's Funeral
+rules_text: Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+[i]Pilgrimage[/i] — {1}{W}: Create two 1/1 white Insect creature tokens. Activate only if you control six or more lands, and only once. => Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+[i]Pilgrimage[/i] — {1}{W}: Create two 1/1 green Insect Peasant creature tokens. Activate only if you control six or more lands, and only once.
+
+Running in Circles
+
+Flea Brew
+
+Garmond and Zaza
+
+Grand Mother Silk
+
+Widow, Threading the Needle
+
+Ecstasy of the End
+
+Oath of the Whiteward
+
+Multibinder
+
+School of Kai
+
+Cogwork Clapper
+
+Fay Mnemonid
+
+Thread Raker
+
+Vault Scrollreader
+
+Lost to History
+
+Refute Heresy
+
+Tracked and Taken
+
+Fayforn, Oracle of the Mount
+rules_text: Flying
+When Fayforn enters, create two Coldshard tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+Whenever one or more counters are removed from a permanent, if it has no other counters of the same type on it, you may draw a card. => Flying
+When Fayforn enters, create two Coldshard tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+Whenever one or more counters are removed from a permanent, if it has no other counters of the same type on it, you may draw a card.
+
+The Last Pinstress
+
+Pious Isamor
+
+Scrounge, Relic Seeker
+
+Silkfly Chorus
+
+The Bell Hermit
+pt: 2/4 => 2/5
+
+Gargant Gloom
+
+Penitent Prisoners
+
+First of the First
+
+Great Taste of Pharloom
+rules_text: At the beginning of your first main phase, choose one that hasn't been chosen. Then if all options have been chosen, you lose the game:
+• [i]Mossberry Stew[/i] — Add two mana of any one color.
+• [i]Vintage Nectar[/i] — Create two 2/1 green Insect creature tokens.
+• [i]Courier's Rasher[/i] — Put up to one creature card from your hand or graveyard onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
+• [i]Crustnut [/i]— Destroy target creature.
+• [i]Pickled Muckmaggot[/i] — Each opponent loses 3 life. => At the beginning of your first main phase, choose one that hasn't been chosen. Then if all options have been chosen, you lose the game:
+• [i]Mossberry Stew[/i] — Add two mana of any one color.
+• [i]Vintage Nectar[/i] — Create two 2/2 white Insect Soldier creature tokens.
+• [i]Courier's Rasher[/i] — Put up to one creature card from your hand or graveyard onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
+• [i]Crustnut [/i]— Destroy target creature.
+• [i]Pickled Muckmaggot[/i] — Each opponent loses 3 life.
+
+Penance By Constriction
+
+Crull and Benjin, Retired
+
+Burning Bugs
+
+Covetous Pilgrim
+
+Red Memory
+
+Order of Karak
+rules_text: Warriors and Soldiers you control get +1/+0.
+At the beginning of combat on your turn, create a 1/1 white Insect Soldier creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. => Warriors and Soldiers you control get +1/+0.
+At the beginning of combat on your turn, create a 1/1 red Insect Soldier creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+
+Loddie the Ladybug
+
+Skarr Ambush
+rules_text: Choose one —
+• Skarr Ambush deals 5 damage to each creature.
+• Destroy all artifacts you don't control.
+• Create a 5/3 red Insect creature token with menace. It gains haste until end of turn. => Choose one —
+• Skarr Ambush deals 5 damage to each creature.
+• Destroy all artifacts you don't control.
+• Create a 5/3 red Insect Warrior creature token with menace. It gains haste until end of turn.
+
+Bone Bottom Merchant
+
+Horned Pilgrim
+rules_text: {T}: Add one mana of any color. => Whenever you cast a Song spell, untap this creature. It gains vigilance until end of turn.
+{T}: Add one mana of any color.
+
+Massive Mossgrub
+rules_text: Vigilance
+This creature's power and toughness are each equal to twice the number of lands you control.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => This creature's power and toughness are each equal to twice the number of lands you control.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Moss Druid
+
+Splinter
+cost: {1}{G} => {3}{G}
+rules_text: {3}{G}: This creature gets +3/+3 and gains reach until end of turn. => Flash
+When this creature enters,
+pt: 2/2 => 4/4
+
+Fading Voice
+
+Pale Hunt
+type: Instant => Sorcery
+cost: {2}{G} => {1}{G}
+rules_text: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put two +1/+1 counters on target creature you control. => [i]Pilgrimage[/i] — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, if you control six or more lands, put a +1/+1 counter on target creature you control.
+
+Clover Dancers
+rules_text: Vigilance
+[i]Verdant[/i] — When this creature enters, create X 3/2 green Insect Warrior creature tokens with vigilance, where X is twice the number of colors among permanents you control. => Vigilance
+[i]Verdant[/i] — When this creature enters, create X 3/2 green Insect Warrior creature tokens with vigilance, where X is 1 plus the number of colors among permanents you control.
+
+Cogwork Heart
+
+Synchronized Flight
+
+Ballador, Last Conductor
+
+Fourth Chorus
+
+Twelfth Architect
+
+Cogfly
+
+Dregwheel
+
+Choir Maestro
+
+Whiteward Mortician
+
+Lugoli, Disgraced Chef
+
+Pilgrimage's End
+
+Fine Pin
+
+Rosary Cannon
+
+Sands of Karak Bench
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Wormways
+
+Citadel of Song
+
+Yumama
+
+Grand Confrontation
+
+Eva, Discarded Weaverspawn
+
+Grindle, Snivelling Swindler
+
+Sandcarver Pit
+
+Magnetite Dice
+
+Hoker
+
+Bellhart
+rules_text: You may have this land enter tapped. If you do, when it enters, create a 1/1 white Insect creature token.
+{T}, Pay 1 life: Add {W}. => You may have this land enter tapped. If you do, when it enters, create a 1/1 green Insect Peasant creature token.
+{T}, Pay 1 life: Add {W}.
+
+Mount Fay
+rules_text: You may have this land enter tapped. If you do, when it enters, create a Coldshard token. [i](It's an artifact with “{T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+{T}, Pay 1 life: Add {U}. => You may have this land enter tapped. If you do, when it enters, create a Coldshard token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+{T}, Pay 1 life: Add {U}.
+
+Crest of the Architect
+
+Crest of the Reaper
+rules_text: Crest — Reveal a hand of no creature cards. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
+{T}, Pay 3 life: Create a 1/1 colorless Plant creature token. => Crest — Reveal a hand of no creature cards. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
+{T}, Pay 3 life: Create a 1/1 white Insect Plant creature token.
+
+Pimpillo
+
+Silkshot
+
+Statue of Hope
+
+Songclave Merchant
+
+Mooshka, the Fleamaster
+
+The Great Herald
+cost: {6}{G} => {4}{G}{G}
+rules_text:  => Vigilance
+When The Great Herald enters, you may cast a copy of his Song without paying its mana cost, and as though you hadn't cast a Song this turn.
+pt:  => 7/7
+
+Shear Force
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Scrounge, Relic Seeker added.
