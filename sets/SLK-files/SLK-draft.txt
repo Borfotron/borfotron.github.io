@@ -2417,7 +2417,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/237.png"
 			}
@@ -2427,7 +2427,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "288",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/238.png"
 			}
@@ -2437,7 +2437,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/239.png"
 			}
@@ -2447,7 +2447,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "297",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/240.png"
 			}
@@ -2457,7 +2457,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "299",
+			"collector_number": "296",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/241.png"
 			}
@@ -2467,7 +2467,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "301",
+			"collector_number": "298",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/242.png"
 			}
@@ -2524,7 +2524,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/247.png"
 			}
@@ -2534,7 +2534,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "286",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/248.png"
 			}
@@ -2544,7 +2544,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "291",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/249.png"
 			}
@@ -2554,7 +2554,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "293",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/250.png"
 			}
@@ -2564,7 +2564,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "287",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/251.png"
 			}
@@ -2574,7 +2574,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "298",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/252.png"
 			}
@@ -2584,7 +2584,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "300",
+			"collector_number": "297",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/253.png"
 			}
@@ -2751,7 +2751,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "289",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/269.png"
 			}
@@ -2761,7 +2761,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "295",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/270.png"
 			}
@@ -2781,7 +2781,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "294",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/272.png"
 			}
@@ -3281,7 +3281,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "302",
+			"collector_number": "299",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/322.png"
 			}
@@ -3291,7 +3291,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "303",
+			"collector_number": "300",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/323.png"
 			}
@@ -3301,7 +3301,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "296",
+			"collector_number": "301",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/324.png"
 			}
@@ -3311,7 +3311,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "290",
+			"collector_number": "302",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/325.png"
 			}
@@ -3321,7 +3321,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "283",
+			"collector_number": "303",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/326.png"
 			}

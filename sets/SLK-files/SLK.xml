@@ -1712,8 +1712,8 @@ Whenever an opponent commits a crime, you gain 1 life.</text>
 		<card>
 			<name>First of the First</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Create a 1/2 white Spider token with reach.
-II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
 IV — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): First Sinner, Absolution Denied</text>
@@ -4532,7 +4532,7 @@ As this creature enters, choose a color. This creature is the chosen color.
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
 {3}, {T}, Sacrifice this land: Create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/237.png" num="284">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/237.png" num="283">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4550,7 +4550,7 @@ As this creature enters, choose a color. This creature is the chosen color.
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 {3}, {T}, Sacrifice this land: Create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/238.png" num="288">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/238.png" num="287">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4568,7 +4568,7 @@ As this creature enters, choose a color. This creature is the chosen color.
 			<text>This land enters tapped.
 {T}: Add {B} or {G}.
 {3}, {T}, Sacrifice this land: Create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/239.png" num="292">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/239.png" num="290">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4586,7 +4586,7 @@ As this creature enters, choose a color. This creature is the chosen color.
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 {3}, {T}, Sacrifice this land: Create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/240.png" num="297">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/240.png" num="294">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4603,7 +4603,7 @@ As this creature enters, choose a color. This creature is the chosen color.
 			<name>Weavenest Atla</name>
 			<text>{T}: Add {C}.
 {4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/241.png" num="299">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/241.png" num="296">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4619,7 +4619,7 @@ As this creature enters, choose a color. This creature is the chosen color.
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 {3}, {T}, Sacrifice this land: Create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/242.png" num="301">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/242.png" num="298">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4726,7 +4726,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 			<name>High Halls</name>
 			<text>{T}: Add {C}.
 {T}: Add {W} or {U}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/247.png" num="285">SLK</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/247.png" num="284">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4742,7 +4742,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 			<name>Hunter&apos;s March</name>
 			<text>{T}: Add {C}.
 {T}: Add {R} or {G}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/248.png" num="286">SLK</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/248.png" num="285">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4758,7 +4758,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 			<name>Pilgrim&apos;s Rest</name>
 			<text>{T}: Add {C}.
 {T}: Add {G} or {W}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/249.png" num="291">SLK</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/249.png" num="289">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4774,7 +4774,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 			<name>Sands of Karak</name>
 			<text>{T}: Add {C}.
 {T}: Add {R} or {W}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/250.png" num="293">SLK</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/250.png" num="291">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4790,7 +4790,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 			<name>The Marrow</name>
 			<text>{T}: Add {C}.
 {T}: Add {B} or {R}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/251.png" num="287">SLK</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/251.png" num="286">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4806,7 +4806,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 			<name>Verdanian Temple</name>
 			<text>{T}: Add {C}.
 {T}: Add {G} or {U}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/252.png" num="298">SLK</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/252.png" num="295">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4822,7 +4822,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 			<name>Whiteward</name>
 			<text>{T}: Add {C}.
 {T}: Add {W} or {B}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/253.png" num="300">SLK</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/253.png" num="297">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5130,7 +5130,7 @@ Equip {3}</text>
 			<name>Mount Fay</name>
 			<text>You may have this land enter tapped. If you do, when it enters, create a Coldshard token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.&quot;)
 {T}, Pay 1 life: Add {U}.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/269.png" num="289">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/269.png" num="288">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5147,7 +5147,7 @@ Equip {3}</text>
 			<name>The Slab</name>
 			<text>You may have this land enter tapped. If you do, when it enters, exile up to three target cards from graveyards.
 {T}, Pay 1 life: Add {B}.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/270.png" num="295">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/270.png" num="293">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5179,7 +5179,7 @@ Equip {3}</text>
 			<name>Shellwood</name>
 			<text>You may have this land enter tapped. If you do, when it enters, put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
 {T}, Pay 1 life: Add {G}.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/272.png" num="294">SLK</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/272.png" num="292">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6060,7 +6060,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/322.png" num="302">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/322.png" num="299">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6075,7 +6075,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/323.png" num="303">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/323.png" num="300">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6090,7 +6090,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/324.png" num="296">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/324.png" num="301">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6105,7 +6105,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/325.png" num="290">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/325.png" num="302">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6120,7 +6120,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/326.png" num="283">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/326.png" num="303">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

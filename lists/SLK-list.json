@@ -2288,7 +2288,7 @@
     },
     {
         "card_name": "Mount Fay",
-        "number": 289,
+        "number": 288,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2296,7 +2296,7 @@
     },
     {
         "card_name": "The Slab",
-        "number": 295,
+        "number": 293,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2312,7 +2312,7 @@
     },
     {
         "card_name": "Shellwood",
-        "number": 294,
+        "number": 292,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2335,7 +2335,7 @@
     },
     {
         "card_name": "High Halls",
-        "number": 285,
+        "number": 284,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2351,7 +2351,7 @@
     },
     {
         "card_name": "The Marrow",
-        "number": 287,
+        "number": 286,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2359,7 +2359,7 @@
     },
     {
         "card_name": "Hunter's March",
-        "number": 286,
+        "number": 285,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2367,7 +2367,7 @@
     },
     {
         "card_name": "Pilgrim's Rest",
-        "number": 291,
+        "number": 289,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2383,7 +2383,7 @@
     },
     {
         "card_name": "Greymoor",
-        "number": 284,
+        "number": 283,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2391,7 +2391,7 @@
     },
     {
         "card_name": "Wormways",
-        "number": 301,
+        "number": 298,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2430,7 +2430,7 @@
     },
     {
         "card_name": "Whiteward",
-        "number": 300,
+        "number": 297,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2454,7 +2454,7 @@
     },
     {
         "card_name": "Sands of Karak",
-        "number": 293,
+        "number": 291,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2462,7 +2462,7 @@
     },
     {
         "card_name": "Verdanian Temple",
-        "number": 298,
+        "number": 295,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2470,7 +2470,7 @@
     },
     {
         "card_name": "Underworks",
-        "number": 297,
+        "number": 294,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2486,7 +2486,7 @@
     },
     {
         "card_name": "Putrified Ducts",
-        "number": 292,
+        "number": 290,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2502,7 +2502,7 @@
     },
     {
         "card_name": "Moss Grotto",
-        "number": 288,
+        "number": 287,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2533,7 +2533,7 @@
     },
     {
         "card_name": "Weavenest Atla",
-        "number": 299,
+        "number": 296,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2565,7 +2565,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 302,
+        "number": 299,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2573,7 +2573,7 @@
     },
     {
         "card_name": "Island",
-        "number": 303,
+        "number": 300,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2581,7 +2581,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 296,
+        "number": 301,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2589,7 +2589,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 290,
+        "number": 302,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2597,7 +2597,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 283,
+        "number": 303,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
