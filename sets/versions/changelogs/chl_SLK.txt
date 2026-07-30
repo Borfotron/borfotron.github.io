@@ -1,4 +1,352 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+
+Warding Bell removed.
+Shakra's Compass removed.
+
+Clawmaiden
+cost: {3}{W} => {2}{W}
+pt: 2/3 => 2/2
+
+Pharlid
+cost: {W} => {WB}
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Create two 1/1 green Insect Plant creature tokens.
+III — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Refute Heresy
+cost: {1}{U} => {1}{U}{U}
+rules_text: Counter target spell. Its controller creates a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Counter target spell.
+Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Great Taste of Pharloom
+rules_text: At the beginning of your first main phase, choose one that hasn't been chosen. Then if all options have been chosen, you lose the game:
+• [i]Mossberry Stew[/i] — Add two mana of any one color.
+• [i]Vintage Nectar[/i] — Create two 2/2 white Insect Soldier creature tokens.
+• [i]Courier's Rasher[/i] — Put up to one creature card from your hand or graveyard onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
+• [i]Crustnut [/i]— Destroy target creature.
+• [i]Pickled Muckmaggot[/i] — Each opponent loses 3 life. => At the beginning of your first main phase, choose one that hasn't been chosen. Then if all options have been chosen, you lose the game:
+• [i]Mossberry Stew[/i] — Add two mana of any one color.
+• [i]Vintage Nectar[/i] — Create two 2/2 white Insect Soldier creature tokens.
+• [i]Courier's Rasher[/i] — Put up to one creature card from your hand or graveyard onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
+• [i]Crustnut [/i]— Destroy target creature.
+• [i]Pickled Muckmaggot[/i] — Target opponent loses 3 life.
+
+Lavalarga
+rules_text: Reach
+At the beginning of your first main phase, put a +1/+1 counter on this creature. Then if it has two or more counters on it, remove all counters from it and it deals that much damage to each opponent. => Reach
+At the beginning of your first main phase, put a +1/+1 counter on this creature. Then if it has two or more counters on it, remove all counters from it and it deals that much damage to target opponent.
+
+Skarr Scout
+rules_text: As long as you control a creature with power 5 or greater, this creature has menace and haste.
+{T}: Add {R}. Use this mana only to cast an Equipment spell or activate an equip ability. => As long as you control a creature with power 5 or greater, this creature has double strike and haste.
+{T}: Add {R}. Use this mana only to cast an Equipment spell or activate an equip ability.
+
+Forebrothers Signis and Gron
+rules_text: Equipment you control have “Equip—Sacrifice a creature.”
+Whenever one or more other creature cards are put into your graveyard from anywhere, Signis and Gron deal 2 damage to each opponent. => Double strike
+Equipment you control have “Equip—Sacrifice a creature.”
+Whenever one or more other creature cards are put into your graveyard from anywhere, Signis and Gron deal 2 damage to target opponent.
+pt: 4/4 => 2/2
+
+Magnetite Dice
+cost: {4} => {1}{G}
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +2/+2.
+{1}, {T}, Remove a charge counter from this Equipment: Create a 2/2 white Insect Soldier creature token, then you may attach this Equipment to it.
+Equip {2} => [i](Tools enter with three charge counters on them.)[/i]
+Flash
+When this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.
+At the beginning of your upkeep, you may remove a charge counter from this Equipment. If you do, roll a d6. Put a +1/+1 counter on equipped creature, and an additional +1/+1 counter on it if you rolled a 6.
+Equip {4}
+
+Bone Bottom Merchant
+rules_text: [i]Pilgrimage[/i] — {1}, {T}: Surveil 1. If you put a creature card into your graveyard this way, return it to your hand and create a Treasure token. Activate only if you control six or more lands. => [i]Pilgrimage[/i] — When this creature enters, choose one. If you control six or more lands, choose both instead:
+• Creature spells you cast cost {1} less to cast until the end of your next turn.
+• Surveil 2. If you put one or more creature cards into your graveyard this way, put one of them into your hand.
+pt: 2/2 => 1/2
+
+Hardbone Elder
+rules_text: Reach
+Whenever one or more creatures and/or artifacts you control die, or one or more creatures and/or artifact cards you control are put into a graveyard from anywhere other than the battlefield, put a +1/+1 counter on this creature. => Reach
+Whenever one or more creatures and/or artifacts you control die, or one or more creatures and/or artifact cards are put into your graveyard from anywhere other than the battlefield, put a +1/+1 counter on this creature.
+
+Splinter
+rules_text: Flash
+When this creature enters, => Flash
+When this creature enters, put two +1/+1 counters on target creature you control. It gains reach until end of turn.
+pt: 4/4 => 1/2
+
+Pale Hunt
+cost: {1}{G} => {2}{G}
+rules_text: [i]Pilgrimage[/i] — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, if you control six or more lands, put a +1/+1 counter on target creature you control. => [i]Pilgrimage[/i] — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put two +1/+1 counters on target creature you control.
+
+Putrid Rot
+type: Sorcery => Instant
+rules_text: Destroy target artifact, enchantment, or creature with flying. Surveil 1. => Destroy target artifact, enchantment, or creature with flying.
+
+Shakra, Defender of Bellhart
+rules_text: Vigilance, trample, ward {2}
+Shakra enters with X +1/+1 counters on her. If X is 3 or more, search your library for a land card, put it onto the battlefield tapped, then shuffle. If X is 6 or more, she deals damage equal to her power to target creature you don't control. => Vigilance, trample
+Shakra enters with X +1/+1 counters on her. If X is 3 or more, search your library for a land card, put it onto the battlefield tapped, then shuffle. If X is 6 or more, she deals damage equal to her power to target creature you don't control.
+pt: 2/1 => 1/2
+
+Longclaw
+cost: {2}{G} => {1}{G}
+rules_text: When this Equipment enters, attach it to target creature you control. That creature deals damage equal to its power to up to one target creature you don't control.
+Equipped creature gets +1/+1 and has reach.
+Equip {2} => When this Equipment enters, attach it to target creature you control. That creature fights target creature you don't control.
+Equipped creature gets +0/+1 and has reach.
+Equip {2}
+
+Phantom, Stretched Thin
+rules_text: First strike
+When Phantom attacks, exile up to one target nonland card from a graveyard. Each opponent loses X life and you gain X life, where X is that card's mana value.
+{1}, Pay 2 life, Sacrifice an artifact or creature: Draw a card. Activate only if a creature entered this turn. => First strike
+When Phantom attacks, exile up to one target nonland card from a graveyard. Target opponent loses X life and you gain X life, where X is that card's mana value.
+{1}, Pay 2 life, Sacrifice an artifact or creature: Draw a card. Activate only if a creature entered this turn.
+
+Dregwheel
+type: Creature — Insect Zombie => Artifact Creature — Silk Zombie
+cost: {WB}{WB} => {W}
+rules_text: When this creature enters or dies, you lose 1 life and create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This creature enters tapped.
+When this creature dies, create a 2/2 white Insect artifact creature token.
+
+Escalion
+rules_text: Flash
+Vigilance
+When this creature enters, draw a card. => Flash
+When this creature enters, draw a card.
+pt: 3/4 => 4/4
+
+Stilkin Trappers
+rules_text: Flash
+Ward—Pay 2 life.
+When this creature enters or dies, surveil 1. => Flash
+Ward—Pay 2 life or pay {1}.
+When this creature enters or dies, surveil 1.
+
+Watcher at the Edge
+
+Shardillard
+
+Winged Furm
+
+Greyroot, Servant of the Rite
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Weavenest Atla
+
+Wormways
+
+Citadel of Song
+
+Bilewater
+
+Cogwork Core
+
+Craw Lake
+
+High Halls
+
+Hunter's March
+
+Pilgrim's Rest
+
+Sands of Karak
+
+The Marrow
+
+Verdanian Temple
+
+Whiteward
+
+Sherma, Devout Caretaker
+
+Corrcrust Karaka
+
+Yumama
+
+Grand Confrontation
+
+Vaultkeeper's Melody
+cost: {UB}{UB} => {UB}
+rules_text: [i](Sing only one Song per turn.)[/i]
+Surveil 1, then draw a card.
+Flashback—{UB}, Pay 3 life. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](Sing only one Song per turn.)[/i]
+Surveil 1, then draw a card.
+Flashback—{UB}{UB}, Pay 3 life. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Eva, Discarded Weaverspawn
+
+Flitting Pendragor
+
+Grindle, Snivelling Swindler
+
+Sandcarver Pit
+
+Roachserver
+
+Strung to Serve
+
+Dark Descent
+
+The Everbloom
+
+Hoker
+
+Bellhart
+
+Mount Fay
+
+The Slab
+
+Coral Tower
+
+Shellwood
+
+Crest of the Wanderer
+
+Crest of the Hunter
+
+Crest of the Architect
+
+Crest of the Witch
+
+Crest of the Reaper
+
+Crest of the Beast
+
+Crest of the Shaman
+
+The Chapel Maid
+
+The Snail Shamans
+
+Pimpillo
+
+Silkshot
+
+Plasmium Phial
+
+Wreath of Purity
+
+Statue of Hope
+rules_text: {5}, {T}: Create a 1/1 green Insect Peasant creature token. This ability costs {1} less to activate for each other artifact you control. => Whenever you cast a Song spell, create a 1/1 green Insect Peasant creature token.
+
+Ventrica Tube
+
+Songclave Merchant
+cost: {2}{W} => {3}{W}
+rules_text: [i]Pilgrimage[/i] — {1}, {T}: Surveil 1. If you put a creature card into your graveyard this way, create two 1/1 green Insect Peasant creature tokens and a Treasure token. Activate only if you control six or more lands. => [i]Pilgrimage[/i] — When this creature enters, choose one. If you control six or more lands, choose both instead:
+• Create a 1/1 green Insect Peasant creature token.
+• Put a +1/+1 counter on each other creature you control.
+pt: 3/2 => 3/3
+
+Mooshka, the Fleamaster
+
+Vaultkeeper's Shell
+
+Revolt of the Stilkin
+
+Passing of the Age
+
+The Great Herald
+pt: 7/7 => 5/6
+
+Shear Force
+
+silktoken
+
+randompilgrim
+
+silkfly
+
+flea
+
+phacia
+
+choristor
+
+artifacthusk
+
+sandcarver
+
+coldshard
+
+pin
+
+fishy
+
+deathtoucher
+
+spider
+
+gloomsac
+
+rosary
+
+karakasoldier
+
+hornetemblem
+
+karmelitaemblem
+
+skarrwarrior
+
+cloverdancer
+
+secondsentinel
+
+greatconchfly
+
+coggingflyerton
+
+food
+
+Karak Alita
+
+Halfway House Merchant
+rules_text: [i]Pilgrimage[/i] — This creature gets +2/+0 as long as you control six or more lands.
+Whenever this creature becomes blocked, create a Treasure token. => [i]Pilgrimage[/i] — When this creature enters, choose one. If you control six or more lands, choose both instead:
+• Create a Treasure token.
+• Target creature you control can't be blocked this turn if you control an artifact.
+
+Pilgrim Bellbearer
+
+
+VERSION 22 CHANGELOG
 ====================
 
 silktoken added.
