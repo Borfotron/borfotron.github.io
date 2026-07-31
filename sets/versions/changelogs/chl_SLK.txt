@@ -1,4 +1,95 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+
+
+Flea Brew
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, put a +1/+1 counter on it. Then, creatures you control with equal or lesser power gain first strike until end of turn.
+{W}, {T}, Remove a charge counter from this Equipment: Create a 1/1 white Insect creature token.
+Equip {2} => [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, put a +1/+1 counter on it. Then, creatures you control with equal or lesser power gain first strike until end of turn.
+{W}, Remove a charge counter from this Equipment: Create a 1/1 white Insect creature token.
+Equip {2}
+
+Memory Crystal
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +0/+2 and has vigilance.
+{1}, {T}, Remove a charge counter from this artifact: Create a token that's a copy of equipped creature, except it's 1/1. Activate only as a sorcery.
+Equip {2} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +0/+2 and has vigilance.
+{1}: Remove a charge counter from this artifact: Create a token that's a copy of equipped creature, except it's 1/1. Activate only once each turn, and only as a sorcery.
+Equip {2}
+
+Refute Heresy
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Cogfly
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature has “Whenever this creature attacks, artifact creatures you control get +1/+0 until end of turn.”
+{2}, {T}, Remove a charge counter from this artifact: Create a 1/1 Insect Construct artifact creature token with flying.
+Equip {1} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature has “Whenever this creature attacks, artifact creatures you control get +1/+0 until end of turn.”
+{2}, Remove a charge counter from this artifact: Create a 1/1 Insect Construct artifact creature token with flying. Activate only once each turn, and only as a sorcery.
+Equip {1}
+
+Fractured Mask
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, it gains indestructible until end of turn if you control a creature with power 5 or creater.
+{1}, {T}, Remove a charge counter from this artifact: Put two +1/+1 counters on target creature you control.
+Equip {3} => [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, it gains indestructible until end of turn if you control a creature with power 5 or creater.
+At the beginning of your upkeep, you may remove a charge counter from this Equipment. When you do, put two +1/+1 counters on target creature you control.
+Equip {3}
+
+Injector Band
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 for each card type among cards in your graveyard.
+{1}, {T}, Remove a charge counter from this artifact and sacrifice another nonland permanent: You lose 1 life and draw a card.
+Equip {3} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 for each card type among cards in your graveyard.
+{1}, Remove a charge counter from this artifact and sacrifice another nonland permanent: You lose 1 life and draw a card. Activate only once each turn, and only as a sorcery.
+Equip {3}
+
+Silkshot
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+{T}, Remove a charge counter from this Equipment: Choose one. Activate only if this Equipment is attached to a creature —
+• Create a tapped Silk token.
+• Tap target creature and put a stun counter on it.
+• Surveil 1, then put a +1/+1 counter on equipped creature.
+Equip {1} => [i](Tools enter with three charge counters on them.)[/i]
+Remove a charge counter from this Equipment: Choose one. Activate only if this Equipment is attached to a creature, and only once each turn as a sorcery —
+• Create a tapped Silk token.
+• Tap target creature and put a stun counter on it.
+• Surveil 1, then put a +1/+1 counter on equipped creature.
+Equip {1}
+
+Plasmium Phial
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 for each creature and artifact card in your graveyard.
+{B}, {T}, Remove a charge counter from this Equipment: Mill three cards, then return up to one creature or artifact card from among them into your hand.
+Equip {2} => [i](Tools enter with three charge counters on them.)[/i]
+Equipped creature gets +1/+1 for each creature and artifact card in your graveyard.
+{1}{B}, Remove a charge counter from this Equipment: Mill three cards, then return up to one creature or artifact card from among them into your hand. Activate only once each turn, and only as a sorcery.
+Equip {2}
+
+
+VERSION 24 CHANGELOG
 ====================
 
 

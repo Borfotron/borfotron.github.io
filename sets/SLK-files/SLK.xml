@@ -5,7 +5,7 @@
 			<name>SLK</name>
 			<longname>Hollow Knight: Silksong</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-29</releasedate>
+			<releasedate>2026-07-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -412,7 +412,7 @@ Enchanted creature can&apos;t attack or block.
 			<name>Flea Brew</name>
 			<text>(Tools enter with three charge counters on them.)
 Whenever equipped creature attacks, put a +1/+1 counter on it. Then, creatures you control with equal or lesser power gain first strike until end of turn.
-{W}, {T}, Remove a charge counter from this Equipment: Create a 1/1 white Insect creature token.
+{W}, Remove a charge counter from this Equipment: Create a 1/1 white Insect creature token.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/19.png" num="18">SLK</set>
 			<prop>
@@ -686,7 +686,7 @@ Create two 2/2 white Insect artifact creature tokens. Then if you control four o
 			<name>Memory Crystal</name>
 			<text>(Tools enter with three charge counters on them.)
 Equipped creature gets +0/+2 and has vigilance.
-{1}, {T}, Remove a charge counter from this artifact: Create a token that&apos;s a copy of equipped creature, except it&apos;s 1/1. Activate only as a sorcery.
+{1}: Remove a charge counter from this artifact: Create a token that&apos;s a copy of equipped creature, except it&apos;s 1/1. Activate only once each turn, and only as a sorcery.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/34.png" num="63">SLK</set>
 			<prop>
@@ -1713,8 +1713,8 @@ Whenever an opponent commits a crime, you gain 1 life.</text>
 			<name>First of the First</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
 Create a 1/2 white Spider token with reach.
-I, II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
-IV — Exile this Saga, then return it to the battlefield transformed under your control.
+Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
+Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): First Sinner, Absolution Denied</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/88_front.png" num="89a">SLK</set>
@@ -3739,7 +3739,7 @@ Choose one —
 			<name>Cogfly</name>
 			<text>(Tools enter with three charge counters on them.)
 Equipped creature has &quot;Whenever this creature attacks, artifact creatures you control get +1/+0 until end of turn.&quot;
-{2}, {T}, Remove a charge counter from this artifact: Create a 1/1 Insect Construct artifact creature token with flying.
+{2}, Remove a charge counter from this artifact: Create a 1/1 Insect Construct artifact creature token with flying. Activate only once each turn, and only as a sorcery.
 Equip {1}</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/192.png" num="224">SLK</set>
 			<prop>
@@ -3776,7 +3776,7 @@ Equip {1}</text>
 			<name>Fractured Mask</name>
 			<text>(Tools enter with three charge counters on them.)
 Whenever equipped creature attacks, it gains indestructible until end of turn if you control a creature with power 5 or creater.
-{1}, {T}, Remove a charge counter from this artifact: Put two +1/+1 counters on target creature you control.
+At the beginning of your upkeep, you may remove a charge counter from this Equipment. When you do, put two +1/+1 counters on target creature you control.
 Equip {3}</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/194.png" num="235">SLK</set>
 			<prop>
@@ -4296,7 +4296,7 @@ Equip {3}</text>
 			<name>Injector Band</name>
 			<text>(Tools enter with three charge counters on them.)
 Equipped creature gets +1/+1 for each card type among cards in your graveyard.
-{1}, {T}, Remove a charge counter from this artifact and sacrifice another nonland permanent: You lose 1 life and draw a card.
+{1}, Remove a charge counter from this artifact and sacrifice another nonland permanent: You lose 1 life and draw a card. Activate only once each turn, and only as a sorcery.
 Equip {3}</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/223.png" num="260">SLK</set>
 			<prop>
@@ -5372,7 +5372,7 @@ Equip {3}</text>
 		<card>
 			<name>Silkshot</name>
 			<text>(Tools enter with three charge counters on them.)
-{T}, Remove a charge counter from this Equipment: Choose one. Activate only if this Equipment is attached to a creature —
+Remove a charge counter from this Equipment: Choose one. Activate only if this Equipment is attached to a creature, and only once each turn as a sorcery —
 • Create a tapped Silk token.
 • Tap target creature and put a stun counter on it.
 • Surveil 1, then put a +1/+1 counter on equipped creature.
@@ -5395,7 +5395,7 @@ Equip {1}</text>
 			<name>Plasmium Phial</name>
 			<text>(Tools enter with three charge counters on them.)
 Equipped creature gets +1/+1 for each creature and artifact card in your graveyard.
-{B}, {T}, Remove a charge counter from this Equipment: Mill three cards, then return up to one creature or artifact card from among them into your hand.
+{1}{B}, Remove a charge counter from this Equipment: Mill three cards, then return up to one creature or artifact card from among them into your hand. Activate only once each turn, and only as a sorcery.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/284.png" num="100">SLK</set>
 			<prop>
