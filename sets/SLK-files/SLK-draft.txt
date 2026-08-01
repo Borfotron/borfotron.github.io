@@ -1629,7 +1629,7 @@
 			"name": "Pale Hunt",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/159.png"

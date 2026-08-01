@@ -5,7 +5,7 @@
 			<name>SLK</name>
 			<longname>Hollow Knight: Silksong</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-31</releasedate>
+			<releasedate>2026-08-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -29,7 +29,7 @@
 		</card>
 		<card>
 			<name>Silken Cradle</name>
-			<text>When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield..</text>
+			<text>When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/1.png" num="39">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -230,7 +230,7 @@ Other creatures you control get +1/+1.</text>
 		<card>
 			<name>Citadel Judge</name>
 			<text>Vigilance
-Whenever a creature an opponent controls dies or is put into exile, create a tapped token that&apos;s a copy of this creature. This ability triggers only once each turn.</text>
+Pilgrimage — Whenever a creature an opponent controls dies, create a 1/1 green Insect Peasant creature token. If you control six or more lands, instead create a tapped token that&apos;s a copy of this creature. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/11.png" num="10">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -259,7 +259,7 @@ Pilgrimage — Whenever you cast a Song spell, this creature gets +1/+1 until en
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -326,9 +326,9 @@ this turn.</text>
 		<card>
 			<name>Ancient Heart</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Create two 1/1 green Insect Plant creature tokens.
-II — Each creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
-III — Exile this Saga, then return it to the battlefield transformed under your control.
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Nyleth, Seed of Shellwood</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/16_front.png" num="3a">SLK</set>
@@ -392,7 +392,7 @@ Pilgrimage — {1}{W}: Create two 1/1 green Insect Peasant creature tokens. Acti
 			<name>Running in Circles</name>
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block.
-{6}, Sacrifice this Aura: Exile enchanted creature, then create a 2/2 white Insect Artifact creature token. Activate only during your turn.</text>
+{6}, Sacrifice this Aura: Exile enchanted creature, then create a 2/2 white Insect artifact creature token. Activate only during your turn.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/18.png" num="34">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -410,7 +410,7 @@ Enchanted creature can&apos;t attack or block.
 		<card>
 			<name>Flea Brew</name>
 			<text>(Tools enter with three charge counters on them.)
-Whenever equipped creature attacks, put a +1/+1 counter on it. Then, creatures you control with equal or lesser power gain first strike until end of turn.
+Whenever equipped creature attacks, put a +1/+1 counter on it. Then, creatures you control with equal or lesser power get +1/+1 and gain first strike until end of turn.
 {W}, Remove a charge counter from this Equipment: Create a 1/1 white Insect creature token.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/19.png" num="17">SLK</set>
@@ -573,7 +573,7 @@ Sacrifice two other Silk: When target creature you control dies this turn, retur
 		</card>
 		<card>
 			<name>Lace, Daughter of Silk</name>
-			<text>First strike, vigilance
+			<text>First strike
 Whenever Lace deals combat damage, put your choice of a +1/+1 counter or charge counter on her.
 {1}, {T}, Remove X charge counters from Lace and sacrifice her: Draw X cards. Activate only if a creature entered this turn.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/28.png" num="25">SLK</set>
@@ -2953,7 +2953,8 @@ Put a +1/+1 counter on target creature. Surveil 1.</text>
 		</card>
 		<card>
 			<name>Rhinogrund</name>
-			<text>{1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<text>Reach
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/152.png" num="185">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3103,13 +3104,13 @@ At the beginning of combat on your turn, look at the top three cards of your lib
 		</card>
 		<card>
 			<name>Pale Hunt</name>
-			<text>Pilgrimage — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put two +1/+1 counters on target creature you control.</text>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put two +1/+1 counters on target creature you control.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/159.png" num="179">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
@@ -4678,7 +4679,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Bilewater</name>
 			<text>{T}: Add {C}.
-{T}: Add {B} or {G}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {B} or {G}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/244.png" num="273">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4694,7 +4695,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Cogwork Core</name>
 			<text>{T}: Add {C}.
-{T}: Add {U} or {R}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {U} or {R}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/245.png" num="278">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4710,7 +4711,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Craw Lake</name>
 			<text>{T}: Add {C}.
-{T}: Add {U} or {B}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {U} or {B}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/246.png" num="280">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4726,7 +4727,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>High Halls</name>
 			<text>{T}: Add {C}.
-{T}: Add {W} or {U}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {W} or {U}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/247.png" num="284">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4742,7 +4743,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Hunter&apos;s March</name>
 			<text>{T}: Add {C}.
-{T}: Add {R} or {G}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {R} or {G}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/248.png" num="285">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4758,7 +4759,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Pilgrim&apos;s Rest</name>
 			<text>{T}: Add {C}.
-{T}: Add {G} or {W}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {G} or {W}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/249.png" num="289">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4774,7 +4775,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Sands of Karak</name>
 			<text>{T}: Add {C}.
-{T}: Add {R} or {W}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {R} or {W}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/250.png" num="291">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4790,7 +4791,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>The Marrow</name>
 			<text>{T}: Add {C}.
-{T}: Add {B} or {R}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {B} or {R}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/251.png" num="286">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4806,7 +4807,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Verdanian Temple</name>
 			<text>{T}: Add {C}.
-{T}: Add {G} or {U}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {G} or {U}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/252.png" num="295">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4822,7 +4823,7 @@ Sacrifice two creatures and/or artifacts: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Whiteward</name>
 			<text>{T}: Add {C}.
-{T}: Add {W} or {B}. Activate only if you control three or more other lands or if a creature you control entered this turn.</text>
+{T}: Add {W} or {B}. Activate only if this land didn&apos;t enter this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/253.png" num="297">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5194,7 +5195,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Crest of the Wanderer</name>
-			<text>Crest — Reveal four cards that share at least one color from your hand. (If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)
+			<text>Crest — Reveal four cards that share at least one color from your hand. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 When Crest of the Wanderer enters, choose a color. It becomes the chosen color.
 {T}: Target creature you control of the chosen color gains first strike and &quot;Whenever this creature deals combat damage to a player, draw a card.&quot; until end of turn. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/273.png" num="257">SLK</set>
@@ -5210,7 +5211,7 @@ When Crest of the Wanderer enters, choose a color. It becomes the chosen color.
 		</card>
 		<card>
 			<name>Crest of the Hunter</name>
-			<text>Crest — Tap three untapped historic permanents you control. (If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card. Artifacts, Sagas, and legendaries are historic.)
+			<text>Crest — Tap three untapped historic permanents you control. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 {1}, {T}: The next historic spell you cast this turn may be cast as though it had flash. If it&apos;s a creature, it enters with an additional +1/+1 counter. If it&apos;s an artifact, it enters with an additional charge counter.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/274.png" num="231">SLK</set>
 			<prop>
@@ -5227,7 +5228,7 @@ When Crest of the Wanderer enters, choose a color. It becomes the chosen color.
 		</card>
 		<card>
 			<name>Crest of the Architect</name>
-			<text>Crest — Reveal three Equipment cards from your hand. (If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)
+			<text>Crest — Behold three Equipment cards. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 Whenever an Equipment you control enters, you may pay {2}. If you do, create a 2/2 white Insect Soldier creature token, then you may attach that Equipment to it.
 {2}, {T}: Put a charge counter on target artifact.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/275.png" num="229">SLK</set>
@@ -5246,7 +5247,7 @@ Whenever an Equipment you control enters, you may pay {2}. If you do, create a 2
 		</card>
 		<card>
 			<name>Crest of the Witch</name>
-			<text>Crest — Pay 5 life. (If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)
+			<text>Crest — Pay 5 life. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, target creature you control gains vigilance, trample, and deathtouch until end of turn.
 {BG}, {T}: You gain 1 life and mill a card.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/276.png" num="233">SLK</set>
@@ -5264,7 +5265,7 @@ At the beginning of combat on your turn, you may exile a creature card from your
 		</card>
 		<card>
 			<name>Crest of the Reaper</name>
-			<text>Crest — Reveal a hand of no creature cards. (If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)
+			<text>Crest — Behold four nonland, noncreature cards. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
 {T}, Pay 3 life: Create a 1/1 white Insect Plant creature token.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/277.png" num="232">SLK</set>
@@ -5283,9 +5284,9 @@ Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 li
 		</card>
 		<card>
 			<name>Crest of the Beast</name>
-			<text>Crest — Sacrifice a creature with power 4 or greater. (If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)
+			<text>Crest — Tap untapped creatures you control with total power 7 or greater. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 At the beginning of combat on your turn, target creature you control gets +2/+0 and gains trample and haste until end of turn.
-{3}{RG}{RG}, {T}: Target creature must block this turn if able.</text>
+{RG}{RG}, {T}: Target creature must block this turn if able.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/278.png" num="230">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5301,7 +5302,7 @@ At the beginning of combat on your turn, target creature you control gets +2/+0 
 		</card>
 		<card>
 			<name>Crest of the Shaman</name>
-			<text>Crest — Reveal three multicolored cards from your hand. (If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)
+			<text>Crest — Behold four multicolored cards. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 Whenever you cast a spell, you may draw a card for each of that spell&apos;s colors.
 {3}, {T}: Draw a card, then discard a card. If you discarded a multicolored card this way, deal 3 damage to any target.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/279.png" num="201">SLK</set>

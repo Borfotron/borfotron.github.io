@@ -1,4 +1,165 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+
+
+Silken Cradle
+rules_text: When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.. => When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+
+Citadel Judge
+rules_text: Vigilance
+Whenever a creature an opponent controls dies or is put into exile, create a tapped token that's a copy of this creature. This ability triggers only once each turn. => Vigilance
+[i]Pilgrimage[/i] — Whenever a creature an opponent controls dies, create a 1/1 green Insect Peasant creature token. If you control six or more lands, instead create a tapped token that's a copy of this creature. This ability triggers only once each turn.
+
+Bellhart Greeter
+pt: 2/1 => 2/2
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II — Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Running in Circles
+rules_text: Enchant creature
+Enchanted creature can't attack or block.
+{6}, Sacrifice this Aura: Exile enchanted creature, then create a 2/2 white Insect Artifact creature token. Activate only during your turn. => Enchant creature
+Enchanted creature can't attack or block.
+{6}, Sacrifice this Aura: Exile enchanted creature, then create a 2/2 white Insect artifact creature token. Activate only during your turn.
+
+Flea Brew
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, put a +1/+1 counter on it. Then, creatures you control with equal or lesser power gain first strike until end of turn.
+{W}, Remove a charge counter from this Equipment: Create a 1/1 white Insect creature token.
+Equip {2} => [i](Tools enter with three charge counters on them.)[/i]
+Whenever equipped creature attacks, put a +1/+1 counter on it. Then, creatures you control with equal or lesser power get +1/+1 and gain first strike until end of turn.
+{W}, Remove a charge counter from this Equipment: Create a 1/1 white Insect creature token.
+Equip {2}
+
+Lace, Daughter of Silk
+rules_text: First strike, vigilance
+Whenever Lace deals combat damage, put your choice of a +1/+1 counter or charge counter on her.
+{1}, {T}, Remove X charge counters from Lace and sacrifice her: Draw X cards. Activate only if a creature entered this turn. => First strike
+Whenever Lace deals combat damage, put your choice of a +1/+1 counter or charge counter on her.
+{1}, {T}, Remove X charge counters from Lace and sacrifice her: Draw X cards. Activate only if a creature entered this turn.
+
+Rhinogrund
+rules_text: {1}, Sacrifice this creature: Destroy target artifact or enchantment. => Reach
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.
+
+Pale Hunt
+type: Sorcery => Instant
+rules_text: [i]Pilgrimage[/i] — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put two +1/+1 counters on target creature you control. => Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put two +1/+1 counters on target creature you control.
+
+Bilewater
+rules_text: {T}: Add {C}.
+{T}: Add {B} or {G}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {B} or {G}. Activate only if this land didn't enter this turn.
+
+Cogwork Core
+rules_text: {T}: Add {C}.
+{T}: Add {U} or {R}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {U} or {R}. Activate only if this land didn't enter this turn.
+
+Craw Lake
+rules_text: {T}: Add {C}.
+{T}: Add {U} or {B}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {U} or {B}. Activate only if this land didn't enter this turn.
+
+High Halls
+rules_text: {T}: Add {C}.
+{T}: Add {W} or {U}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {W} or {U}. Activate only if this land didn't enter this turn.
+
+Hunter's March
+rules_text: {T}: Add {C}.
+{T}: Add {R} or {G}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {R} or {G}. Activate only if this land didn't enter this turn.
+
+Pilgrim's Rest
+rules_text: {T}: Add {C}.
+{T}: Add {G} or {W}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {G} or {W}. Activate only if this land didn't enter this turn.
+
+Sands of Karak
+rules_text: {T}: Add {C}.
+{T}: Add {R} or {W}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {R} or {W}. Activate only if this land didn't enter this turn.
+
+The Marrow
+rules_text: {T}: Add {C}.
+{T}: Add {B} or {R}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {B} or {R}. Activate only if this land didn't enter this turn.
+
+Verdanian Temple
+rules_text: {T}: Add {C}.
+{T}: Add {G} or {U}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {G} or {U}. Activate only if this land didn't enter this turn.
+
+Whiteward
+rules_text: {T}: Add {C}.
+{T}: Add {W} or {B}. Activate only if you control three or more other lands or if a creature you control entered this turn. => {T}: Add {C}.
+{T}: Add {W} or {B}. Activate only if this land didn't enter this turn.
+
+Crest of the Wanderer
+rules_text: Crest — Reveal four cards that share at least one color from your hand. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)[/i]
+When Crest of the Wanderer enters, choose a color. It becomes the chosen color.
+{T}: Target creature you control of the chosen color gains first strike and “Whenever this creature deals combat damage to a player, draw a card.” until end of turn. Activate only as a sorcery. => Crest — Reveal four cards that share at least one color from your hand. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+When Crest of the Wanderer enters, choose a color. It becomes the chosen color.
+{T}: Target creature you control of the chosen color gains first strike and “Whenever this creature deals combat damage to a player, draw a card.” until end of turn. Activate only as a sorcery.
+
+Crest of the Hunter
+rules_text: Crest — Tap three untapped historic permanents you control. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card. Artifacts, Sagas, and legendaries are historic.)[/i]
+{1}, {T}: The next historic spell you cast this turn may be cast as though it had flash. If it's a creature, it enters with an additional +1/+1 counter. If it's an artifact, it enters with an additional charge counter. => Crest — Tap three untapped historic permanents you control. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+{1}, {T}: The next historic spell you cast this turn may be cast as though it had flash. If it's a creature, it enters with an additional +1/+1 counter. If it's an artifact, it enters with an additional charge counter.
+
+Crest of the Architect
+rules_text: Crest — Reveal three Equipment cards from your hand. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever an Equipment you control enters, you may pay {2}. If you do, create a 2/2 white Insect Soldier creature token, then you may attach that Equipment to it.
+{2}, {T}: Put a charge counter on target artifact. => Crest — Behold three Equipment cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever an Equipment you control enters, you may pay {2}. If you do, create a 2/2 white Insect Soldier creature token, then you may attach that Equipment to it.
+{2}, {T}: Put a charge counter on target artifact.
+
+Crest of the Witch
+rules_text: Crest — Pay 5 life. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)[/i]
+At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, target creature you control gains vigilance, trample, and deathtouch until end of turn.
+{BG}, {T}: You gain 1 life and mill a card. => Crest — Pay 5 life. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, target creature you control gains vigilance, trample, and deathtouch until end of turn.
+{BG}, {T}: You gain 1 life and mill a card.
+
+Crest of the Reaper
+rules_text: Crest — Reveal a hand of no creature cards. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
+{T}, Pay 3 life: Create a 1/1 white Insect Plant creature token. => Crest — Behold four nonland, noncreature cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
+{T}, Pay 3 life: Create a 1/1 white Insect Plant creature token.
+
+Crest of the Beast
+rules_text: Crest — Sacrifice a creature with power 4 or greater. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)[/i]
+At the beginning of combat on your turn, target creature you control gets +2/+0 and gains trample and haste until end of turn.
+{3}{RG}{RG}, {T}: Target creature must block this turn if able. => Crest — Tap untapped creatures you control with total power 7 or greater. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+At the beginning of combat on your turn, target creature you control gets +2/+0 and gains trample and haste until end of turn.
+{RG}{RG}, {T}: Target creature must block this turn if able.
+
+Crest of the Shaman
+rules_text: Crest — Reveal three multicolored cards from your hand. [i](If this card is your chosen crest outside the game, you may perform the action as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a spell, you may draw a card for each of that spell's colors.
+{3}, {T}: Draw a card, then discard a card. If you discarded a multicolored card this way, deal 3 damage to any target. => Crest — Behold four multicolored cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a spell, you may draw a card for each of that spell's colors.
+{3}, {T}: Draw a card, then discard a card. If you discarded a multicolored card this way, deal 3 damage to any target.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 
