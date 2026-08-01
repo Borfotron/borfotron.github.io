@@ -41,7 +41,7 @@
     },
     {
         "card_name": "The Everbloom",
-        "number": 17,
+        "number": 16,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -81,7 +81,7 @@
     },
     {
         "card_name": "Grand Mother Silk",
-        "number": 23,
+        "number": 22,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Ecstasy of the End",
-        "number": 16,
+        "number": 15,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Flea Brew",
-        "number": 18,
+        "number": 17,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Garmond and Zaza",
-        "number": 21,
+        "number": 20,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Grand Confrontation",
-        "number": 22,
+        "number": 21,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -401,7 +401,7 @@
     },
     {
         "card_name": "Mooshka, the Fleamaster",
-        "number": 27,
+        "number": 26,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -641,7 +641,7 @@
     },
     {
         "card_name": "Flea Caravan",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -681,7 +681,7 @@
     },
     {
         "card_name": "Flick, the Fixer",
-        "number": 20,
+        "number": 19,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Huge Flea",
-        "number": 25,
+        "number": 24,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -761,7 +761,7 @@
     },
     {
         "card_name": "Lace, Daughter of Silk",
-        "number": 26,
+        "number": 25,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1280,12 +1280,12 @@
         "position": "148"
     },
     {
-        "card_name": "Dregwheel",
-        "number": 15,
+        "card_name": "Grand Reed",
+        "number": 23,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "197"
+        "position": "9"
     },
     {
         "card_name": "Halfway House Merchant",
@@ -1320,12 +1320,12 @@
         "position": "151"
     },
     {
-        "card_name": "Grand Reed",
-        "number": 24,
+        "card_name": "Oath of the Whiteward",
+        "number": 27,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "9"
+        "position": "32"
     },
     {
         "card_name": "Lost to History",
@@ -1360,12 +1360,12 @@
         "position": "159"
     },
     {
-        "card_name": "Oath of the Whiteward",
+        "card_name": "Parry and Riposte",
         "number": 28,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "32"
+        "position": "21"
     },
     {
         "card_name": "Servitor Ignim",
@@ -1400,12 +1400,12 @@
         "position": "292"
     },
     {
-        "card_name": "Parry and Riposte",
+        "card_name": "Pharlid",
         "number": 29,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "21"
+        "position": "13"
     },
     {
         "card_name": "Silkfly Chorus",
@@ -1773,7 +1773,7 @@
     },
     {
         "card_name": "Fractured Mask",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1781,7 +1781,7 @@
     },
     {
         "card_name": "Gahlia",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1803,7 +1803,7 @@
     },
     {
         "card_name": "Graceful Skirmish",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1901,7 +1901,7 @@
     },
     {
         "card_name": "Nuu, Creature Collector",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -1973,7 +1973,7 @@
     },
     {
         "card_name": "Karaka Guards",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2005,7 +2005,7 @@
     },
     {
         "card_name": "Lugoli, Disgraced Chef",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
@@ -2021,19 +2021,19 @@
     },
     {
         "card_name": "Escalion",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
         "position": "198"
     },
     {
-        "card_name": "Pharlid",
-        "number": 241,
+        "card_name": "Dregwheel",
+        "number": 234,
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "13"
+        "position": "197"
     },
     {
         "card_name": "Corrcrust Karaka",
