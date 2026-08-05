@@ -658,7 +658,7 @@
     {
         "card_name": "Rowdy Roachkeeper",
         "number": 103,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "SLK",
         "rotated": false,
         "position": "78"
@@ -1189,7 +1189,7 @@
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "319"
+        "position": "317"
     },
     {
         "card_name": "Last Claw",
@@ -1293,7 +1293,7 @@
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "320"
+        "position": "318"
     },
     {
         "card_name": "Penitent Prisoners",
@@ -1445,7 +1445,7 @@
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "321"
+        "position": "319"
     },
     {
         "card_name": "Squatcraw",
@@ -2569,7 +2569,7 @@
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "322"
+        "position": "320"
     },
     {
         "card_name": "Island",
@@ -2577,7 +2577,7 @@
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "323"
+        "position": "321"
     },
     {
         "card_name": "Swamp",
@@ -2585,7 +2585,7 @@
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "324"
+        "position": "322"
     },
     {
         "card_name": "Mountain",
@@ -2593,7 +2593,7 @@
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "325"
+        "position": "323"
     },
     {
         "card_name": "Forest",
@@ -2601,7 +2601,7 @@
         "shape": "normal",
         "set": "SLK",
         "rotated": false,
-        "position": "326"
+        "position": "324"
     },
     {
         "card_name": "er"
@@ -2618,39 +2618,39 @@
     "a->token",
     {
         "card_name": "coldshard",
+        "number": 15,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "301"
+    },
+    {
+        "card_name": "food",
+        "number": 16,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "316"
+    },
+    {
+        "card_name": "insectconstruct",
         "number": 17,
         "shape": "token",
         "set": "SLK",
         "rotated": false,
-        "position": "303"
+        "position": "315"
     },
     {
-        "card_name": "food",
+        "card_name": "pin",
         "number": 18,
         "shape": "token",
         "set": "SLK",
         "rotated": false,
-        "position": "318"
-    },
-    {
-        "card_name": "coggingflyerton",
-        "number": 19,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "317"
-    },
-    {
-        "card_name": "pin",
-        "number": 20,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "304"
+        "position": "302"
     },
     {
         "card_name": "silktoken",
-        "number": 21,
+        "number": 19,
         "shape": "token",
         "set": "SLK",
         "rotated": false,
@@ -2658,6 +2658,22 @@
     },
     {
         "card_name": "rosary",
+        "number": 20,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "307"
+    },
+    {
+        "card_name": "karmelitaemblem",
+        "number": 21,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "310"
+    },
+    {
+        "card_name": "hornetemblem",
         "number": 22,
         "shape": "token",
         "set": "SLK",
@@ -2665,148 +2681,122 @@
         "position": "309"
     },
     {
-        "card_name": "karmelitaemblem",
-        "number": 23,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "312"
-    },
-    {
-        "card_name": "hornetemblem",
-        "number": 24,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "311"
-    },
-    {
-        "card_name": "silkfly",
+        "card_name": "insectartifacthusk",
         "number": 1,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "297"
-    },
-    {
-        "card_name": "choristor",
-        "number": 2,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "300"
-    },
-    {
-        "card_name": "artifacthusk",
-        "number": 3,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "301"
-    },
-    {
-        "card_name": "flea",
-        "number": 4,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "298"
-    },
-    {
-        "card_name": "sandcarver",
-        "number": 5,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "302"
-    },
-    {
-        "card_name": "spider",
-        "number": 6,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "307"
-    },
-    {
-        "card_name": "fishy",
-        "number": 7,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "305"
-    },
-    {
-        "card_name": "gloomsac",
-        "number": 8,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "308"
-    },
-    {
-        "card_name": "deathtoucher",
-        "number": 9,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "306"
-    },
-    {
-        "card_name": "greatconchfly",
-        "number": 10,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "316"
-    },
-    {
-        "card_name": "karakasoldier",
-        "number": 11,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "310"
-    },
-    {
-        "card_name": "skarrwarrior",
-        "number": 12,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "313"
-    },
-    {
-        "card_name": "randompilgrim",
-        "number": 13,
-        "shape": "token",
-        "set": "SLK",
-        "rotated": false,
-        "position": "296"
-    },
-    {
-        "card_name": "phacia",
-        "number": 14,
         "shape": "token",
         "set": "SLK",
         "rotated": false,
         "position": "299"
     },
     {
-        "card_name": "cloverdancer",
-        "number": 15,
+        "card_name": "insectflea",
+        "number": 2,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "297"
+    },
+    {
+        "card_name": "insectsandcarver",
+        "number": 3,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "300"
+    },
+    {
+        "card_name": "spider",
+        "number": 4,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "305"
+    },
+    {
+        "card_name": "fishy",
+        "number": 5,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "303"
+    },
+    {
+        "card_name": "insecthorror",
+        "number": 6,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "306"
+    },
+    {
+        "card_name": "insectdeathtouch",
+        "number": 7,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "304"
+    },
+    {
+        "card_name": "insectbeast",
+        "number": 8,
         "shape": "token",
         "set": "SLK",
         "rotated": false,
         "position": "314"
     },
     {
-        "card_name": "secondsentinel",
-        "number": 16,
+        "card_name": "insectsoldierred",
+        "number": 9,
         "shape": "token",
         "set": "SLK",
         "rotated": false,
-        "position": "315"
+        "position": "308"
+    },
+    {
+        "card_name": "insectwarriorred",
+        "number": 10,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "311"
+    },
+    {
+        "card_name": "insectpeasant",
+        "number": 11,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "296"
+    },
+    {
+        "card_name": "insectplant",
+        "number": 12,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "298"
+    },
+    {
+        "card_name": "insectwarrior",
+        "number": 13,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "312"
+    },
+    {
+        "card_name": "secondsentinel",
+        "number": 14,
+        "shape": "token",
+        "set": "SLK",
+        "rotated": false,
+        "position": "313"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

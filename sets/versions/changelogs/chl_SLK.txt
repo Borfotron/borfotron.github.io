@@ -1,4 +1,212 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+insectpeasant added.
+insectflea added.
+insectplant added.
+insectartifacthusk added.
+insectsandcarver added.
+insectdeathtouch added.
+insecthorror added.
+insectsoldierred added.
+insectwarriorred added.
+insectwarrior added.
+insectbeast added.
+insectconstruct added.
+
+randompilgrim removed.
+silkfly removed.
+flea removed.
+phacia removed.
+choristor removed.
+artifacthusk removed.
+sandcarver removed.
+deathtoucher removed.
+gloomsac removed.
+karakasoldier removed.
+skarrwarrior removed.
+cloverdancer removed.
+greatconchfly removed.
+coggingflyerton removed.
+
+Flea Caravan
+
+Choir Elder
+
+Choir Procession
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Up to four target creatures you control each explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)[/i] 
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Up to four target creatures you control each explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)[/i] 
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Pilby's Funeral
+
+Running in Circles
+
+Flea Brew
+
+Caretaker of Songclave
+rules_text: {T}, Sacrifice another creature or artifact: Another target creature gains protection from the color of your choice until end of turn.
+[i]Pilgrimage[/i] — As long as you control six or more lands, once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard. => {T}, Sacrifice another creature or artifact: Another target creature gains protection from the color of your choice until end of turn. 
+[i]Pilgrimage[/i] — As long as you control six or more lands, once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.
+
+Garmond and Zaza
+
+Ecstasy of the End
+
+Oath of the Whiteward
+
+Silk Snipper
+rules_text: Tap three untapped artifacts you control: Draw a card. Activate only as a sorcery. => Whenever you draw a card, you may tap an untapped artifact you control. If you do, put a +1/+1 counter on this creature.
+pt: 2/1 => 1/1
+
+Squatcraw
+rules_text: Flying
+This creature enters tapped unless you control an artifact. => Flying
+This creature enters tapped.
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+pt: 2/1 => 1/1
+
+Vault Scrollreader
+
+Silkfly Chorus
+
+The Bell Hermit
+
+Gargant Gloom
+
+Penitent Prisoners
+
+Rowdy Roachkeeper
+rules_text: Menace
+Ward—Sacrifice a permanent or pay 2 life.
+Ward abilities you control trigger an additional time. => Menace
+Ward—Sacrifice a permanent or pay 2 life.
+pt: 2/4 => 4/4
+
+Stilkin Hunter
+rules_text: Flying, lifelink
+Ward—Pay 2 life.
+Whenever this creature attacks, mill a card. => Flying, lifelink
+Whenever you draw your second card each turn, this creature deals 2 damage to target opponent.
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Great Taste of Pharloom
+
+Crull and Benjin, Retired
+
+Order of Karak
+
+Skarr Ambush
+
+Crawling Craggler
+pt: 3/4 => 2/3
+
+Clover Dancers
+
+Synchronized Flight
+
+Groal the Great
+rules_text: Groal gets +X/+0, where X is the number of creature cards in your graveyard. If X is 5 or more, Groal has flying.
+Groal has all ward abilities among other permanents you control. => Ward—Pay 2 life.
+Groal gets +X/+0, where X is the number of creature cards in your graveyard. If X is 5 or more, Groal has flying.
+Ward abilities of permanents you control trigger an additional time.
+
+The Moorwing, Mite-Beast
+rules_text: Flying, menace
+Other creatures you control with flying get +1/+1.
+Whenever The Moorwing deals combat damage to a player, that player may discard a card. If they don't, you draw a card. => Flying, menace
+Creatures you control with flying get +1/+1.
+Whenever Moorwing deals combat damage to a player, that player may discard a card. If they don't, you draw a card.
+
+Cogfly
+
+Dregwheel
+
+Choir Maestro
+
+Whiteward Mortician
+rules_text: {T}, Sacrifice another non-Silk artifact or creature: You gain 1 life and create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => {T}, Sacrifice another non-Silk artifact or creature: You gain 1 life and create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+pt: 3/5 => 3/4
+
+Pilgrimage's End
+
+Fine Pin
+
+Sands of Karak Bench
+
+Sandcarver Pit
+
+Bellhart
+
+Crest of the Architect
+
+Crest of the Reaper
+rules_text: Crest — Behold four nonland, noncreature cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
+{T}, Pay 3 life: Create a 1/1 white Insect Plant creature token. => Crest — Behold four nonland, noncreature cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
+{T}, Pay 3 life: Create a 1/1 green Insect Plant creature token.
+
+Statue of Hope
+
+Songclave Merchant
+
+Mooshka, the Fleamaster
+
+coldshard
+
+pin
+
+fishy
+
+spider
+
+rosary
+
+hornetemblem
+
+karmelitaemblem
+
+secondsentinel
+
+food
+
+Karak Alita
+
+Halfway House Merchant
+
+Pilgrim Bellbearer
+
+
+VERSION 27 CHANGELOG
 ====================
 
 

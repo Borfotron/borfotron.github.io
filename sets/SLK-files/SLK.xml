@@ -5,7 +5,7 @@
 			<name>SLK</name>
 			<longname>Hollow Knight: Silksong</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-01</releasedate>
+			<releasedate>2026-08-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -25,7 +25,7 @@
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">flea</related>
+			<related count="1">insectflea</related>
 		</card>
 		<card>
 			<name>Silken Cradle</name>
@@ -71,7 +71,7 @@ When this creature enters, create a 1/1 green Insect Peasant creature token.
 ---
 
 (Sing only one Song per turn.)
-Pilgrimage — Target creature you control gets +1/+1 until end of turn. It gets an additional +1/+1 until end of turn if you control six or more lands.</text>
+Target creature you control gets +1/+1 until end of turn. You gain 1 life.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/3.png" num="7">SLK</set>
 			<prop>
 				<layout>adventure</layout>
@@ -85,7 +85,7 @@ Pilgrimage — Target creature you control gets +1/+1 until end of turn. It gets
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 		</card>
 		<card>
 			<name>Choir Hornhead // Ringing Halls</name>
@@ -130,7 +130,7 @@ Create a 1/1 green Insect Peasant creature token and a tapped Silk token.</text>
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 			<related count="1">silktoken</related>
 		</card>
 		<card>
@@ -327,7 +327,7 @@ this turn.</text>
 			<name>Ancient Heart</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
 Create two 1/1 green Insect Plant creature tokens.
-Each creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+Up to four target creatures you control each explore. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.) 
 Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Nyleth, Seed of Shellwood</text>
@@ -343,7 +343,7 @@ Exile this Saga, then return it to the battlefield transformed under your contro
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">phacia</related>
+			<related count="1">insectplant</related>
 			<related attach="transform">Nyleth, Seed of Shellwood</related>
 		</card>
 		<card>
@@ -366,7 +366,7 @@ Whenever a land or another Plant enters under your control, put a +1/+1 counter 
 				<pt>2/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">phacia</related>
+			<related count="1">insectplant</related>
 			<related attach="transform">Ancient Heart</related>
 		</card>
 		<card>
@@ -385,7 +385,7 @@ Pilgrimage — {1}{W}: Create two 1/1 green Insect Peasant creature tokens. Acti
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 			<related count="1">silktoken</related>
 		</card>
 		<card>
@@ -405,7 +405,7 @@ Enchanted creature can&apos;t attack or block.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">silkfly</related>
+			<related count="1">insectartifacthusk</related>
 		</card>
 		<card>
 			<name>Flea Brew</name>
@@ -425,7 +425,7 @@ Equip {2}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">flea</related>
+			<related count="1">insectflea</related>
 		</card>
 		<card>
 			<name>Crushing Defeat</name>
@@ -497,7 +497,7 @@ Thread Storm deals 6 damage divided among any number of target attacking or bloc
 		</card>
 		<card>
 			<name>Caretaker of Songclave</name>
-			<text>{T}, Sacrifice another creature or artifact: Another target creature gains protection from the color of your choice until end of turn.
+			<text>{T}, Sacrifice another creature or artifact: Another target creature gains protection from the color of your choice until end of turn. 
 Pilgrimage — As long as you control six or more lands, once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/24.png" num="5">SLK</set>
 			<prop>
@@ -548,7 +548,7 @@ When Garmond and Zaza enter or attack, reveal the top card of your library. If i
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 		</card>
 		<card>
 			<name>Grand Mother Silk</name>
@@ -644,7 +644,7 @@ Flashback—Each opponent creates two 1/1 white Insect creature tokens. (You may
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">flea</related>
+			<related count="1">insectflea</related>
 		</card>
 		<card>
 			<name>Oath of the Whiteward</name>
@@ -662,7 +662,7 @@ Create two 2/2 white Insect artifact creature tokens. Then if you control five o
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">artifacthusk</related>
+			<related count="1">insectartifacthusk</related>
 			<related count="1">silktoken</related>
 		</card>
 		<card>
@@ -907,7 +907,7 @@ When this creature enters, return up to one target creature to its owner&apos;s 
 		</card>
 		<card>
 			<name>Silk Snipper</name>
-			<text>Tap three untapped artifacts you control: Draw a card. Activate only as a sorcery.</text>
+			<text>Whenever you draw a card, you may tap an untapped artifact you control. If you do, put a +1/+1 counter on this creature.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/46.png" num="72">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -918,14 +918,15 @@ When this creature enters, return up to one target creature to its owner&apos;s 
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Squatcraw</name>
 			<text>Flying
-This creature enters tapped unless you control an artifact.</text>
+This creature enters tapped.
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/47.png" num="75">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -936,7 +937,7 @@ This creature enters tapped unless you control an artifact.</text>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -989,7 +990,7 @@ Put a stun counter on target tapped creature. Surveil 1.</text>
 ---
 
 (Sing only one Song per turn.)
-Surveil 1, then create a tapped Silk token.</text>
+Surveil 1, then create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/50.png" num="79">SLK</set>
 			<prop>
 				<layout>adventure</layout>
@@ -1338,7 +1339,7 @@ Draw a card, then discard a card.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">silkfly</related>
+			<related count="1">insectconstruct</related>
 		</card>
 		<card>
 			<name>Roach Guts</name>
@@ -1392,7 +1393,7 @@ When this artifact enters, up to one target creature gets -3/-3 until end of tur
 				<pt>2/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 		</card>
 		<card>
 			<name>Slab Broodmother // Brood&apos;s Cycle</name>
@@ -1454,7 +1455,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 				<pt>2/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">gloomsac</related>
+			<related count="1">insecthorror</related>
 		</card>
 		<card>
 			<name>Burrowing Grom</name>
@@ -1526,24 +1527,28 @@ At the beginning of your end step, if you committed a crime this turn, return ta
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 		</card>
 		<card>
-			<name>Rowdy Roachkeeper</name>
+			<name>Rowdy Roachkeeper // Round &apos;Em Up</name>
 			<text>Menace
 Ward—Sacrifice a permanent or pay 2 life.
-Ward abilities you control trigger an additional time.</text>
+
+---
+
+(Sing only one Song per turn.)
+Surveil 1. You may discard a card. If you do, draw a card.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/78.png" num="103">SLK</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Insect Peasant</type>
+				<type>Creature — Insect Peasant // Sorcery — Song</type>
 				<maintype>Creature</maintype>
-				<manacost>3B</manacost>
+				<manacost>3B // 1B</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1624,8 +1629,7 @@ If an opponent would lose life during your turn, they lose that much life plus 1
 		<card>
 			<name>Stilkin Hunter</name>
 			<text>Flying, lifelink
-Ward—Pay 2 life.
-Whenever this creature attacks, mill a card.</text>
+Whenever you draw your second card each turn, this creature deals 2 damage to target opponent.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/83.png" num="115">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1713,9 +1717,9 @@ Whenever an opponent commits a crime, you gain 1 life.</text>
 		<card>
 			<name>First of the First</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Create a 1/2 white Spider token with reach.
-II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
-IV — Exile this Saga, then return it to the battlefield transformed under your control.
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
+Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): First Sinner, Absolution Denied</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/88_front.png" num="89a">SLK</set>
@@ -1778,7 +1782,7 @@ When this creature attacks, target opponent loses 3 life unless they sacrifice a
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">choristor</related>
+			<related count="1">insectsoldierchoristor</related>
 		</card>
 		<card>
 			<name>Infestation Operation</name>
@@ -1914,7 +1918,7 @@ When Bell Eater attacks, you may sacrifice another creature or artifact. When yo
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">deathtoucher</related>
+			<related count="1">insectdeathtouch</related>
 		</card>
 		<card>
 			<name>Loam, Cog in the Machine</name>
@@ -2390,7 +2394,7 @@ At the beginning of combat on your turn, create a 1/1 red Insect Soldier creatur
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">karakasoldier</related>
+			<related count="1">insectsoldierred</related>
 		</card>
 		<card>
 			<name>Explosive Retribution</name>
@@ -2650,7 +2654,7 @@ Flashback—Sacrifice two lands. (You may cast this card from your graveyard for
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">skarrwarrior</related>
+			<related count="1">insectwarriorred</related>
 		</card>
 		<card>
 			<name>Tool Barrage</name>
@@ -2780,7 +2784,7 @@ Verdant — This creature enters with X +1/+1 counters, where X is the number of
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/4</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3167,7 +3171,7 @@ Verdant — When this creature enters, create X 3/2 green Insect Warrior creatur
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">cloverdancer</related>
+			<related count="1">insectwarrior</related>
 		</card>
 		<card>
 			<name>Gilly, Perfectly Disguised</name>
@@ -3349,7 +3353,7 @@ Creatures you control have menace and haste.</text>
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">greatconchfly</related>
+			<related count="1">insectbeast</related>
 		</card>
 		<card>
 			<name>Fallen into Muckmaggots</name>
@@ -3487,8 +3491,9 @@ When Green Prince dies, return him from your graveyard to the battlefield transf
 		</card>
 		<card>
 			<name>Groal the Great</name>
-			<text>Groal gets +X/+0, where X is the number of creature cards in your graveyard. If X is 5 or more, Groal has flying.
-Groal has all ward abilities among other permanents you control.</text>
+			<text>Ward—Pay 2 life.
+Groal gets +X/+0, where X is the number of creature cards in your graveyard. If X is 5 or more, Groal has flying.
+Ward abilities of permanents you control trigger an additional time.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/179.png" num="206">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3563,8 +3568,8 @@ Whenever this creature attacks or dies, it deals damage equal to the number of c
 		<card>
 			<name>The Moorwing, Mite-Beast</name>
 			<text>Flying, menace
-Other creatures you control with flying get +1/+1.
-Whenever The Moorwing deals combat damage to a player, that player may discard a card. If they don&apos;t, you draw a card.</text>
+Creatures you control with flying get +1/+1.
+Whenever Moorwing deals combat damage to a player, that player may discard a card. If they don&apos;t, you draw a card.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/183.png" num="210">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3755,7 +3760,7 @@ Equip {1}</text>
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">coggingflyerton</related>
+			<related count="1">insectconstruct</related>
 		</card>
 		<card>
 			<name>Craw Memento</name>
@@ -3847,6 +3852,7 @@ When this creature dies, create a 2/2 white Insect artifact creature token.</tex
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">silktoken</related>
+			<related count="1">insectartifacthusk</related>
 		</card>
 		<card>
 			<name>Escalion</name>
@@ -3917,7 +3923,7 @@ Whenever this creature attacks, create three 1/1 Insect Construct artifact creat
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">coggingflyerton</related>
+			<related count="1">insectconstruct</related>
 		</card>
 		<card>
 			<name>Plasmid</name>
@@ -4034,7 +4040,7 @@ Verdant — This creature&apos;s power is equal to the number of colors among pe
 		</card>
 		<card>
 			<name>Whiteward Mortician</name>
-			<text>{T}, Sacrifice another non-Silk artifact or creature: You gain 1 life and create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
+			<text>{T}, Sacrifice another non-Silk artifact or creature: You gain 1 life and create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/208.png" num="254">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4045,7 +4051,7 @@ Verdant — This creature&apos;s power is equal to the number of colors among pe
 				<cmc>4</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
-				<pt>3/5</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">silktoken</related>
@@ -4192,7 +4198,7 @@ Whenever Zango is dealt damage, you may sacrifice another creature or artifact. 
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 		</card>
 		<card>
 			<name>The Chorus Project</name>
@@ -4292,7 +4298,7 @@ Equip {3}</text>
 				<cmc>4</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">choristor</related>
+			<related count="1">insectsoldierchoristor</related>
 		</card>
 		<card>
 			<name>Injector Band</name>
@@ -4373,7 +4379,7 @@ Equip—Sacrifice an artifact or pay {2}.</text>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">choristor</related>
+			<related count="1">insectsoldierchoristor</related>
 		</card>
 		<card>
 			<name>Watcher at the Edge</name>
@@ -5023,7 +5029,7 @@ Verdant — When Grindle enters, create a number of Treasure tokens equal to the
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">sandcarver</related>
+			<related count="1">insectsandcarver</related>
 		</card>
 		<card>
 			<name>Roachserver</name>
@@ -5126,7 +5132,7 @@ Equip {3}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 		</card>
 		<card>
 			<name>Mount Fay</name>
@@ -5243,7 +5249,7 @@ Whenever an Equipment you control enters, you may pay {2}. If you do, create a 2
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">choristor</related>
+			<related count="1">insectsoldierchoristor</related>
 		</card>
 		<card>
 			<name>Crest of the Witch</name>
@@ -5267,7 +5273,7 @@ At the beginning of combat on your turn, you may exile a creature card from your
 			<name>Crest of the Reaper</name>
 			<text>Crest — Behold four nonland, noncreature cards. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
-{T}, Pay 3 life: Create a 1/1 white Insect Plant creature token.</text>
+{T}, Pay 3 life: Create a 1/1 green Insect Plant creature token.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/277.png" num="232">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5280,7 +5286,7 @@ Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 li
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">phacia</related>
+			<related count="1">insectplant</related>
 		</card>
 		<card>
 			<name>Crest of the Beast</name>
@@ -5445,7 +5451,7 @@ Equip {1}{G}</text>
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 		</card>
 		<card>
 			<name>Ventrica Tube</name>
@@ -5481,7 +5487,7 @@ Crew 2</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">randompilgrim</related>
+			<related count="1">insectpeasant</related>
 			<related count="1">rosary</related>
 		</card>
 		<card>
@@ -5502,7 +5508,7 @@ If you would create one or more tokens, create that many tokens plus an addition
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">flea</related>
+			<related count="1">insectflea</related>
 		</card>
 		<card>
 			<name>Vaultkeeper&apos;s Shell</name>
@@ -5597,7 +5603,7 @@ If a creature died this turn, create a tapped Silk token. (It&apos;s an artifact
 		<card>
 			<name>silktoken SLK</name>
 			<text>{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/295.png" num="21">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/295.png" num="19">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5610,9 +5616,9 @@ If a creature died this turn, create a tapped Silk token. (It&apos;s an artifact
 			<token>1</token>
 		</card>
 		<card>
-			<name>randompilgrim SLK</name>
+			<name>insectpeasant SLK</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/296.png" num="13">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/296.png" num="11">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5628,27 +5634,9 @@ If a creature died this turn, create a tapped Silk token. (It&apos;s an artifact
 			<token>1</token>
 		</card>
 		<card>
-			<name>silkfly SLK</name>
-			<text>Flying</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/297.png" num="1">SLK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact Creature — Insect Silk</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>flea SLK</name>
+			<name>insectflea SLK</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/298.png" num="4">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/297.png" num="2">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5664,9 +5652,9 @@ If a creature died this turn, create a tapped Silk token. (It&apos;s an artifact
 			<token>1</token>
 		</card>
 		<card>
-			<name>phacia SLK</name>
+			<name>insectplant SLK</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/299.png" num="14">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/298.png" num="12">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5682,27 +5670,9 @@ If a creature died this turn, create a tapped Silk token. (It&apos;s an artifact
 			<token>1</token>
 		</card>
 		<card>
-			<name>choristor SLK</name>
+			<name>insectartifacthusk SLK</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/300.png" num="2">SLK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Insect Soldier</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>artifacthusk SLK</name>
-			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/301.png" num="3">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/299.png" num="1">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5718,9 +5688,9 @@ If a creature died this turn, create a tapped Silk token. (It&apos;s an artifact
 			<token>1</token>
 		</card>
 		<card>
-			<name>sandcarver SLK</name>
+			<name>insectsandcarver SLK</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/302.png" num="5">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/300.png" num="3">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5738,7 +5708,7 @@ If a creature died this turn, create a tapped Silk token. (It&apos;s an artifact
 		<card>
 			<name>coldshard SLK</name>
 			<text>{1}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/303.png" num="17">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/301.png" num="15">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5754,7 +5724,7 @@ If a creature died this turn, create a tapped Silk token. (It&apos;s an artifact
 			<name>pin SLK</name>
 			<text>Equipped creature gets +2/+0.
 Equip {2}</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/304.png" num="20">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/302.png" num="18">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5769,7 +5739,7 @@ Equip {2}</text>
 		<card>
 			<name>fishy SLK</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/305.png" num="7">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/303.png" num="5">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5785,9 +5755,9 @@ Equip {2}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>deathtoucher SLK</name>
+			<name>insectdeathtouch SLK</name>
 			<text>Deathtouch</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/306.png" num="9">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/304.png" num="7">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5805,7 +5775,7 @@ Equip {2}</text>
 		<card>
 			<name>spider SLK</name>
 			<text>Reach</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/307.png" num="6">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/305.png" num="4">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5821,9 +5791,9 @@ Equip {2}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>gloomsac SLK</name>
+			<name>insecthorror SLK</name>
 			<text>This creature can&apos;t block.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/308.png" num="8">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/306.png" num="6">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5841,7 +5811,7 @@ Equip {2}</text>
 		<card>
 			<name>rosary SLK</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/309.png" num="22">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/307.png" num="20">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5854,9 +5824,9 @@ Equip {2}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>karakasoldier SLK</name>
+			<name>insectsoldierred SLK</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/310.png" num="11">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/308.png" num="9">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5874,7 +5844,7 @@ Equip {2}</text>
 		<card>
 			<name>hornetemblem SLK</name>
 			<text>Artifacts you control have &quot;{2}, {T}: This artifact deals 1 damage to any target.&quot;</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/311.png" num="24">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/309.png" num="22">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5889,7 +5859,7 @@ Equip {2}</text>
 		<card>
 			<name>karmelitaemblem SLK</name>
 			<text>Creatures you control get +1/+1.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/312.png" num="23">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/310.png" num="21">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5902,9 +5872,9 @@ Equip {2}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>skarrwarrior SLK</name>
+			<name>insectwarriorred SLK</name>
 			<text>Menace</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/313.png" num="12">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/311.png" num="10">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5920,9 +5890,9 @@ Equip {2}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>cloverdancer SLK</name>
+			<name>insectwarrior SLK</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/314.png" num="15">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/312.png" num="13">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5940,7 +5910,7 @@ Equip {2}</text>
 		<card>
 			<name>secondsentinel SLK</name>
 			<text>First strike</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/315.png" num="16">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/313.png" num="14">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5956,9 +5926,9 @@ Equip {2}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>greatconchfly SLK</name>
+			<name>insectbeast SLK</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/316.png" num="10">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/314.png" num="8">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5974,9 +5944,9 @@ Equip {2}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>coggingflyerton SLK</name>
+			<name>insectconstruct SLK</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/317.png" num="19">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/315.png" num="17">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5992,7 +5962,7 @@ Equip {2}</text>
 		<card>
 			<name>food SLK</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/318.png" num="18">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/316.png" num="16">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6008,7 +5978,7 @@ Equip {2}</text>
 			<name>Karak Alita</name>
 			<text>Menace
 Whenever this creature attacks, create a tapped and attacking 1/1 red Insect Soldier creature token. Sacrifice it at the beginning of the next end step unless you sacrifice an artifact.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/319.png" num="140">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/317.png" num="140">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6021,13 +5991,14 @@ Whenever this creature attacks, create a tapped and attacking 1/1 red Insect Sol
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">insectsoldierred</related>
 		</card>
 		<card>
 			<name>Halfway House Merchant</name>
 			<text>Pilgrimage — When this creature enters, choose one. If you control six or more lands, choose both instead:
 • Create a Treasure token.
 • Target creature you control can&apos;t be blocked this turn if you control an artifact.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/320.png" num="58">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/318.png" num="58">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6045,7 +6016,7 @@ Whenever this creature attacks, create a tapped and attacking 1/1 red Insect Sol
 			<name>Pilgrim Bellbearer</name>
 			<text>Flying
 Pilgrimage — When this creature enters, surveil 2. Then if you control six or more lands, you gain 3 life.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/321.png" num="31">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/319.png" num="31">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6062,7 +6033,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/322.png" num="299">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/320.png" num="299">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6077,7 +6048,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/323.png" num="300">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/321.png" num="300">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6092,7 +6063,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/324.png" num="301">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/322.png" num="301">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6107,7 +6078,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/325.png" num="302">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/323.png" num="302">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6122,7 +6093,7 @@ Pilgrimage — When this creature enters, surveil 2. Then if you control six or 
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/326.png" num="303">SLK</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/324.png" num="303">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

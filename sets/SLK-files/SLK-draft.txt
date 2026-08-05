@@ -3011,79 +3011,59 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Silk",
-			"collector_number": "21",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/295.png"
 			}
 		},
 		{
-			"name": "randompilgrim",
+			"name": "insectpeasant",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect Peasant",
-			"collector_number": "13",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/296.png"
 			}
 		},
 		{
-			"name": "silkfly",
+			"name": "insectflea",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Insect Silk",
-			"collector_number": "1",
+			"type": "Token Creature — Insect",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/297.png"
 			}
 		},
 		{
-			"name": "flea",
+			"name": "insectplant",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Insect",
-			"collector_number": "4",
+			"type": "Token Creature — Insect Plant",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/298.png"
 			}
 		},
 		{
-			"name": "phacia",
+			"name": "insectartifacthusk",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Insect Plant",
-			"collector_number": "14",
+			"type": "Token Artifact Creature — Insect",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/299.png"
 			}
 		},
 		{
-			"name": "choristor",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Insect Soldier",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/300.png"
-			}
-		},
-		{
-			"name": "artifacthusk",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Insect",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/301.png"
-			}
-		},
-		{
-			"name": "sandcarver",
+			"name": "insectsandcarver",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "5",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/302.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/300.png"
 			}
 		},
 		{
@@ -3091,9 +3071,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Coldshard",
-			"collector_number": "17",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/303.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/301.png"
 			}
 		},
 		{
@@ -3101,9 +3081,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "20",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/304.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/302.png"
 			}
 		},
 		{
@@ -3111,19 +3091,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Fish",
-			"collector_number": "7",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/305.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/303.png"
 			}
 		},
 		{
-			"name": "deathtoucher",
+			"name": "insectdeathtouch",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "9",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/306.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/304.png"
 			}
 		},
 		{
@@ -3131,19 +3111,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spider",
-			"collector_number": "6",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/307.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/305.png"
 			}
 		},
 		{
-			"name": "gloomsac",
+			"name": "insecthorror",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect Horror",
-			"collector_number": "8",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/308.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/306.png"
 			}
 		},
 		{
@@ -3151,19 +3131,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "22",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/309.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/307.png"
 			}
 		},
 		{
-			"name": "karakasoldier",
+			"name": "insectsoldierred",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect Soldier",
-			"collector_number": "11",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/310.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/308.png"
 			}
 		},
 		{
@@ -3171,9 +3151,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "24",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/311.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/309.png"
 			}
 		},
 		{
@@ -3181,29 +3161,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "23",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/310.png"
+			}
+		},
+		{
+			"name": "insectwarriorred",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Warrior",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/SLK-files/img/311.png"
+			}
+		},
+		{
+			"name": "insectwarrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Warrior",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/312.png"
-			}
-		},
-		{
-			"name": "skarrwarrior",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Insect Warrior",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/313.png"
-			}
-		},
-		{
-			"name": "cloverdancer",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Insect Warrior",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/314.png"
 			}
 		},
 		{
@@ -3211,29 +3191,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "16",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/315.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/313.png"
 			}
 		},
 		{
-			"name": "greatconchfly",
+			"name": "insectbeast",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect Beast",
-			"collector_number": "10",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/316.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/314.png"
 			}
 		},
 		{
-			"name": "coggingflyerton",
+			"name": "insectconstruct",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Insect Construct",
-			"collector_number": "19",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/317.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/315.png"
 			}
 		},
 		{
@@ -3241,9 +3221,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "18",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/318.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/316.png"
 			}
 		},
 		{
@@ -3253,7 +3233,7 @@
 			"type": "Creature — Insect Soldier",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/319.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/317.png"
 			}
 		},
 		{
@@ -3263,7 +3243,7 @@
 			"type": "Creature — Insect Peasant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/320.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/318.png"
 			}
 		},
 		{
@@ -3273,7 +3253,7 @@
 			"type": "Creature — Insect Peasant",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/321.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/319.png"
 			}
 		},
 		{
@@ -3283,7 +3263,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/322.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/320.png"
 			}
 		},
 		{
@@ -3293,7 +3273,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/323.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/321.png"
 			}
 		},
 		{
@@ -3303,7 +3283,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/324.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/322.png"
 			}
 		},
 		{
@@ -3313,7 +3293,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/325.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/323.png"
 			}
 		},
 		{
@@ -3323,7 +3303,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://borfotron.github.io/sets/SLK-files/img/326.png"
+				"en": "https://borfotron.github.io/sets/SLK-files/img/324.png"
 			}
 		}
 	]
