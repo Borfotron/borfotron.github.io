@@ -1,4 +1,94 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+
+Choir Procession
+
+Silk Wraith
+rules_text: Flying, vigilance
+At the beginning of your upkeep, if this card is in your graveyard, you may sacrifice a creature or artifact. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered
+this turn. => Flying, vigilance
+Whenever you cast a Song spell, you may sacrifice an artifact or creature. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn.
+
+Pilby's Funeral
+rules_text: Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+[i]Pilgrimage[/i] — {1}{W}: Create two 1/1 green Insect Peasant creature tokens. Activate only if you control six or more lands, and only once. => When this enchantment enters, create two 1/1 green Insect Peasant creature tokens.
+Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Widow, Threading the Needle
+rules_text: As Widow enters, choose a card type.
+Spells of the chosen type cost {1} more to cast. Whenever an opponent casts a spell of the chosen type, you create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Whenever you cast a Song spell, choose one —
+• Create a 1/1 green Insect Peasant creature token.
+• Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Gargant Gloom
+rules_text: Menace
+At the beginning of your upkeep, you lose 1 life and create a 1/1 black Insect Horror creature token with flying and “This creature can't block.”
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Menace
+At the beginning of your upkeep, create a 1/1 black Insect Horror creature token with flying and “This creature can't block.”
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create a 1/2 white Spider token with reach.
+Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Lavalarga
+rules_text: Reach
+At the beginning of your first main phase, put a +1/+1 counter on this creature. Then if it has two or more counters on it, remove all counters from it and it deals that much damage to target opponent. => Reach
+At the beginning of your first main phase, put two +1/+1 counters on this creature. Then if it has three or more counters on it, remove all counters from it and it deals that much damage to target opponent.
+pt: 2/3 => 2/2
+
+Crawling Craggler
+cost: {4}{G} => {3}{G}
+pt: 2/3 => 2/2
+
+Thrashing Marrowmaw
+cost: {5}{G}{G} => {4}{G}
+rules_text: Trample
+[i]Verdant[/i] — When this creature enters, destroy up to X target artifacts and/or enchantments, where X is the number of colors among permanents you control. => Trample
+Whenever you cast a Song spell, this creature gets +X/+X until end of turn, where X is that Song's mana value.
+
+Splinter
+rules_text: Flash
+When this creature enters, put two +1/+1 counters on target creature you control. It gains reach until end of turn. => Flash
+When this creature enters and whenever you cast a Song spell, put a +1/+1 counter on target creature you control.
+
+Clover Dancers
+type: Legendary creature — Insect Warrior Noble => Legendary Creature — Insect Warrior Noble
+cost: {4}{G}{G} => {3}{G}
+rules_text: Vigilance
+[i]Verdant[/i] — When this creature enters, create X 3/2 green Insect Warrior creature tokens with vigilance, where X is 1 plus the number of colors among permanents you control. => Vigilance
+Whenever you cast a Song spell, create a 3/2 green Insect Warrior creature token with vigilance.
+
+Mount Fay
+rules_text: You may have this land enter tapped. If you do, when it enters, create a Coldshard token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+{T}, Pay 1 life: Add {U}. => You may have this land enter tapped. If you do, when it enters, create a tapped Coldshard token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.”)[/i]
+{T}, Pay 1 life: Add {U}.
+
+Mooshka, the Fleamaster
+rules_text: Lifelink
+When Mooshka enters, create a 1/1 white Insect creature token.
+If you would create one or more tokens, create that many tokens plus an additional 1/1 white Insect creature token. => Lifelink
+When Mooshka enters, create a 1/1 white Insect creature token.
+If you would create one or more tokens, create that many tokens plus an additional 1/1 white Insect creature token instead.
+
+
+VERSION 28 CHANGELOG
 ====================
 
 insectpeasant added.

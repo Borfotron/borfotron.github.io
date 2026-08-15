@@ -5,7 +5,7 @@
 			<name>SLK</name>
 			<longname>Hollow Knight: Silksong</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-04</releasedate>
+			<releasedate>2026-08-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -123,7 +123,7 @@ Create a 1/1 green Insect Peasant creature token and a tapped Silk token.</text>
 				<side>front</side>
 				<type>Creature — Insect Soldier Bard // Sorcery — Song</type>
 				<maintype>Creature</maintype>
-				<manacost>1W // 3WW</manacost>
+				<manacost>1W // 2WW</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -306,9 +306,8 @@ Pilgrimage — Creatures you control get +1/+1 until end of turn. Then if you co
 		<card>
 			<name>Silk Wraith</name>
 			<text>Flying, vigilance
-At the beginning of your upkeep, if this card is in your graveyard, you may sacrifice a creature or artifact. If you do, return this card from your graveyard to your hand.
-{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered
-this turn.</text>
+Whenever you cast a Song spell, you may sacrifice an artifact or creature. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/15.png" num="38">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -371,8 +370,8 @@ Whenever a land or another Plant enters under your control, put a +1/+1 counter 
 		</card>
 		<card>
 			<name>Pilby&apos;s Funeral</name>
-			<text>Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
-Pilgrimage — {1}{W}: Create two 1/1 green Insect Peasant creature tokens. Activate only if you control six or more lands, and only once.</text>
+			<text>When this enchantment enters, create two 1/1 green Insect Peasant creature tokens.
+Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/17.png" num="30">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -610,8 +609,9 @@ Modified creatures you control have vigilance. (Equipment, Auras you control, an
 		</card>
 		<card>
 			<name>Widow, Threading the Needle</name>
-			<text>As Widow enters, choose a card type.
-Spells of the chosen type cost {1} more to cast. Whenever an opponent casts a spell of the chosen type, you create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
+			<text>Whenever you cast a Song spell, choose one —
+• Create a 1/1 green Insect Peasant creature token.
+• Create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/30.png" num="42">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1440,7 +1440,7 @@ When this creature enters, you lose 3 life unless you sacrifice another creature
 		<card>
 			<name>Gargant Gloom</name>
 			<text>Menace
-At the beginning of your upkeep, you lose 1 life and create a 1/1 black Insect Horror creature token with flying and &quot;This creature can&apos;t block.&quot;
+At the beginning of your upkeep, create a 1/1 black Insect Horror creature token with flying and &quot;This creature can&apos;t block.&quot;
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/73.png" num="90">SLK</set>
 			<prop>
@@ -1717,9 +1717,9 @@ Whenever an opponent commits a crime, you gain 1 life.</text>
 		<card>
 			<name>First of the First</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
-Create a 1/2 white Spider token with reach.
-Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
-Exile this Saga, then return it to the battlefield transformed under your control.
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): First Sinner, Absolution Denied</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/88_front.png" num="89a">SLK</set>
@@ -2219,7 +2219,7 @@ Whenever this creature blocks a creature with flying, it gets +3/+0 until end of
 		<card>
 			<name>Lavalarga</name>
 			<text>Reach
-At the beginning of your first main phase, put a +1/+1 counter on this creature. Then if it has two or more counters on it, remove all counters from it and it deals that much damage to target opponent.</text>
+At the beginning of your first main phase, put two +1/+1 counters on this creature. Then if it has three or more counters on it, remove all counters from it and it deals that much damage to target opponent.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/114.png" num="141">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2230,7 +2230,7 @@ At the beginning of your first main phase, put a +1/+1 counter on this creature.
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2780,11 +2780,11 @@ Verdant — This creature enters with X +1/+1 counters, where X is the number of
 				<side>front</side>
 				<type>Creature — Insect Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>4G</manacost>
-				<cmc>5</cmc>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2863,15 +2863,15 @@ As long as you control a creature with power 5 or greater, you may cast this car
 		<card>
 			<name>Thrashing Marrowmaw</name>
 			<text>Trample
-Verdant — When this creature enters, destroy up to X target artifacts and/or enchantments, where X is the number of colors among permanents you control.</text>
+Whenever you cast a Song spell, this creature gets +X/+X until end of turn, where X is that Song&apos;s mana value.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/147.png" num="192">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Insect Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>5GG</manacost>
-				<cmc>7</cmc>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>5/5</pt>
@@ -2995,7 +2995,7 @@ Whenever this creature deals combat damage to a player, put a +1/+1 counter on t
 		<card>
 			<name>Splinter</name>
 			<text>Flash
-When this creature enters, put two +1/+1 counters on target creature you control. It gains reach until end of turn.</text>
+When this creature enters and whenever you cast a Song spell, put a +1/+1 counter on target creature you control.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/154.png" num="190">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3157,20 +3157,20 @@ At the beginning of combat on your turn, look at the top three cards of your lib
 		<card>
 			<name>Clover Dancers</name>
 			<text>Vigilance
-Verdant — When this creature enters, create X 3/2 green Insect Warrior creature tokens with vigilance, where X is 1 plus the number of colors among permanents you control.</text>
+Whenever you cast a Song spell, create a 3/2 green Insect Warrior creature token with vigilance.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/162.png" num="162">SLK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary creature — Insect Warrior Noble</type>
-				<maintype>creature</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
+				<type>Legendary Creature — Insect Warrior Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>3/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 			<related count="1">insectwarrior</related>
 		</card>
 		<card>
@@ -5136,7 +5136,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Mount Fay</name>
-			<text>You may have this land enter tapped. If you do, when it enters, create a Coldshard token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.&quot;)
+			<text>You may have this land enter tapped. If you do, when it enters, create a tapped Coldshard token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.&quot;)
 {T}, Pay 1 life: Add {U}.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/269.png" num="288">SLK</set>
 			<prop>
@@ -5494,7 +5494,7 @@ Crew 2</text>
 			<name>Mooshka, the Fleamaster</name>
 			<text>Lifelink
 When Mooshka enters, create a 1/1 white Insect creature token.
-If you would create one or more tokens, create that many tokens plus an additional 1/1 white Insect creature token.</text>
+If you would create one or more tokens, create that many tokens plus an additional 1/1 white Insect creature token instead.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/289.png" num="26">SLK</set>
 			<prop>
 				<layout>normal</layout>
