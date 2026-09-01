@@ -1,4 +1,779 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Eva, Wasted Weaverspawn added.
+
+Eva, Discarded Weaverspawn removed.
+
+Flea Caravan
+
+Silken Cradle
+
+Choir Clapper
+
+Choir Elder
+
+Choir Hornhead
+
+Choir Procession
+
+Clawmaiden
+
+Cogwork Crawler
+
+Dreg Husk
+
+Grand Reed
+
+Huge Flea
+
+Citadel Judge
+rules_text: Vigilance
+[i]Pilgrimage[/i] — Whenever a creature an opponent controls dies, create a 1/1 green Insect Peasant creature token. If you control six or more lands, instead create a tapped token that's a copy of this creature. This ability triggers only once each turn. => Vigilance
+[i]Pilgrimage[/i] — Whenever a creature an opponent controls dies, create a 1/1 green Insect Peasant creature token. If you control six or more lands, instead create a tapped token that's a copy of this creature.
+
+Bellhart Greeter
+
+Pharlid
+
+Pilgrim Preacher
+
+Silk Wraith
+rules_text: Flying, vigilance
+Whenever you cast a Song spell, you may sacrifice an artifact or creature. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn. => Flying, vigilance
+At the beginning of your upkeep, you may discard a card. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn.
+
+Pilby's Funeral
+
+Running in Circles
+
+Flea Brew
+
+Crushing Defeat
+
+Parry and Riposte
+
+Save the Threadspun Town
+
+Thread Storm
+
+Caretaker of Songclave
+rules_text: {T}, Sacrifice another creature or artifact: Another target creature gains protection from the color of your choice until end of turn. 
+[i]Pilgrimage[/i] — As long as you control six or more lands, once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard. => {T}, Sacrifice another creature or artifact: Surveil 2. You gain 2 life.
+[i]Pilgrimage[/i] — As long as you control six or more lands, once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.
+
+Flick, the Fixer
+
+Garmond and Zaza
+
+Grand Mother Silk
+rules_text: Indestructible
+Grand Mother Silk isn't a creature unless you control three or more Silk tokens.
+Whenever one or more creatures attack you, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i]
+Sacrifice two other Silk: When target creature you control dies this turn, return it to the battlefield under your control. => Indestructible
+Grand Mother Silk isn't a creature unless you control three or more Silk tokens.
+Whenever one or more creatures attack you, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i]
+{T}, Sacrifice a creature or artifact: Draw a card. Activate only if a creature entered this turn.
+
+Lace, Daughter of Silk
+rules_text: First strike
+Whenever Lace deals combat damage, put your choice of a +1/+1 counter or charge counter on her.
+{1}, {T}, Remove X charge counters from Lace and sacrifice her: Draw X cards. Activate only if a creature entered this turn. => First strike
+Whenever Lace deals combat damage, put a +1/+1 counter on her.
+{1}, {T}, Sacrifice Lace: Draw a card. Activate only if a creature entered this turn.
+
+Pinmaster Plinney
+rules_text: At the beginning of combat on your turn, put a +1/+1 counter on each of up to two other target creatures you control.
+Modified creatures you control have vigilance. [i](Equipment, Auras you control, and counters are modifications.)[/i] => At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control.
+Modified creatures you control have vigilance. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Widow, Threading the Needle
+
+Ecstasy of the End
+rules_text: [i](Sing only one Song per turn.)[/i]
+Create three 1/1 white Insect creature tokens. If this spell was cast from a graveyard, put three +1/+1 counters on target creature you control.
+Flashback—Each opponent creates two 1/1 white Insect creature tokens. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Create three 1/1 white Insect creature tokens. If this spell was cast from a graveyard, put three +1/+1 counters on target creature you control.
+Flashback—Each opponent creates two 1/1 white Insect creature tokens. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Oath of the Whiteward
+rules_text: [i](Sing only one Song per turn.)[/i]
+Create two 2/2 white Insect artifact creature tokens. Then if you control five or more creatures, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Create two 2/2 white Insect artifact creature tokens. Then if you control five or more creatures, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Architects' Puzzle
+
+Memory Crystal
+
+Multibinder
+
+School of Kai
+
+Choir Minister
+rules_text: Flying
+Whenever a creature you control deals combat damage to a player, you may draw a card. => Flying
+Whenever a creature you control with flying deals combat damage to a player, you may draw a card.
+
+Cogwork Clapper
+rules_text: This creature enters with X +1/+1 counters on it.
+Whenever this creature deals combat damage, you may remove a counter from it and discard a card. If you do, create two Silk tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This creature enters with X +1/+1 counters on it.
+Whenever this creature deals combat damage, you may remove a counter from it and discard a card. If you do, create two tapped Silk tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+
+Cogwork Cleanser
+
+Cogwork Spine
+
+Karak Gor
+
+Fay Mnemonid
+
+Fay Mnemonord
+
+Servitor Boran
+
+Servitor Ignim
+
+Silk Snipper
+
+Squatcraw
+
+Thread Raker
+
+Vault Lampbearer
+
+Vault Scrollreader
+
+Out in the Cold
+
+Cross Stitch
+
+Frigid Attunement
+
+Difficult Delivery
+
+Lost to History
+
+Refute Heresy
+
+Tracked and Taken
+
+The Cogwork Dancers
+
+Fayforn, Oracle of the Mount
+
+The Last Pinstress
+
+Pious Isamor
+
+Scrounge, Relic Seeker
+
+Vaultkeeper Cardinius
+
+Zylotol, Plasmium Alchemist
+
+Architects' Melody
+rules_text: [i](Sing only one Song per turn.)[/i]
+Search your library for an artifact card, reveal it, then shuffle and put that card on top. If this card was cast from a graveyard, put it into your hand instead.
+Flashback—Tap four untapped artifacts you control. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Search your library for an artifact card, reveal it, then shuffle and put that card on top. If this card was cast from a graveyard, put it into your hand instead.
+Flashback—Tap four untapped artifacts you control. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Silkfly Chorus
+rules_text: Create two 1/1 Insect Construct artifact creature tokens with flying.
+Draw a card, then discard a card. => [i](You may only cast one Song total per turn.)[/i]
+Create two 1/1 Insect Construct artifact creature tokens with flying.
+Draw a card, then discard a card.
+
+Roach Guts
+
+Silk Siphon
+
+The Bell Hermit
+
+Slab Broodmother
+rules_text: Flying
+Whenever a permanent card is put into your graveyard from anywhere, target opponent loses 1 life.
+[i](Sing only one Song per turn.)[/i] => Flying
+Whenever a permanent card is put into your graveyard from anywhere, target opponent loses 1 life.
+[i](You may only cast one Song total per turn.)[/i]
+
+Drapelord
+
+Gargant Gloom
+
+Burrowing Grom
+
+Muckroach
+
+Old Penitent
+rules_text: When this creature enters the battlefield, target opponent gains 2 life.
+At the beginning of your end step, if you committed a crime this turn, return target creature or artifact card with mana value 2 or less from your graveyard to the battlefield with a finality counter. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => When this creature enters the battlefield, target opponent gains 2 life.
+At the beginning of your end step, if you committed a crime this turn, return target creature or artifact card with mana value 2 or less from your graveyard to the battlefield. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+Penitent Prisoners
+
+Rowdy Roachkeeper
+
+Shadow Charger
+
+Slab Guardfly
+
+Snitchfly
+
+Spit Squit
+
+Stilkin Hunter
+
+Undersweep
+
+Void Mass
+
+Slab Wardenfly
+
+Whiteward Surgeon
+
+Great Taste of Pharloom
+
+Infestation Operation
+
+Overworked
+
+Penance By Constriction
+
+Rune Rage
+
+Sister of the Void
+
+Threaded Black
+
+Bell Eater, Bellveins' Blight
+
+Crull and Benjin, Retired
+
+Loam, Cog in the Machine
+
+Lace, Lost to the Void
+
+Skynx, Holding Face
+
+Elegy of the Deep
+rules_text: [i](Sing only one Song per turn.)[/i]
+Each player mills three cards, then put target creature card from a graveyard onto the battlefield under your control. If this spell was cast from a graveyard, instead put up to two target creature cards from graveyards onto the battlefield this way.
+Flashback—Sacrifice three creatures. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Each player mills three cards, then put target creature card from a graveyard onto the battlefield under your control. If this spell was cast from a graveyard, instead put up to two target creature cards from graveyards onto the battlefield this way.
+Flashback—Sacrifice three creatures. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Barbed Bracelet
+
+Curveclaw
+
+Diving Bell
+
+Claw Mirrors
+
+Voltridian
+
+Burning Bugs
+
+Cogwork Hauler
+
+Covetous Pilgrim
+rules_text: Reach, haste
+When this creature enters, create a Treasure token.
+Whenever an artifact enters under your control, this creature deals 2 damage to target opponent. => Reach
+When this creature enters, create a Treasure token.
+Whenever an artifact enters under your control, this creature deals 2 damage to target opponent.
+pt: 4/3 => 4/2
+
+Crustcrag
+
+Deep Diver
+
+Flintbeetle
+
+Smokerock Sifter
+
+Lavalarga
+
+Mottled Skarr
+
+Skarrgard
+
+Skarr Scout
+
+Skull Brute
+
+Smelt Shoveller
+
+Order of Karak
+
+Explosive Retribution
+
+Fiery Annihilation
+
+Flintflame Explosion
+
+Target Practice
+
+Workshop Hazard
+
+Forebrothers Signis and Gron
+rules_text: Double strike
+Equipment you control have “Equip—Sacrifice a creature.”
+Whenever one or more other creature cards are put into your graveyard from anywhere, Signis and Gron deal 2 damage to target opponent. => Double strike
+Equipment you control have “Equip—Sacrifice a creature.”
+Whenever one or more other creature cards are put into your graveyard from anywhere, Signis and Gron deal 1 damage to target opponent.
+
+Forge Daughter
+rules_text: Other artifact creatures you control get +1/+0.
+{1}, {T}: Put a charge counter on target artifact. => Other artifact creatures you control get +1/+0.
+At the beginning of your upkeep, you may pay {1}. If you do, put a charge counter on target artifact you control.
+
+Hornet, Red Maiden
+
+Loddie the Ladybug
+
+The First Seamstress
+
+Trobbio, Dazzling Dancer
+cost: {2}{R} => {1}{R}{R}
+
+Voltvyrm, Charged Coil
+
+Beastling Call
+rules_text: [i](Sing only one Song per turn.)[/i]
+Search your library for a creature card with mana value 2 or less, put it into your hand, then shuffle. Then if this card was cast from your graveyard, it deals damage equal to the number of creatures you control to any target.
+Flashback—Sacrifice two lands. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Search your library for a creature card with mana value 2 or less, put it into your hand, then shuffle. Then if this card was cast from your graveyard, it deals damage equal to the number of creatures you control to any target.
+Flashback—Sacrifice two lands. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Skarr Ambush
+
+Tool Barrage
+
+Work Orders
+
+Magnetite Dice
+rules_text: [i](Tools enter with three charge counters on them.)[/i]
+Flash
+When this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.
+At the beginning of your upkeep, you may remove a charge counter from this Equipment. If you do, roll a d6. Put a +1/+1 counter on equipped creature, and an additional +1/+1 counter on it if you rolled a 6.
+Equip {4} => [i](Tools enter with three charge counters on them.)[/i]
+Flash
+When this Equipment enters, attach it to target creature you control. It gains indestructible until end of turn.
+At the beginning of your upkeep, you may remove a charge counter from this Equipment. If you do, roll a d6. Put a +1/+1 counter on equipped creature, and an additional +1/+1 counter on it if you rolled a 6.
+Equip {3}
+
+Barnak
+
+Bone Bottom Merchant
+
+Cloverstag
+
+Crawling Craggler
+
+Putrid Ductsucker
+
+Hardbone Elder
+
+Horned Pilgrim
+
+Last Claw
+rules_text: Vigilance
+As long as you control a creature with power 5 or greater, you may cast this card from your graveyard. => Vigilance
+{2}{G}{G}: Return this card from your graveyard to the battlefield tapped with a finality counter. Activate only if you control a creature with power 5 or greater.
+
+Thrashing Marrowmaw
+
+Massive Mossgrub
+
+Moss Druid
+
+Moss Mother
+
+Overgrown Pilgrim
+
+Rhinogrund
+
+Skarr Stalker
+
+Splinter
+
+Weary Pilgrim
+
+Vengeful Soul
+rules_text: Mill X cards, then put a number of +1/+1 counter on target creature equal to twice the number of permanent cards milled this way. => Mill X cards, then put a number of +1/+1 counters on target creature equal to twice the number of permanent cards milled this way.
+
+Sister Splinter
+pt: 3/3 => 1/3
+
+Vog, Hunter Flea
+
+Seek the Old Hearts
+rules_text: Return all lands cards from your graveyard to the battlefield, then return all permanent cards from your graveyard to your hand. You have no maximum hand size for the rest of the game.
+Exile Seek the Old Hearts. => Return all lands cards from your graveyard to the battlefield tapped, then return all permanent cards from your graveyard to your hand. You have no maximum hand size for the rest of the game.
+Exile Seek the Old Hearts.
+
+Trail's End
+rules_text: [i](Sing only one Song per turn.)[/i]
+Draw cards equal to the greatest power among creatures you control. If this spell was cast from a graveyard, exile target artifact or enchantment.
+Flashback—Tap any number of untapped creatures you control with total power 15 or greater. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Draw cards equal to the greatest power among creatures you control. If this spell was cast from a graveyard, exile target artifact or enchantment.
+Flashback—Tap any number of untapped creatures you control with total power 15 or greater. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Ballador, Last Conductor
+rules_text: Defender
+Song spells you cast cost {1} less to cast for each artifact you control.
+[i](Sing only one Song per turn.)[/i] => Defender
+Song spells you cast cost {1} less to cast for each artifact you control.
+[i](You may only cast one Song total per turn.)[/i]
+
+Groal the Great
+
+Gurr the Outcast
+
+Hornet, Pale Hunter
+
+Last Judge
+
+The Moorwing, Mite-Beast
+rules_text: Flying, menace
+Creatures you control with flying get +1/+1.
+Whenever Moorwing deals combat damage to a player, that player may discard a card. If they don't, you draw a card. => Flying, menace
+Other creatures you control with flying get +1/+1.
+Whenever The Moorwing deals combat damage to a player, that player may discard a card. If they don't, you draw a card.
+
+Phantom, Stretched Thin
+
+Shakra, Wielding Rings
+
+Sherma, Peppy Pilgrim
+rules_text: Whenever you cast a Song spell, put a +1/+1 counter on target creature. => Whenever you cast a Song spell, put a +1/+1 counter on target creature.
+[i](You may only cast one Song total per turn.)[/i]
+
+The Unravelled
+
+Tormented Trobbio
+
+Twelfth Architect
+
+Mossberry Hunt
+
+Skull Tyrant's Rampage
+
+Cogfly
+
+Craw Memento
+
+Fractured Mask
+
+Cogwork Defender
+
+Coral Furm
+
+Dregwheel
+
+Escalion
+
+Gahlia
+
+Karaka Guards
+
+Choir Maestro
+
+Plasmid
+
+Savage Beastfly
+
+Skull Tyrant
+
+Stilkin Trappers
+
+Tallcraw Juror
+
+Verdanirs
+
+Whiteward Mortician
+
+Roach Tenders' Rounds
+rules_text: When this enchantment enters, surveil 3.
+Whenever a creature card is put into your graveyard from anywhere, you lose 1 life.
+At the beginning of your end step, return a creature card at random from your graveyard to your hand. => When this enchantment enters, surveil 3.
+At the beginning of your end step, return a creature card at random from your graveyard to your hand. You lose 1 life.
+
+Graceful Skirmish
+
+Bell Beast, Trusty Transport
+pt: 2/4 => 2/3
+
+Lugoli, Disgraced Chef
+
+Nuu, Creature Collector
+
+Shrine Guardian Seth
+
+Plasmified Zango
+
+Pilgrimage's End
+
+The Chorus Project
+rules_text: As an additional cost to cast this spell, exile X creature and/or artifact cards you control or creature and/or artifact cards in your graveyard.
+Create X 0/0 Construct artifact creature tokens, then put X +1/+1 counters on each artifact creature you control. => As an additional cost to cast this spell, exile X nontoken creatures and/or artifacts you control or creature and/or artifact cards in your graveyard.
+Create X 0/0 Construct artifact creature tokens, then put X +1/+1 counters on each Construct you control.
+
+Twisted End
+
+The Threefold Statues
+
+Craftmetal
+
+Drifter's Cloak
+rules_text: When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1, has flying, and can only block creatures with flying.
+Whenever equipped creature attacks, draw a card.
+Equip {3} => Equipped creature gets +1/+1, has flying, and can only block creatures with flying.
+Whenever equipped creature attacks, draw a card.
+Equip {2}
+
+Fine Pin
+
+Injector Band
+
+Needolin
+
+Pollip Pouch
+rules_text: Equipped creatures you control have toxic 2 for each equipment attached to them. [i](Players dealt combat damage by this creature also get two poison counters.)[/i] => Equipped creatures you control have toxic 2 for each equipment attached to them. [i](A player dealt combat damage by a creature with toxic 2 also gets two poison counters.)[/i]
+
+Rosary Cannon
+
+Sands of Karak Bench
+
+Watcher at the Edge
+
+Shardillard
+
+Winged Furm
+
+Greyroot, Servant of the Rite
+
+Blasted Steps
+
+Bone Bottom
+
+Choral Chambers
+
+Deep Docks
+
+Far Fields
+
+Greymoor
+
+Moss Grotto
+
+Putrified Ducts
+
+Underworks
+
+Weavenest Atla
+
+Wormways
+
+Bilewater
+
+Cogwork Core
+
+Craw Lake
+
+High Halls
+
+Hunter's March
+
+Pilgrim's Rest
+
+Sands of Karak
+
+The Marrow
+
+Verdanian Temple
+
+Whiteward
+
+Sherma, Devout Caretaker
+
+Corrcrust Karaka
+
+Yumama
+
+Grand Confrontation
+
+Vaultkeeper's Melody
+rules_text: [i](Sing only one Song per turn.)[/i]
+Surveil 1, then draw a card.
+Flashback—{UB}{UB}, Pay 3 life. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Surveil 1, then draw a card.
+Flashback—{UB}{UB}, Pay 3 life. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Flitting Pendragor
+
+Grindle, Snivelling Swindler
+
+Sandcarver Pit
+
+Roachserver
+
+Strung to Serve
+
+Dark Descent
+
+The Everbloom
+
+Hoker
+
+Bellhart
+
+Mount Fay
+
+The Slab
+
+Coral Tower
+
+Shellwood
+
+Crest of the Wanderer
+
+Crest of the Hunter
+
+Crest of the Architect
+
+Crest of the Witch
+
+Crest of the Reaper
+
+Crest of the Beast
+cost: {3}{RG}{RG} => {2}{RG}{RG}
+
+Crest of the Shaman
+
+The Chapel Maid
+
+The Snail Shamans
+
+Pimpillo
+
+Silkshot
+
+Plasmium Phial
+
+Wreath of Purity
+
+Statue of Hope
+
+Ventrica Tube
+
+Songclave Merchant
+
+Mooshka, the Fleamaster
+
+Vaultkeeper's Shell
+
+Revolt of the Stilkin
+
+Passing of the Age
+rules_text: Mill three cards, then you may return a permanent card from your graveyard to your hand.
+Exile this card and two other cards named Passing of the Age from your graveyard: Search your graveyard, hand, and/or library for a legendary Fungus card and put it onto the battlefield. If you searched your library this way, shuffle. Activate only as a sorcery. => [i](You may only cast one Song total per turn.)[/i]
+Mill three cards, then you may return a permanent card from your graveyard to your hand.
+Exile this card and two other cards named Passing of the Age from your graveyard: Search your graveyard, hand, and/or library for a card named The Great Herald and put it onto the battlefield. If you searched your library this way, shuffle. Activate only as a sorcery.
+
+The Great Herald
+rules_text: Vigilance
+When The Great Herald enters, you may cast a copy of his Song without paying its mana cost, and as though you hadn't cast a Song this turn. => Vigilance
+When The Great Herald enters, you may cast a copy of his Song without paying its mana cost, and as though you hadn't cast a Song this turn.
+[i](You may only cast one Song total per turn.)[/i]
+
+Shear Force
+
+silktoken
+
+insectpeasant
+
+insectflea
+
+insectplant
+
+insectartifacthusk
+
+insectsandcarver
+
+coldshard
+
+pin
+
+fishy
+
+insectdeathtouch
+
+spider
+
+insecthorror
+
+rosary
+
+insectsoldierred
+
+hornetemblem
+
+karmelitaemblem
+
+insectwarriorred
+
+insectwarrior
+
+secondsentinel
+
+insectbeast
+
+insectconstruct
+
+food
+
+Karak Alita
+
+Halfway House Merchant
+
+Pilgrim Bellbearer
+
+Ancient Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Up to four target creatures you control each explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)[/i] 
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II — Up to four target creatures you control each explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)[/i] 
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Create two 1/1 green Insect Plant creature tokens.
+Up to four target creatures you control each explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)[/i] 
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/1 green Insect Plant creature tokens.
+II — Up to four target creatures you control each explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)[/i] 
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Hardened Legacy
+
+First of the First
+
+Red Memory
+
+Fading Voice
+
+Green Prince of Verdania
+
+Citadel of Song
+
+
+VERSION 29 CHANGELOG
 ====================
 
 
