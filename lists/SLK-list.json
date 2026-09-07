@@ -2564,7 +2564,7 @@
         "card_name": "er"
     },
     {
-        "card_name": "Plains",
+        "card_name": "Plains (SLK)",
         "number": 299,
         "shape": "normal",
         "set": "SLK",
@@ -2572,7 +2572,7 @@
         "position": "0"
     },
     {
-        "card_name": "Island",
+        "card_name": "Island (SLK)",
         "number": 300,
         "shape": "normal",
         "set": "SLK",
@@ -2580,7 +2580,7 @@
         "position": "1"
     },
     {
-        "card_name": "Swamp",
+        "card_name": "Swamp (SLK)",
         "number": 301,
         "shape": "normal",
         "set": "SLK",
@@ -2588,7 +2588,7 @@
         "position": "2"
     },
     {
-        "card_name": "Mountain",
+        "card_name": "Mountain (SLK)",
         "number": 302,
         "shape": "normal",
         "set": "SLK",
@@ -2596,7 +2596,7 @@
         "position": "3"
     },
     {
-        "card_name": "Forest",
+        "card_name": "Forest (SLK)",
         "number": 303,
         "shape": "normal",
         "set": "SLK",

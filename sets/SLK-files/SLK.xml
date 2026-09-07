@@ -5,12 +5,12 @@
 			<name>SLK</name>
 			<longname>Hollow Knight: Silksong</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-01</releasedate>
+			<releasedate>2026-09-07</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
-			<name>Plains</name>
+			<name>Plains (SLK)</name>
 			<text></text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/0.png" num="299">SLK</set>
 			<prop>
@@ -25,7 +25,7 @@
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Island</name>
+			<name>Island (SLK)</name>
 			<text></text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/1.png" num="300">SLK</set>
 			<prop>
@@ -40,7 +40,7 @@
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Swamp</name>
+			<name>Swamp (SLK)</name>
 			<text></text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/2.png" num="301">SLK</set>
 			<prop>
@@ -55,7 +55,7 @@
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Mountain</name>
+			<name>Mountain (SLK)</name>
 			<text></text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/3.png" num="302">SLK</set>
 			<prop>
@@ -70,7 +70,7 @@
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Forest</name>
+			<name>Forest (SLK)</name>
 			<text></text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/4.png" num="303">SLK</set>
 			<prop>
@@ -142,10 +142,10 @@ When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance un
 			<name>Choir Elder // Raise Us Higher</name>
 			<text>Flying
 When this creature enters, create a 1/1 green Insect Peasant creature token.
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Target creature you control gets +1/+1 until end of turn. You gain 1 life.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/8.png" num="7">SLK</set>
 			<prop>
@@ -165,10 +165,10 @@ Target creature you control gets +1/+1 until end of turn. You gain 1 life.</text
 		<card>
 			<name>Choir Hornhead // Ringing Halls</name>
 			<text>Vigilance
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Exile another target creature or artifact you control. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/9.png" num="8">SLK</set>
 			<prop>
@@ -187,10 +187,10 @@ Exile another target creature or artifact you control. Return it to the battlefi
 		<card>
 			<name>Choir Procession // Citadel Strong</name>
 			<text>This creature gets +1/+0 for each other creature you control.
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Create a 1/1 green Insect Peasant creature token and a tapped Silk token.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/10.png" num="9">SLK</set>
 			<prop>
@@ -359,10 +359,10 @@ Pilgrimage — Whenever you cast a Song spell, this creature gets +1/+1 until en
 		<card>
 			<name>Pilgrim Preacher // We the Chosen</name>
 			<text>Lifelink
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Pilgrimage — Creatures you control get +1/+1 until end of turn. Then if you control six or more lands, put a +1/+1 counter on up to one target creature you control.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/19.png" num="32">SLK</set>
 			<prop>
@@ -573,7 +573,7 @@ When Garmond and Zaza enter or attack, reveal the top card of your library. If i
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">insectpeasant</related>
@@ -581,7 +581,7 @@ When Garmond and Zaza enter or attack, reveal the top card of your library. If i
 		<card>
 			<name>Grand Mother Silk</name>
 			<text>Indestructible
-Grand Mother Silk isn&apos;t a creature unless you control three or more Silk tokens.
+Grand Mother Silk isn&apos;t a creature unless you control three or more Silks.
 Whenever one or more creatures attack you, create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)
 {T}, Sacrifice a creature or artifact: Draw a card. Activate only if a creature entered this turn.</text>
 			<set rarity="mythic" picurl="https://borfotron.github.io/sets/SLK-files/img/31.png" num="22">SLK</set>
@@ -660,7 +660,7 @@ Modified creatures you control have vigilance. (Equipment, Auras you control, an
 			<name>Ecstasy of the End</name>
 			<text>(You may only cast one Song total per turn.)
 Create three 1/1 white Insect creature tokens. If this spell was cast from a graveyard, put three +1/+1 counters on target creature you control.
-Flashback—Each opponent creates two 1/1 white Insect creature tokens. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback—Each opponent creates three 1/1 white Insect creature tokens. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/35.png" num="15">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -993,10 +993,10 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Vault Lampbearer // Holy Secrets</name>
 			<text>Flying
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Put a stun counter on target tapped creature. Surveil 1.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/53.png" num="78">SLK</set>
 			<prop>
@@ -1015,10 +1015,10 @@ Put a stun counter on target tapped creature. Surveil 1.</text>
 		<card>
 			<name>Vault Scrollreader // Sacred Whispers</name>
 			<text>Whenever you surveil, this creature gets +1/+1 until end of turn.
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Surveil 1, then create a tapped Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/54.png" num="79">SLK</set>
 			<prop>
@@ -1384,8 +1384,8 @@ When this artifact enters, up to one target creature gets -3/-3 until end of tur
 		<card>
 			<name>Slab Broodmother // Brood&apos;s Cycle</name>
 			<text>Flying
-Whenever a permanent card is put into your graveyard from anywhere, target opponent loses 1 life.
-(You may only cast one Song total per turn.)
+Whenever a permanent card is put into your graveyard, target opponent loses 1 life.
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
@@ -1481,7 +1481,7 @@ Whenever this creature attacks, you may sacrifice another artifact or creature. 
 		</card>
 		<card>
 			<name>Old Penitent</name>
-			<text>When this creature enters the battlefield, target opponent gains 2 life.
+			<text>When this creature enters, target opponent gains 2 life.
 At the beginning of your end step, if you committed a crime this turn, return target creature or artifact card with mana value 2 or less from your graveyard to the battlefield. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/79.png" num="96">SLK</set>
 			<prop>
@@ -1519,10 +1519,10 @@ At the beginning of your end step, if you committed a crime this turn, return ta
 			<name>Rowdy Roachkeeper // Round &apos;Em Up</name>
 			<text>Menace
 Ward—Sacrifice a permanent or pay 2 life.
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Surveil 1. You may discard a card. If you do, draw a card.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/81.png" num="103">SLK</set>
 			<prop>
@@ -1934,7 +1934,7 @@ Flashback—Sacrifice three creatures. (You may cast this card from your graveya
 			<name>Barbed Bracelet</name>
 			<text>(Tools enter with three charge counters on them.)
 Double all damage equipped creature would deal and be dealt.
-Whenever equipped creature attacks, you may remove a charge counter from this Equipment. If you do, equipped creature gains trample until end of turn.
+Whenever equipped creature attacks, you may remove a charge counter from this Equipment. If you do, equipped creature gets +2/+0 until end of turn.
 Equip—{1}, Pay 3 life.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/104.png" num="121">SLK</set>
 			<prop>
@@ -2077,7 +2077,7 @@ Whenever an artifact enters under your control, this creature deals 2 damage to 
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/2</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">rosary</related>
@@ -2250,10 +2250,10 @@ Whenever you sacrifice a permanent, choose one that hasn&apos;t been chosen this
 		<card>
 			<name>Smelt Shoveller // Blood and Bone</name>
 			<text>Haste
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Put a +1/+1 counter or a charge counter on target artifact.</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/SLK-files/img/121.png" num="150">SLK</set>
 			<prop>
@@ -2431,8 +2431,7 @@ At the beginning of combat on your turn, attach up to one target Equipment you c
 		</card>
 		<card>
 			<name>Loddie the Ladybug</name>
-			<text>Flying
-{T}: Loddie deals 1 damage to any target. Put a charge counter on target artifact you control.
+			<text>{T}: Loddie deals 1 damage to any target. Put a charge counter on target artifact you control.
 Remove three counters from among artifacts you control: Create a Treasure token.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/131.png" num="142">SLK</set>
 			<prop>
@@ -2512,7 +2511,7 @@ See My Flair deals 3 damage to target creature unless that creature&apos;s contr
 		<card>
 			<name>Beastling Call</name>
 			<text>(You may only cast one Song total per turn.)
-Search your library for a creature card with mana value 2 or less, put it into your hand, then shuffle. Then if this card was cast from your graveyard, it deals damage equal to the number of creatures you control to any target.
+Draw a card, then you may put a creature card with mana value 2 or less from your hand onto the battlefield. When you do, if this card was cast from your graveyard, it deals damage equal to the number of creatures you control to any target.
 Flashback—Sacrifice two lands. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/135.png" num="122">SLK</set>
 			<prop>
@@ -2550,7 +2549,7 @@ Flashback—Sacrifice two lands. (You may cast this card from your graveyard for
 		<card>
 			<name>Tool Barrage</name>
 			<text>Kicker—{1}{R}. (You may pay an additional {1}{R} as you cast this spell.)
-Put a +1/+1 counter on target creature you control. It gains haste until end of turn. If this spell was kicked, exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
+Put a +1/+1 counter on up to one target creature you control. It gains haste until end of turn. If this spell was kicked, exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/137.png" num="153">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2827,10 +2826,10 @@ When this creature enters, you may search your library for a basic land card, re
 		<card>
 			<name>Overgrown Pilgrim // Damp and Dim</name>
 			<text>Vigilance
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Put a +1/+1 counter on target creature. Surveil 1.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/SLK-files/img/152.png" num="178">SLK</set>
 			<prop>
@@ -2920,8 +2919,8 @@ When this creature enters and whenever you cast a Song spell, put a +1/+1 counte
 		</card>
 		<card>
 			<name>Survive My Gauntlet</name>
-			<text>When this enchantment enters, mill four cards.
-{1}{G}{G}: Exile two target creature cards from your graveyard. When you do, create a 1/1 green Insect Peasant creature token, then put X +1/+1 counters on it, where X is the total power of cards exiled this way.</text>
+			<text>When this enchantment enters, mill four cards. You may put a permanent card from among the milled cards into your hand.
+{2}{G}{G}, Exile two creature cards from your graveyard: Create a 1/1 green Insect Peasant creature token, then put X +1/+1 counters on it, where X is the total power of the exiled cards.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/157.png" num="191">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3092,10 +3091,10 @@ Shakra enters with X +1/+1 counters on her. If X is 3 or more, search your libra
 			<name>Vog, Hunter Flea // Caravan&apos;s Ritual</name>
 			<text>Vigilance
 Whenever another creature enters under your control, add one mana of any color.
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Caravan&apos;s Ritual deals damage equal to the number of creatures you control to target creature.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/167.png" num="195">SLK</set>
 			<prop>
@@ -3150,7 +3149,7 @@ Exile Seek the Old Hearts.</text>
 			<name>Trail&apos;s End</name>
 			<text>(You may only cast one Song total per turn.)
 Draw cards equal to the greatest power among creatures you control. If this spell was cast from a graveyard, exile target artifact or enchantment.
-Flashback—Tap any number of untapped creatures you control with total power 15 or greater. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback—Tap any number of untapped creatures you control with total power 8 or greater. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/170.png" num="193">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3220,11 +3219,11 @@ Creatures you control have menace and haste.</text>
 			<name>Ballador, Last Conductor // Conductor&apos;s Melody</name>
 			<text>Defender
 Song spells you cast cost {1} less to cast for each artifact you control.
-(You may only cast one Song total per turn.)
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-You gain half X life, rounded down, and create a Silk token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
+You gain half X life, rounded down, and create a Silk token.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/174.png" num="198">SLK</set>
 			<prop>
 				<layout>adventure</layout>
@@ -3278,7 +3277,7 @@ Whenever another creature you control with flying dies, destroy up to one target
 		</card>
 		<card>
 			<name>Fourth Chorus</name>
-			<text>Whenever Fourth Chorus attacks, create a Silk token. Then, Fourth Chorus deals X damage divided among any number of targets, where X is the number of other artifacts you control. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
+			<text>Whenever Fourth Chorus attacks, create a Silk token. Then, it deals X damage divided among any number of targets, where X is the number of other artifacts you control. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.&quot;)</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/177.png" num="204">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3335,8 +3334,8 @@ Whenever Gurr attacks alone, it gets +2/+1 until end of turn for each Equipment 
 			<name>Hornet, Pale Hunter</name>
 			<text>First strike
 Whenever an artifact you control enters, choose one that hasn&apos;t been chosen this turn —
-• Untap Hornet. After this phase, there is an additional combat phase followed by an additional main phase.
 • Put a +1/+1 counter on Hornet, then she deals damage equal to her power to each opponent.
+• Untap Hornet. After this phase, there is an additional combat phase followed by an additional main phase.
 • Surveil 1, then draw a card.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/180.png" num="208">SLK</set>
 			<prop>
@@ -3355,7 +3354,7 @@ Whenever an artifact you control enters, choose one that hasn&apos;t been chosen
 		<card>
 			<name>Last Judge</name>
 			<text>Vigilance
-Whenever this creature attacks or dies, it deals damage equal to the number of creatures you control to any target.</text>
+Whenever Last Judge attacks or dies, it deals damage equal to the number of creatures you control to any target.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/181.png" num="209">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3392,7 +3391,7 @@ Whenever The Moorwing deals combat damage to a player, that player may discard a
 		<card>
 			<name>Phantom, Stretched Thin</name>
 			<text>First strike
-When Phantom attacks, exile up to one target nonland card from a graveyard. Target opponent loses X life and you gain X life, where X is that card&apos;s mana value.
+Whenever Phantom attacks, exile up to one target nonland card from a graveyard. Target opponent loses X life and you gain X life, where X is that card&apos;s mana value.
 {1}, Pay 2 life, Sacrifice an artifact or creature: Draw a card. Activate only if a creature entered this turn.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/183.png" num="212">SLK</set>
 			<prop>
@@ -3412,10 +3411,10 @@ When Phantom attacks, exile up to one target nonland card from a graveyard. Targ
 			<name>Shakra, Wielding Rings // Tribal Melody</name>
 			<text>Vigilance
 Remove a +1/+1 counter from Shakra: Tap target creature.
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
 Put a +1/+1 counter on each creature you control.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/184.png" num="213">SLK</set>
 			<prop>
@@ -3434,7 +3433,7 @@ Put a +1/+1 counter on each creature you control.</text>
 		<card>
 			<name>Sherma, Peppy Pilgrim // Cheery Chime</name>
 			<text>Whenever you cast a Song spell, put a +1/+1 counter on target creature.
-(You may only cast one Song total per turn.)
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
@@ -3473,23 +3472,23 @@ Pilgrimage — Target creature you control gains vigilance until end of turn. If
 		</card>
 		<card>
 			<name>Tormented Trobbio // Woe Are We</name>
-			<text>Whenever a player sacrifices a permanent, put a +1/+1 counter on Trobbio and he deals 1 damage to any target.
+			<text>Whenever a player sacrifices a permanent, Trobbio deals 1 damage to any target.
+(Cast this creature&apos;s Song while it&apos;s on the battlefield. You may only cast one Song total per turn. )
 
 ---
 
-(You may only cast one Song total per turn.)
-Target opponent sacrifice a creature or artifact unless they discard a card.</text>
+Each player loses 3 life unless they sacrifice a nonland permanent or discard a card.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/187.png" num="218">SLK</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
-				<type>Legendary Creature — Insect Performer // Sorcery Song — Song</type>
+				<type>Legendary Creature — Insect Performer // Sorcery — Song</type>
 				<maintype>Creature</maintype>
-				<manacost>1BR // 3B</manacost>
+				<manacost>1BR // B</manacost>
 				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>1/1</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3896,7 +3895,7 @@ At the beginning of your end step, return a creature card at random from your gr
 		</card>
 		<card>
 			<name>Bell Beast, Trusty Transport</name>
-			<text>When Bell Beast attacks while saddled, search your library for a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.
+			<text>Whenever Bell Beast attacks while saddled, you may pay {2}. If you do, search your library for a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.
 Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/210.png" num="221">SLK</set>
 			<prop>
@@ -3908,7 +3907,7 @@ Saddle 2 (Tap any number of other creatures you control with total power 2 or mo
 				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4122,8 +4121,9 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Needolin</name>
-			<text>Equipped creature gets +2/+1 and has first strike.
-Whenever equipped creature deals combat damage to a player, the next Song spell you cast this turn may be cast without paying its mana cost, and as if you haven&apos;t cast a Song spell this turn.
+			<text>(Tools enter with three charge counters on them.)
+Equipped creature gets +2/+1 and has first strike during your turn.
+Remove a charge counter from this Equipment: The next Song spell you cast this turn costs {2} less to cast.
 Equip {3}</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/223.png" num="261">SLK</set>
 			<prop>
@@ -4616,7 +4616,7 @@ As this creature enters, choose a color. This creature is the chosen color.
 				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
+				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5027,7 +5027,7 @@ At the beginning of combat on your turn, target creature you control gets +2/+0 
 			<name>Crest of the Shaman</name>
 			<text>Crest — Behold four multicolored cards. (If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)
 Whenever you cast a spell, you may draw a card for each of that spell&apos;s colors.
-{3}, {T}: Draw a card, then discard a card. If you discarded a multicolored card this way, deal 3 damage to any target.</text>
+{3}, {T}: Draw a card, then discard a card. If you discarded a multicolored card this way, this artifact deals 3 damage to any target.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/276.png" num="201">SLK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5100,7 +5100,7 @@ Equip {3}</text>
 Whenever equipped creature attacks, you may remove a charge counter from this Equipment. If you do, choose one —
 • Create a tapped Silk token.
 • Tap target creature and put a stun counter on it.
-• Surveil 1, then put a +1/+1 counter on equipped creature.
+• Put a +1/+1 counter on equipped creature, then shuffle this Equipment into your library.
 Equip {1}</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/280.png" num="74">SLK</set>
 			<prop>
@@ -6036,7 +6036,7 @@ When Green Prince dies, return him from your graveyard to the battlefield transf
 			<name>Citadel of Song</name>
 			<text>This land enters tapped.
 {T}: Add {W}, {U}, or {B}.
-Craft with artifact {5}{B}{B} ({5}{B}{B}, Exile this artifact, Exile another artifact you control or an artifact card from your graveyard: Return this card transformed under its owner&apos;s control. Craft only as a sorcery.)
+Craft with artifact {5}{B}{B} ({5}{B}{B}, Exile this artifact, Exile an artifact you control or an artifact card from your graveyard: Return this card transformed under its owner&apos;s control. Craft only as a sorcery.)
 ---
 (Back): Void-Snared Citadel</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/SLK-files/img/329_front.png" num="277a">SLK</set>

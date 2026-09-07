@@ -1,7 +1,7 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Plains",
+			"name": "Plains (SLK)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
@@ -11,7 +11,7 @@
 			}
 		},
 		{
-			"name": "Island",
+			"name": "Island (SLK)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
@@ -21,7 +21,7 @@
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Swamp (SLK)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
@@ -31,7 +31,7 @@
 			}
 		},
 		{
-			"name": "Mountain",
+			"name": "Mountain (SLK)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"name": "Forest",
+			"name": "Forest (SLK)",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
