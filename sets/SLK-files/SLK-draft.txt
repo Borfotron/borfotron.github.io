@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/6.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Insect Soldier",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{W}",
 			"type": "Creature — Insect Beast",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/15.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Spider",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Silk Wraith",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/22.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{W}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/27.png"
 			}
@@ -313,9 +313,9 @@
 		{
 			"name": "Grand Mother Silk",
 			"rarity": "mythic",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{5}{W}{U}{B}",
 			"type": "Legendary Artifact Creature — Silk God",
-			"collector_number": "22",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Artifact Creature — Silk Warrior",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Insect Artificer",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}",
 			"type": "Legendary Creature — Spider Avatar",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/34.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery — Song",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment Tool",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Insect Performer",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U}",
 			"type": "Artifact Creature — Insect Construct",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Insect Construct",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Artifact Creature — Insect Construct",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Insect Soldier",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elemental Insect",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Elemental Insect",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/48.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Insect Peasant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Insect Bird",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Insect Peasant",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/52.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/54.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/55.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/56.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/57.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/58.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/61.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Legendary Creature — Insect Bird",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/63.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Insect Warrior",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Insect Peasant",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Insect Cleric",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/67.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Insect Scientist",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/68.png"
 			}
@@ -693,9 +693,9 @@
 		{
 			"name": "Architects' Melody",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Sorcery — Song",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/69.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery — Song",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/70.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Snail Shaman",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/73.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Worm",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/77.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Insect Beast",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/98.png"
 			}
@@ -1033,7 +1033,7 @@
 		{
 			"name": "Elegy of the Deep",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery — Song",
 			"collector_number": "88",
 			"image_uris": {
@@ -1194,7 +1194,7 @@
 			"name": "Skarr Scout",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Insect Warrior",
+			"type": "Creature — Insect Warrior Scout",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/119.png"
@@ -1725,7 +1725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/172.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Elder Insect",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/178.png"
 			}
@@ -1795,7 +1795,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Insect Rogue",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/179.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Creature — Spider Warrior Noble",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/180.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Insect Soldier",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/181.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Insect Beast",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Artifact Creature — Silk Performer",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/183.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Insect Warrior",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/184.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Insect Peasant",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/185.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Artifact Creature — Silk Zombie",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/186.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Insect Performer",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/187.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Artifact Creature — Construct Artificer",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/188.png"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/189.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Artifact — Equipment Tool",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/191.png"
 			}
@@ -1923,9 +1923,9 @@
 		{
 			"name": "Craw Memento",
 			"rarity": "rare",
-			"mana_cost": "{1}{U/B}",
+			"mana_cost": "{1}{B}",
 			"type": "Artifact",
-			"collector_number": "228",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/192.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}",
 			"type": "Artifact Creature — Insect Construct",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/194.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Creature — Insect",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/195.png"
 			}
@@ -1964,7 +1964,7 @@
 			"name": "Dregwheel",
 			"rarity": "common",
 			"mana_cost": "{W/B}",
-			"type": "Artifact Creature — Silk Zombie",
+			"type": "Artifact Creature — Zombie",
 			"collector_number": "234",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/196.png"
@@ -2005,7 +2005,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W/U}{W/U}{W/U}",
 			"type": "Creature — Insect Performer",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/200.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{8}{B}{R}",
 			"type": "Creature — Insect Beast",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/203.png"
 			}
@@ -2105,7 +2105,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Legendary Creature — Insect Beast Mount",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/210.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U/R}{U/R}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/216.png"
 			}
@@ -2234,7 +2234,7 @@
 			"name": "Needolin",
 			"rarity": "rare",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact — Equipment Tool",
 			"collector_number": "261",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/223.png"
@@ -2525,7 +2525,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Insect Cleric",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/252.png"
 			}
@@ -2535,7 +2535,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}{U/R}",
 			"type": "Creature — Insect Soldier",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/253.png"
 			}
@@ -2575,7 +2575,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Insect",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/257.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Artifact",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/259.png"
 			}
@@ -2703,7 +2703,7 @@
 		{
 			"name": "Crest of the Wanderer",
 			"rarity": "rare",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}",
 			"type": "Legendary Enchantment Artifact",
 			"collector_number": "257",
 			"image_uris": {
@@ -2733,7 +2733,7 @@
 		{
 			"name": "Crest of the Witch",
 			"rarity": "rare",
-			"mana_cost": "{2}{B/G}{B/G}",
+			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Legendary Enchantment Artifact",
 			"collector_number": "233",
 			"image_uris": {
@@ -2785,7 +2785,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}{G}",
 			"type": "Legendary Creature — Snail Shaman",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/278.png"
 			}
@@ -2805,7 +2805,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Artifact — Equipment Tool",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/280.png"
 			}
@@ -2855,7 +2855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Insect Peasant",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/285.png"
 			}
@@ -2865,7 +2865,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Insect Peasant",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/286.png"
 			}
@@ -3155,7 +3155,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Insect Peasant",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/315.png"
 			}
@@ -3165,7 +3165,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Insect Peasant",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/SLK-files/img/316.png"
 			}
@@ -3192,7 +3192,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "59",
+			"collector_number": "58",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3260,7 +3260,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{U}",
 			"type": "Legendary Creature — Insect Warrior Noble",
-			"collector_number": "205",
+			"collector_number": "206",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3294,7 +3294,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Artifact Creature — Spider Avatar",
-			"collector_number": "52",
+			"collector_number": "51",
 			"back": {
 				"name": "",
 				"type": "",

@@ -1,4 +1,378 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+
+
+Choir Clapper
+rules_text: Vigilance
+When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{W}, Exile this card from your graveyard: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Vigilance
+When Choir Clapper enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{W}, Exile this card from your graveyard: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Dreg Husk
+rules_text: Flash
+{1}, Sacrifice this creature: Exile target noncreature artifact or noncreature enchantment.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn. => Flash
+{1}, Sacrifice this creature: Exile target noncreature artifact or noncreature enchantment.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn, and only during your turn.
+
+Pharlid
+rules_text: When this creature enters, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => When this creature enters, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Silk Wraith
+rules_text: Flying, vigilance
+At the beginning of your upkeep, you may discard a card. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn. => Flying, vigilance
+At the beginning of your upkeep, you may discard a card. If you do, return this card from your graveyard to your hand.
+{1}, {T}, Sacrifice this creature: Draw a card. Activate only if a creature entered this turn,and only during your turn.
+
+Pilby's Funeral
+rules_text: When this enchantment enters, create two 1/1 green Insect Peasant creature tokens.
+Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => When this enchantment enters, create two 1/1 green Insect Peasant creature tokens.
+Whenever a creature you control dies, create a tapped Silk token. This ability triggers only once each turn. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Grand Mother Silk
+cost: {2}{W} => {5}{W}{U}{B}
+rules_text: Indestructible
+Grand Mother Silk isn't a creature unless you control three or more Silks.
+Whenever one or more creatures attack you, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.)[/i]
+{T}, Sacrifice a creature or artifact: Draw a card. Activate only if a creature entered this turn. => Flying, ward {3}
+When Grand Mother Silk enters, create six Silk tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+Sacrifice a creature or artifact: When another target creature dies this turn, return it to the battlefield under your control and you draw a card.
+pt: 3/6 => 10/6
+
+Lace, Daughter of Silk
+rules_text: First strike
+Whenever Lace deals combat damage, put a +1/+1 counter on her.
+{1}, {T}, Sacrifice Lace: Draw a card. Activate only if a creature entered this turn. => First strike
+Whenever Lace deals combat damage, put a +1/+1 counter on her.
+{1}, {T}, Sacrifice Lace: Draw a card. Activate only if a creature entered this turn, and only during your turn.
+
+Widow, Threading the Needle
+rules_text: Whenever you cast a Song spell, choose one —
+• Create a 1/1 green Insect Peasant creature token.
+• Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Whenever you cast a Song spell, choose one —
+• Create a 1/1 green Insect Peasant creature token.
+• Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Ecstasy of the End
+rules_text: [i](You may only cast one Song total per turn.)[/i]
+Create three 1/1 white Insect creature tokens. If this spell was cast from a graveyard, put three +1/+1 counters on target creature you control.
+Flashback—Each opponent creates three 1/1 white Insect creature tokens. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Create three 1/1 white Insect creature tokens. When you do, put a +1/+1 counter on target creature you control.
+Flashback—Each opponent creates two 1/1 white Insect creature tokens. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Oath of the Whiteward
+rules_text: [i](You may only cast one Song total per turn.)[/i]
+Create two 2/2 white Insect artifact creature tokens. Then if you control five or more creatures, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Create two 2/2 white Insect artifact creature tokens. Then if you control five or more creatures, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Multibinder
+rules_text: If one or more tokens would be created under your control, those tokens plus an additional tapped Silk token are created instead. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+{T}, Tap an untapped artifact you control: Surveil 2. => If one or more tokens would be created under your control, those tokens plus an additional tapped Silk token are created instead. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+{T}, Tap an untapped artifact you control: Surveil 2.
+
+Cogwork Clapper
+rules_text: This creature enters with X +1/+1 counters on it.
+Whenever this creature deals combat damage, you may remove a counter from it and discard a card. If you do, create two tapped Silk tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This creature enters with X +1/+1 counters on it.
+Whenever this creature deals combat damage, you may remove a counter from it and discard a card. If you do, create two tapped Silk tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Thread Raker
+rules_text: Flash
+When this creature enters, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Flash
+When this creature enters, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Vault Scrollreader
+
+Lost to History
+rules_text: The owner of target creature or artifact puts it into their library second from the top or on the bottom. You create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => The owner of target creature or artifact puts it into their library second from the top or on the bottom. You create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Refute Heresy
+rules_text: Counter target spell.
+Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Counter target spell.
+Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Tracked and Taken
+rules_text: Return target nonland permanent to its owner's hand. If it was attacking, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Return target nonland permanent to its owner's hand. If it was attacking, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Scrounge, Relic Seeker
+rules_text: Whenever you cast a noncreature spell, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+As long as you control four or more artifacts, Scrounge has ward {2}.
+As long as you control eight or more artifacts, creatures you control can't be blocked. => Whenever you cast a noncreature spell, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+As long as you control four or more artifacts, Scrounge has ward {2}.
+As long as you control eight or more artifacts, creatures you control can't be blocked.
+
+Architects' Melody
+cost: {1}{U} => {2}{U}
+rules_text: [i](You may only cast one Song total per turn.)[/i]
+Search your library for an artifact card, reveal it, then shuffle and put that card on top. If this card was cast from a graveyard, put it into your hand instead.
+Flashback—Tap four untapped artifacts you control. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Search your library for an artifact card, reveal it, then put it into your hand.
+Flashback—Tap four untapped artifacts you control. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Silkfly Chorus
+
+Penance By Constriction
+rules_text: Exile target creature. If you cast this spell during your main phase, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Exile target creature. If you cast this spell during your main phase, create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Loam, Cog in the Machine
+rules_text: {T}, Pay 3 life, Sacrifice this creature: Add {B}{B}{B}. => {T}, Pay 1 life, Sacrifice Loam: Add {B}. When you spend this mana to cast a creature spell, it enters with an additional +1/+1 counter on it.
+
+Elegy of the Deep
+cost: {4}{B} => {3}{B}{B}
+rules_text: [i](You may only cast one Song total per turn.)[/i]
+Each player mills three cards, then put target creature card from a graveyard onto the battlefield under your control. If this spell was cast from a graveyard, instead put up to two target creature cards from graveyards onto the battlefield this way.
+Flashback—Sacrifice three creatures. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Each player mills three cards. When they do, put target creature card from a graveyard onto the battlefield under your control.
+Flashback—Sacrifice three creatures. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Skarr Scout
+type: Creature — Insect Warrior => Creature — Insect Warrior Scout
+rules_text: As long as you control a creature with power 5 or greater, this creature has double strike and haste.
+{T}: Add {R}. Use this mana only to cast an Equipment spell or activate an equip ability. => At the beginning of combat on your turn, if you control three or more creatures, this creature gains double strike and haste until end of turn.
+{T}: Add {R}. Use this mana only to cast an Equipment spell or activate an equip ability.
+
+Beastling Call
+rules_text: [i](You may only cast one Song total per turn.)[/i]
+Draw a card, then you may put a creature card with mana value 2 or less from your hand onto the battlefield. When you do, if this card was cast from your graveyard, it deals damage equal to the number of creatures you control to any target.
+Flashback—Sacrifice two lands. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Draw a card, then you may put a creature card with mana value 2 or less from your hand onto the battlefield.
+Flashback—Sacrifice two lands. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Skarr Ambush
+rules_text: Choose one —
+• Skarr Ambush deals 5 damage to each creature.
+• Destroy all artifacts you don't control.
+• Create a 5/3 red Insect Warrior creature token with menace. It gains haste until end of turn. => Choose one —
+• Skarr Ambush deals 4 damage to each creature.
+• Destroy all artifacts you don't control.
+• Create a 5/3 red Insect Warrior creature token with menace. It gains haste until end of turn.
+
+Moss Druid
+rules_text: [i]Landfall[/i] —Whenever a land you control enters, you gain 1 life and surveil 1.
+[i]Pilgrimage[/i] — As long as you control six or more lands, creatures you control have “Whenever this creature is dealt damage, create a tapped Silk token.” [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => [i]Landfall[/i] —Whenever a land you control enters, you gain 1 life and surveil 1.
+[i]Pilgrimage[/i] — As long as you control six or more lands, creatures you control have “Whenever this creature is dealt damage, create a tapped Silk token.” [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Putrid Rot
+
+Trail's End
+rules_text: [i](You may only cast one Song total per turn.)[/i]
+Draw cards equal to the greatest power among creatures you control. If this spell was cast from a graveyard, exile target artifact or enchantment.
+Flashback—Tap any number of untapped creatures you control with total power 8 or greater. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => [i](You may only cast one Song total per turn.)[/i]
+Draw cards equal to the greatest power among creatures you control. When you do, exile target artifact or enchantment.
+Flashback—Tap any number of untapped creatures you control with total power 8 or greater. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Fourth Chorus
+rules_text: Whenever Fourth Chorus attacks, create a Silk token. Then, it deals X damage divided among any number of targets, where X is the number of other artifacts you control. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Whenever Fourth Chorus attacks, create a Silk token. Then, it deals X damage divided among any number of targets, where X is the number of other artifacts you control. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+The Unravelled
+rules_text: {2}{WB}{WB}: Return The Unravelled from your graveyard to the battlefield tapped.
+{1}, {T}, Sacrifice The Unravelled: Draw a card. Activate only if a creature entered this turn. => {2}{WB}{WB}: Return The Unravelled from your graveyard to the battlefield tapped.
+{1}, {T}, Sacrifice The Unravelled: Draw a card. Activate only if a creature entered this turn, and only during your turn.
+
+Twelfth Architect
+rules_text: Whenever another artifact you control enters, put a +1/+1 counter on up to one other target creature you control.
+{4}: Create a tapped Silk token. Activate only as a sorcery. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Whenever another artifact you control enters, put a +1/+1 counter on up to one other target creature you control.
+{4}: Create a tapped Silk token. Activate only as a sorcery. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Craw Memento
+cost: {1}{UB} => {1}{B}
+rules_text: When this artifact enters or leaves the battlefield, target opponent reveals their hand. You choose a nonland card from it. That player puts it into their library second from the top or on the bottom.
+{1}{UB}, Sacrifice this artifact: Target creature gains flying until end of turn. Activate only as a sorcery. => When this artifact enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
+{1}{B}, {T}, Sacrifice this artifact: Target creature gains flying until end of turn.
+
+Dregwheel
+type: Artifact Creature — Silk Zombie => Artifact Creature — Zombie
+
+Whiteward Mortician
+rules_text: {T}, Sacrifice another non-Silk artifact or creature: You gain 1 life and create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => {T}, Sacrifice another non-Silk artifact or creature: You gain 1 life and create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Needolin
+type: Artifact — Equipment => Artifact — Equipment Tool
+
+Blasted Steps
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {R} or {W}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Bone Bottom
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {G} or {W}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Choral Chambers
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {W} or {U}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Deep Docks
+rules_text: This land enters tapped.
+{T}: Add {U} or {R}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {U} or {R}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Far Fields
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {R} or {G}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Greymoor
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {U} or {B}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Moss Grotto
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {G} or {U}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Putrified Ducts
+rules_text: This land enters tapped.
+{T}: Add {B} or {G}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {B} or {G}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Underworks
+rules_text: This land enters tapped.
+{T}: Add {W} or {B}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {W} or {B}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Wormways
+rules_text: This land enters tapped.
+{T}: Add {B} or {R}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => This land enters tapped.
+{T}: Add {B} or {R}.
+{3}, {T}, Sacrifice this land: Create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Grand Confrontation
+rules_text: Exile target creature or artifact. Its controller creates a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Exile target creature or artifact. Its controller creates a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Crest of the Wanderer
+cost: {3} => {2}
+rules_text: Crest — Reveal four cards that share at least one color from your hand. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+When Crest of the Wanderer enters, choose a color. It becomes the chosen color.
+{T}: Target creature you control of the chosen color gains first strike and “Whenever this creature deals combat damage to a player, draw a card.” until end of turn. Activate only as a sorcery. => Crest — Reveal six cards that share at least one color. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+When Crest of the Wanderer enters, choose a color. It becomes the chosen color.
+{T}: Target creature you control of the chosen color gains first strike and “Whenever this creature deals combat damage to a player, draw a card.” until end of turn. Activate only as a sorcery.
+
+Crest of the Architect
+rules_text: Crest — Behold three Equipment cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever an Equipment you control enters, you may pay {2}. If you do, create a 2/2 white Insect Soldier creature token, then you may attach that Equipment to it.
+{2}, {T}: Put a charge counter on target artifact. => Crest — Behold three Equipment cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever an Equipment you control enters, you may pay {2}. If you do, create a 2/2 white Insect Soldier creature token, then you may attach that Equipment to it.
+{1}, {T}: Put a charge counter on target artifact.
+
+Crest of the Witch
+cost: {2}{BG}{BG} => {1}{BG}{BG}
+rules_text: Crest — Pay 5 life. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, target creature you control gains vigilance, trample, and deathtouch until end of turn.
+{BG}, {T}: You gain 1 life and mill a card. => Crest — Tap two untapped creatures you control, pay 3 life. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you gain life, return target creature card from your graveyard to your hand. This ability triggers only once each turn.
+{BG}, {T}: Target creature you control gains lifelink until end of turn.
+
+Crest of the Reaper
+rules_text: Crest — Behold four nonland, noncreature cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a noncreature spell, create a tapped Silk token. You gain 1 life.
+{T}, Pay 3 life: Create a 1/1 green Insect Plant creature token. => Crest — Behold four noncreature, nonland cards. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+Whenever you cast a noncreature spell, create a tapped Silk token.
+{T}, Pay 1 life: Create a 1/1 green Insect Plant creature token.
+
+Crest of the Beast
+rules_text: Crest — Tap untapped creatures you control with total power 7 or greater. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+At the beginning of combat on your turn, target creature you control gets +2/+0 and gains trample and haste until end of turn.
+{RG}{RG}, {T}: Target creature must block this turn if able. => Crest — Tap untapped creatures you control with total power 5 or greater. [i](If this card is your chosen crest outside the game, you may activate the ability as a sorcery. If you do, replace your next draw with this card.)[/i]
+At the beginning of combat on your turn, target creature you control gets +2/+0 and gains trample and haste until end of turn.
+{RG}{RG}, {T}: Target creature must block this turn if able.
+
+Pimpillo
+rules_text: When this Equipment enters, destroy up to one target creature or artifact. Its controller creates a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+Equipped creature gets +1/+1 and has “Whenever this creature attacks, it deals 1 damage to target opponent.”
+Equip {3} => When this Equipment enters, destroy up to one target creature or artifact. Its controller creates a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+Equipped creature gets +1/+1 and has “Whenever this creature attacks, it deals 1 damage to target opponent.”
+Equip {3}
+
+Shear Force
+rules_text: Target player discards two cards.
+If a creature died this turn, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i] => Target player discards two cards.
+If a creature died this turn, create a tapped Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+
+Hardened Legacy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Flash
+I — Gain control of target noncreature spell. You may choose new targets for it.
+II — Up to one target creature becomes an artifact and loses all other card types.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Flash
+I — Gain control of target noncreature spell. You may choose new targets for it.
+II — You may have target creature you control becomes an artifact and loses all other card types. If you do, draw a card.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Flash
+I — Gain control of target noncreature spell. You may choose new targets for it.
+II — Up to one target creature becomes an artifact and loses all other card types.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Flash
+I — Gain control of target noncreature spell. You may choose new targets for it.
+II — You may have target creature you control becomes an artifact and loses all other card types. If you do, draw a card.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+First of the First
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 white Spider token with reach.
+II, III — Put two +1/+1 counters on target creature you control. Create a Silk token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Draw a card. Activate only if a creature entered this turn, and only during your turn.”)[/i]
+IV — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Red Memory
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Search your library and/or graveyard for an artifact card with mana value 4 or less, put it onto the battlefield, then shuffle.
+II — You get an emblem with “Artifacts you control have ‘2, {T}: This artifact deals 1 damage to any target.'”
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Search your library and/or graveyard for an artifact card with mana value 4 or less, put it onto the battlefield, then shuffle.
+II — You get an emblem with “Artifacts you control have ‘{3}, {T}: This artifact deals 1 damage to any target.'”
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Search your library and/or graveyard for an artifact card with mana value 4 or less, put it onto the battlefield, then shuffle.
+II — You get an emblem with “Artifacts you control have ‘2, {T}: This artifact deals 1 damage to any target.'”
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Search your library and/or graveyard for an artifact card with mana value 4 or less, put it onto the battlefield, then shuffle.
+II — You get an emblem with “Artifacts you control have ‘{3}, {T}: This artifact deals 1 damage to any target.'”
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Citadel of Song
+
+Eva, Wasted Weaverspawn
+
+
+VERSION 31 CHANGELOG
 ====================
 
 
