@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "FDI",
+            "set_name": "Forgotten Depths of Ixalan",
+            "formats": ""
+        },
+        {
             "set_code": "SLK",
             "set_name": "Hollow Knight: Silksong",
             "formats": ""

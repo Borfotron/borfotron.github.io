@@ -1,0 +1,3744 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/0.png"
+			}
+		},
+		{
+			"name": "CW02 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/1.png"
+			}
+		},
+		{
+			"name": "Dusk Envoy Glorifier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/2.png"
+			}
+		},
+		{
+			"name": "Dusk Legion Surveyor",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Vampire Scout",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/3.png"
+			}
+		},
+		{
+			"name": "CW06 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/4.png"
+			}
+		},
+		{
+			"name": "CW07 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/5.png"
+			}
+		},
+		{
+			"name": "Migrating Pterodons",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/6.png"
+			}
+		},
+		{
+			"name": "Stalwart Ceratops",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/7.png"
+			}
+		},
+		{
+			"name": "CW10 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/8.png"
+			}
+		},
+		{
+			"name": "CW11 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/9.png"
+			}
+		},
+		{
+			"name": "CW12 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/10.png"
+			}
+		},
+		{
+			"name": "CW13 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/11.png"
+			}
+		},
+		{
+			"name": "CW14 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/12.png"
+			}
+		},
+		{
+			"name": "Wind-Blessed Navigators",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Bird Pirate",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/13.png"
+			}
+		},
+		{
+			"name": "CU02 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/14.png"
+			}
+		},
+		{
+			"name": "CU03 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/15.png"
+			}
+		},
+		{
+			"name": "CU04 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/16.png"
+			}
+		},
+		{
+			"name": "CU05 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/17.png"
+			}
+		},
+		{
+			"name": "Titanic Tortuga",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/18.png"
+			}
+		},
+		{
+			"name": "CU07 MediumWall Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/19.png"
+			}
+		},
+		{
+			"name": "Deepcurrent Watcher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Fish Horror",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/20.png"
+			}
+		},
+		{
+			"name": "CU09 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/21.png"
+			}
+		},
+		{
+			"name": "Deep Harvest",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/22.png"
+			}
+		},
+		{
+			"name": "CU11 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/23.png"
+			}
+		},
+		{
+			"name": "CU12 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/24.png"
+			}
+		},
+		{
+			"name": "CU13 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/25.png"
+			}
+		},
+		{
+			"name": "CU14 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/26.png"
+			}
+		},
+		{
+			"name": "CB01 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/27.png"
+			}
+		},
+		{
+			"name": "CB02 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/28.png"
+			}
+		},
+		{
+			"name": "CB04 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/29.png"
+			}
+		},
+		{
+			"name": "CB05 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/30.png"
+			}
+		},
+		{
+			"name": "Brazen Coalition Defector",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/31.png"
+			}
+		},
+		{
+			"name": "Sanctum Paladin",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Vampire Knight",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/32.png"
+			}
+		},
+		{
+			"name": "CB08 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/33.png"
+			}
+		},
+		{
+			"name": "CB09 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/34.png"
+			}
+		},
+		{
+			"name": "CB10 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/35.png"
+			}
+		},
+		{
+			"name": "CB11 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/36.png"
+			}
+		},
+		{
+			"name": "CB12 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/37.png"
+			}
+		},
+		{
+			"name": "CB13 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/38.png"
+			}
+		},
+		{
+			"name": "CB14 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/39.png"
+			}
+		},
+		{
+			"name": "CR01 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/40.png"
+			}
+		},
+		{
+			"name": "CR03 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/41.png"
+			}
+		},
+		{
+			"name": "CR04 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/42.png"
+			}
+		},
+		{
+			"name": "CR05 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/43.png"
+			}
+		},
+		{
+			"name": "Antifex's Vanguard",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/44.png"
+			}
+		},
+		{
+			"name": "CR07 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/45.png"
+			}
+		},
+		{
+			"name": "Overgrown Barnacles",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Mutant Pirate",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/46.png"
+			}
+		},
+		{
+			"name": "CR09 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/47.png"
+			}
+		},
+		{
+			"name": "CR10 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/48.png"
+			}
+		},
+		{
+			"name": "CR11 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/49.png"
+			}
+		},
+		{
+			"name": "CR12 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/50.png"
+			}
+		},
+		{
+			"name": "CR13 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/51.png"
+			}
+		},
+		{
+			"name": "CR14 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/52.png"
+			}
+		},
+		{
+			"name": "CG01 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/53.png"
+			}
+		},
+		{
+			"name": "CG02 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/54.png"
+			}
+		},
+		{
+			"name": "Taloci Summoner",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/55.png"
+			}
+		},
+		{
+			"name": "Sun Empire Defector",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/56.png"
+			}
+		},
+		{
+			"name": "CG05 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/57.png"
+			}
+		},
+		{
+			"name": "CG06 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/58.png"
+			}
+		},
+		{
+			"name": "CG07 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/59.png"
+			}
+		},
+		{
+			"name": "Ancient Octopus",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Octopus",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/60.png"
+			}
+		},
+		{
+			"name": "Engorged Eudiflora",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/61.png"
+			}
+		},
+		{
+			"name": "Nature Untamed",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/62.png"
+			}
+		},
+		{
+			"name": "CG11 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/63.png"
+			}
+		},
+		{
+			"name": "CG12 Protection Spell",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/64.png"
+			}
+		},
+		{
+			"name": "CG13 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/65.png"
+			}
+		},
+		{
+			"name": "CG14 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/66.png"
+			}
+		},
+		{
+			"name": "CM01 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Creature",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/67.png"
+			}
+		},
+		{
+			"name": "CM02 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Creature",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/68.png"
+			}
+		},
+		{
+			"name": "CM03 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Creature",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/69.png"
+			}
+		},
+		{
+			"name": "CM04 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Creature",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/70.png"
+			}
+		},
+		{
+			"name": "CM05 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Creature",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/71.png"
+			}
+		},
+		{
+			"name": "CA01 Small Creature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/72.png"
+			}
+		},
+		{
+			"name": "CA02 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/73.png"
+			}
+		},
+		{
+			"name": "CA03 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/74.png"
+			}
+		},
+		{
+			"name": "CA04 MediumWall Creature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/75.png"
+			}
+		},
+		{
+			"name": "CA05 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/76.png"
+			}
+		},
+		{
+			"name": "Glittering Gateway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/77.png"
+			}
+		},
+		{
+			"name": "CL02 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/78.png"
+			}
+		},
+		{
+			"name": "CL03 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/79.png"
+			}
+		},
+		{
+			"name": "CL04 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/80.png"
+			}
+		},
+		{
+			"name": "CL05 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/81.png"
+			}
+		},
+		{
+			"name": "CL06 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/82.png"
+			}
+		},
+		{
+			"name": "CL07 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/83.png"
+			}
+		},
+		{
+			"name": "CL08 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/84.png"
+			}
+		},
+		{
+			"name": "CL09 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/85.png"
+			}
+		},
+		{
+			"name": "CL10 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/86.png"
+			}
+		},
+		{
+			"name": "CL11 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/87.png"
+			}
+		},
+		{
+			"name": "CL12 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/88.png"
+			}
+		},
+		{
+			"name": "Crimson Port",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/89.png"
+			}
+		},
+		{
+			"name": "Sun-Soaked Cenote",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/90.png"
+			}
+		},
+		{
+			"name": "Rigorous Reef",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/91.png"
+			}
+		},
+		{
+			"name": "Aslant Fissure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/92.png"
+			}
+		},
+		{
+			"name": "UW01 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/93.png"
+			}
+		},
+		{
+			"name": "UW02 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/94.png"
+			}
+		},
+		{
+			"name": "UW03 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/95.png"
+			}
+		},
+		{
+			"name": "UW04 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/96.png"
+			}
+		},
+		{
+			"name": "UW05 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/97.png"
+			}
+		},
+		{
+			"name": "UW06 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/98.png"
+			}
+		},
+		{
+			"name": "UW07 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/99.png"
+			}
+		},
+		{
+			"name": "UW08 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/100.png"
+			}
+		},
+		{
+			"name": "UW09 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/101.png"
+			}
+		},
+		{
+			"name": "UW10 Large Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/102.png"
+			}
+		},
+		{
+			"name": "UW11 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/103.png"
+			}
+		},
+		{
+			"name": "UW13 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/104.png"
+			}
+		},
+		{
+			"name": "UU01 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/105.png"
+			}
+		},
+		{
+			"name": "UU02 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/106.png"
+			}
+		},
+		{
+			"name": "UU03 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/107.png"
+			}
+		},
+		{
+			"name": "UU04 SmallWall Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/108.png"
+			}
+		},
+		{
+			"name": "UU05 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/109.png"
+			}
+		},
+		{
+			"name": "UU07 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/110.png"
+			}
+		},
+		{
+			"name": "UU08 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/111.png"
+			}
+		},
+		{
+			"name": "UU09 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/112.png"
+			}
+		},
+		{
+			"name": "UU10 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/113.png"
+			}
+		},
+		{
+			"name": "UU13 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/114.png"
+			}
+		},
+		{
+			"name": "UB01 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/115.png"
+			}
+		},
+		{
+			"name": "Grave Plunderers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/116.png"
+			}
+		},
+		{
+			"name": "UB03 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/117.png"
+			}
+		},
+		{
+			"name": "UB04 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/118.png"
+			}
+		},
+		{
+			"name": "UB05 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/119.png"
+			}
+		},
+		{
+			"name": "UB06 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/120.png"
+			}
+		},
+		{
+			"name": "UB07 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/121.png"
+			}
+		},
+		{
+			"name": "UB08 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/122.png"
+			}
+		},
+		{
+			"name": "Dusk's Landing",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/123.png"
+			}
+		},
+		{
+			"name": "UB12 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/124.png"
+			}
+		},
+		{
+			"name": "UR01 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/125.png"
+			}
+		},
+		{
+			"name": "UR02 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/126.png"
+			}
+		},
+		{
+			"name": "UR03 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/127.png"
+			}
+		},
+		{
+			"name": "UR04 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/128.png"
+			}
+		},
+		{
+			"name": "Burning Sun Pyrodancers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/129.png"
+			}
+		},
+		{
+			"name": "UR06 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/130.png"
+			}
+		},
+		{
+			"name": "UR07 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/131.png"
+			}
+		},
+		{
+			"name": "UR08 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/132.png"
+			}
+		},
+		{
+			"name": "UR09 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/133.png"
+			}
+		},
+		{
+			"name": "UR10 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/134.png"
+			}
+		},
+		{
+			"name": "UR11 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/135.png"
+			}
+		},
+		{
+			"name": "UR13 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/136.png"
+			}
+		},
+		{
+			"name": "Deep Idol",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Tentacle Construct",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/137.png"
+			}
+		},
+		{
+			"name": "UG02 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/138.png"
+			}
+		},
+		{
+			"name": "UG03 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/139.png"
+			}
+		},
+		{
+			"name": "UG04 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/140.png"
+			}
+		},
+		{
+			"name": "UG05 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/141.png"
+			}
+		},
+		{
+			"name": "UG06 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/142.png"
+			}
+		},
+		{
+			"name": "UG07 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/143.png"
+			}
+		},
+		{
+			"name": "UG08 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/144.png"
+			}
+		},
+		{
+			"name": "UG09 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/145.png"
+			}
+		},
+		{
+			"name": "Wrap Around",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/146.png"
+			}
+		},
+		{
+			"name": "UG12 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/147.png"
+			}
+		},
+		{
+			"name": "UG13 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/148.png"
+			}
+		},
+		{
+			"name": "UM02 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/149.png"
+			}
+		},
+		{
+			"name": "UM03 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/150.png"
+			}
+		},
+		{
+			"name": "UM04 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Creature",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/151.png"
+			}
+		},
+		{
+			"name": "UM05 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/152.png"
+			}
+		},
+		{
+			"name": "UM06 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/153.png"
+			}
+		},
+		{
+			"name": "UM07 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/154.png"
+			}
+		},
+		{
+			"name": "UM08 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/155.png"
+			}
+		},
+		{
+			"name": "UM10 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Creature",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/156.png"
+			}
+		},
+		{
+			"name": "UM11 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/157.png"
+			}
+		},
+		{
+			"name": "UM12 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Creature",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/158.png"
+			}
+		},
+		{
+			"name": "UM13 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Creature",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/159.png"
+			}
+		},
+		{
+			"name": "UM14 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/160.png"
+			}
+		},
+		{
+			"name": "UM15 Medium Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Creature",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/161.png"
+			}
+		},
+		{
+			"name": "Chitlati, Lightning Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/162.png"
+			}
+		},
+		{
+			"name": "UM17 Large Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Creature",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/163.png"
+			}
+		},
+		{
+			"name": "UM18 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/164.png"
+			}
+		},
+		{
+			"name": "UM19 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/165.png"
+			}
+		},
+		{
+			"name": "UM20 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}{U}",
+			"type": "",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/166.png"
+			}
+		},
+		{
+			"name": "UM21 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/167.png"
+			}
+		},
+		{
+			"name": "UM22 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/168.png"
+			}
+		},
+		{
+			"name": "UM23 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/169.png"
+			}
+		},
+		{
+			"name": "UM24 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/170.png"
+			}
+		},
+		{
+			"name": "UM25 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/171.png"
+			}
+		},
+		{
+			"name": "UA01 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/172.png"
+			}
+		},
+		{
+			"name": "UA02 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/173.png"
+			}
+		},
+		{
+			"name": "UA03 Small Creature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/174.png"
+			}
+		},
+		{
+			"name": "UA04 Large Creature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/175.png"
+			}
+		},
+		{
+			"name": "UA05 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/176.png"
+			}
+		},
+		{
+			"name": "UL01 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/177.png"
+			}
+		},
+		{
+			"name": "UL02 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/178.png"
+			}
+		},
+		{
+			"name": "UL03 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/179.png"
+			}
+		},
+		{
+			"name": "Taloci Overpass",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/180.png"
+			}
+		},
+		{
+			"name": "UL05 Noncreature",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/181.png"
+			}
+		},
+		{
+			"name": "RW01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/182.png"
+			}
+		},
+		{
+			"name": "RW02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/183.png"
+			}
+		},
+		{
+			"name": "RW03 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/184.png"
+			}
+		},
+		{
+			"name": "RW04 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/185.png"
+			}
+		},
+		{
+			"name": "RW05 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/186.png"
+			}
+		},
+		{
+			"name": "RU01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/187.png"
+			}
+		},
+		{
+			"name": "RU02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/188.png"
+			}
+		},
+		{
+			"name": "RU03 Large Creature",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Creature",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/189.png"
+			}
+		},
+		{
+			"name": "RU04 LargeWall Creature",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/190.png"
+			}
+		},
+		{
+			"name": "RU05 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/191.png"
+			}
+		},
+		{
+			"name": "RU06 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/192.png"
+			}
+		},
+		{
+			"name": "RB01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/193.png"
+			}
+		},
+		{
+			"name": "RB02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/194.png"
+			}
+		},
+		{
+			"name": "RB03 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/195.png"
+			}
+		},
+		{
+			"name": "RB04 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/196.png"
+			}
+		},
+		{
+			"name": "RB06 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/197.png"
+			}
+		},
+		{
+			"name": "RR01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/198.png"
+			}
+		},
+		{
+			"name": "RR02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/199.png"
+			}
+		},
+		{
+			"name": "RR03 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/200.png"
+			}
+		},
+		{
+			"name": "RR04 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/201.png"
+			}
+		},
+		{
+			"name": "RR05 Large Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/202.png"
+			}
+		},
+		{
+			"name": "RG01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/203.png"
+			}
+		},
+		{
+			"name": "RG02 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/204.png"
+			}
+		},
+		{
+			"name": "RG03 Large Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/205.png"
+			}
+		},
+		{
+			"name": "RG05 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/206.png"
+			}
+		},
+		{
+			"name": "RG06 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/207.png"
+			}
+		},
+		{
+			"name": "Sara del Vitoria",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Vampire Cleric",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/208.png"
+			}
+		},
+		{
+			"name": "RM03 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Creature",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/209.png"
+			}
+		},
+		{
+			"name": "Hakbal of the Secret Council",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Merfolk Soldier",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/210.png"
+			}
+		},
+		{
+			"name": "RM05 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/211.png"
+			}
+		},
+		{
+			"name": "RM06 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/212.png"
+			}
+		},
+		{
+			"name": "RM07 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/213.png"
+			}
+		},
+		{
+			"name": "RM08 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/214.png"
+			}
+		},
+		{
+			"name": "RM09 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/215.png"
+			}
+		},
+		{
+			"name": "RM10 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/216.png"
+			}
+		},
+		{
+			"name": "RM11 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/217.png"
+			}
+		},
+		{
+			"name": "RM12 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Creature",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/218.png"
+			}
+		},
+		{
+			"name": "RM13 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/219.png"
+			}
+		},
+		{
+			"name": "Quetzi, Threefold Avatar",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Legendary Creature — Dinosaur Avatar",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/220.png"
+			}
+		},
+		{
+			"name": "La Chutli, the Brimming Deep",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Tentacle Horror",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/221.png"
+			}
+		},
+		{
+			"name": "RM18 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/222.png"
+			}
+		},
+		{
+			"name": "RM19 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/223.png"
+			}
+		},
+		{
+			"name": "RM20 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/224.png"
+			}
+		},
+		{
+			"name": "RM23 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/225.png"
+			}
+		},
+		{
+			"name": "Bombastic Bombardier",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Shark Pirate",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/226.png"
+			}
+		},
+		{
+			"name": "RM25 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/227.png"
+			}
+		},
+		{
+			"name": "RA01 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/228.png"
+			}
+		},
+		{
+			"name": "RL01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land Creature",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/229.png"
+			}
+		},
+		{
+			"name": "RL02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land Creature",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/230.png"
+			}
+		},
+		{
+			"name": "RL03 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/231.png"
+			}
+		},
+		{
+			"name": "RL04 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/232.png"
+			}
+		},
+		{
+			"name": "RL05 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/233.png"
+			}
+		},
+		{
+			"name": "Restless Glacier",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/234.png"
+			}
+		},
+		{
+			"name": "MW01 Small Creature",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}",
+			"type": "Creature",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/235.png"
+			}
+		},
+		{
+			"name": "MW02 Noncreature",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/236.png"
+			}
+		},
+		{
+			"name": "MU01 Small Creature",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/237.png"
+			}
+		},
+		{
+			"name": "MB01 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/238.png"
+			}
+		},
+		{
+			"name": "MR01 Medium Creature",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}",
+			"type": "Creature",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/239.png"
+			}
+		},
+		{
+			"name": "MR02 Noncreature",
+			"rarity": "mythic",
+			"mana_cost": "{7}{R}",
+			"type": "",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/240.png"
+			}
+		},
+		{
+			"name": "MG01 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{7}{G}",
+			"type": "Creature",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/241.png"
+			}
+		},
+		{
+			"name": "MM01 Small Creature",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Creature",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/242.png"
+			}
+		},
+		{
+			"name": "MM02 Medium Creature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Creature",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/243.png"
+			}
+		},
+		{
+			"name": "Queen Miralda the Pious",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/244.png"
+			}
+		},
+		{
+			"name": "MM04 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Creature",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/245.png"
+			}
+		},
+		{
+			"name": "MM05 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/246.png"
+			}
+		},
+		{
+			"name": "MM06 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Creature",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/247.png"
+			}
+		},
+		{
+			"name": "MM07 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{G}{W}",
+			"type": "Creature",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/248.png"
+			}
+		},
+		{
+			"name": "Colossal Deluge",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/249.png"
+			}
+		},
+		{
+			"name": "MM10 Noncreature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/250.png"
+			}
+		},
+		{
+			"name": "MM11 Noncreature",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}{U}",
+			"type": "",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/251.png"
+			}
+		},
+		{
+			"name": "MA01 Noncreature",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/252.png"
+			}
+		},
+		{
+			"name": "MX01 Noncreature",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/253.png"
+			}
+		},
+		{
+			"name": "Merfolk Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/254.png"
+			}
+		},
+		{
+			"name": "Hulyac, Brazen Herald",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Merfolk Pirate",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/255.png"
+			}
+		},
+		{
+			"name": "Warden of the North Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/256.png"
+			}
+		},
+		{
+			"name": "Feast of Depths",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/257.png"
+			}
+		},
+		{
+			"name": "Gunpoint Diplomacy",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/258.png"
+			}
+		},
+		{
+			"name": "Jagged Cliffcrusher",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Serpent",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/259.png"
+			}
+		},
+		{
+			"name": "Motley Crew",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/260.png"
+			}
+		},
+		{
+			"name": "Rampaging Raptor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/261.png"
+			}
+		},
+		{
+			"name": "Unwavering Aegisaur",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/262.png"
+			}
+		},
+		{
+			"name": "Captain Brinely Rage",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/263.png"
+			}
+		},
+		{
+			"name": "Corrupted Conquistador",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/264.png"
+			}
+		},
+		{
+			"name": "Corrupted Herald",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Merfolk Scout",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/265.png"
+			}
+		},
+		{
+			"name": "Parasaur Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Dinosaur",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/266.png"
+			}
+		},
+		{
+			"name": "Yemisch, Deep Beckoner",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/267.png"
+			}
+		},
+		{
+			"name": "Breaking of the Fast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Battle — Skirmish",
+			"collector_number": "105",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/FDI-files/img/268_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/268_front.png"
+			}
+		},
+		{
+			"name": "Fall of the Deep Triune",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Battle — Skirmish",
+			"collector_number": "48",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/FDI-files/img/270_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/270_front.png"
+			}
+		},
+		{
+			"name": "RG07 Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/272.png"
+			}
+		},
+		{
+			"name": "Clash of History",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Battle — Skirmish",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/FDI-files/img/273_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/273_front.png"
+			}
+		},
+		{
+			"name": "War of the Fourth Age",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}{R}{G}",
+			"type": "Battle — Skirmish",
+			"collector_number": "236",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/FDI-files/img/275_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/275_front.png"
+			}
+		},
+		{
+			"name": "Jade and Steel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Battle — Skirmish",
+			"collector_number": "150",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/FDI-files/img/277_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/277_front.png"
+			}
+		},
+		{
+			"name": "Show Them No Quarter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Battle — Skirmish",
+			"collector_number": "95",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/FDI-files/img/279_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/279_front.png"
+			}
+		},
+		{
+			"name": "Unlikely Parley",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Battle — Skirmish",
+			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://borfotron.github.io/sets/FDI-files/img/281_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://borfotron.github.io/sets/FDI-files/img/281_front.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 RW01 Small Creature
+	2 RW02 Small Creature
+	2 RW03 Medium Creature
+	2 RW04 Medium Creature
+	2 RW05 Noncreature
+	2 RU01 Small Creature
+	2 RU02 Small Creature
+	2 RU03 Large Creature
+	2 RU04 LargeWall Creature
+	2 RU05 Noncreature
+	2 RU06 Noncreature
+	2 RB01 Small Creature
+	2 RB02 Small Creature
+	2 RB03 Small Creature
+	2 RB04 Small Creature
+	2 RB06 Medium Creature
+	2 RR01 Small Creature
+	2 RR02 Small Creature
+	2 RR03 Small Creature
+	2 RR04 Medium Creature
+	2 RR05 Large Creature
+	2 RG01 Small Creature
+	2 RG02 Medium Creature
+	2 RG03 Large Creature
+	2 RG05 Noncreature
+	2 RG06 Noncreature
+	2 Sara del Vitoria
+	2 RM03 Small Creature
+	2 Hakbal of the Secret Council
+	2 RM05 Medium Creature
+	2 RM06 Medium Creature
+	2 RM07 Medium Creature
+	2 RM08 Medium Creature
+	2 RM09 Medium Creature
+	2 RM10 Medium Creature
+	2 RM11 Medium Creature
+	2 RM12 Medium Creature
+	2 RM13 Medium Creature
+	2 Quetzi, Threefold Avatar
+	2 La Chutli, the Brimming Deep
+	2 RM18 Noncreature
+	2 RM19 Noncreature
+	2 RM20 Noncreature
+	2 RM23 Noncreature
+	2 Bombastic Bombardier
+	2 RM25 Noncreature
+	2 RA01 Noncreature
+	2 RL01 Small Creature
+	2 RL02 Small Creature
+	2 RL03 Noncreature
+	2 RL04 Noncreature
+	2 RL05 Noncreature
+	2 Restless Glacier
+	1 MW01 Small Creature
+	1 MW02 Noncreature
+	1 MU01 Small Creature
+	1 MB01 Large Creature
+	1 MR01 Medium Creature
+	1 MR02 Noncreature
+	1 MG01 Large Creature
+	1 MM01 Small Creature
+	1 MM02 Medium Creature
+	1 Queen Miralda the Pious
+	1 MM04 Large Creature
+	1 MM05 Large Creature
+	1 MM06 Large Creature
+	1 MM07 Large Creature
+	1 Colossal Deluge
+	1 MM10 Noncreature
+	1 MM11 Noncreature
+	1 MA01 Noncreature
+	2 Gunpoint Diplomacy
+	2 Unwavering Aegisaur
+	2 Corrupted Conquistador
+	2 Corrupted Herald
+	2 Yemisch, Deep Beckoner
+	2 RG07 Creature
+	1 War of the Fourth Age
+	2 Unlikely Parley
+[uncommon(3)]
+	4 UW01 Small Creature
+	4 UW02 Small Creature
+	4 UW03 Small Creature
+	4 UW04 Small Creature
+	4 UW05 Small Creature
+	4 UW06 Small Creature
+	4 UW07 Small Creature
+	4 UW08 Medium Creature
+	4 UW09 Medium Creature
+	4 UW10 Large Creature
+	4 UW11 Noncreature
+	4 UW13 Noncreature
+	4 UU01 Small Creature
+	4 UU02 Small Creature
+	4 UU03 Small Creature
+	4 UU04 SmallWall Creature
+	4 UU05 Medium Creature
+	4 UU07 Medium Creature
+	4 UU08 Medium Creature
+	4 UU09 Noncreature
+	4 UU10 Noncreature
+	4 UU13 Noncreature
+	4 UB01 Small Creature
+	4 Grave Plunderers
+	4 UB03 Small Creature
+	4 UB04 Small Creature
+	4 UB05 Medium Creature
+	4 UB06 Medium Creature
+	4 UB07 Medium Creature
+	4 UB08 Medium Creature
+	4 Dusk's Landing
+	4 UB12 Noncreature
+	4 UR01 Small Creature
+	4 UR02 Small Creature
+	4 UR03 Small Creature
+	4 UR04 Small Creature
+	4 Burning Sun Pyrodancers
+	4 UR06 Medium Creature
+	4 UR07 Medium Creature
+	4 UR08 Medium Creature
+	4 UR09 Medium Creature
+	4 UR10 Noncreature
+	4 UR11 Noncreature
+	4 UR13 Noncreature
+	4 Deep Idol
+	4 UG02 Small Creature
+	4 UG03 Small Creature
+	4 UG04 Small Creature
+	4 UG05 Medium Creature
+	4 UG06 Medium Creature
+	4 UG07 Medium Creature
+	4 UG08 Medium Creature
+	4 UG09 Medium Creature
+	4 Wrap Around
+	4 UG12 Noncreature
+	4 UG13 Noncreature
+	4 UM02 Small Creature
+	4 UM03 Small Creature
+	4 UM04 Small Creature
+	4 UM05 Medium Creature
+	4 UM06 Medium Creature
+	4 UM07 Medium Creature
+	4 UM08 Medium Creature
+	4 UM10 Medium Creature
+	4 UM11 Medium Creature
+	4 UM12 Medium Creature
+	4 UM13 Medium Creature
+	4 UM14 Medium Creature
+	4 UM15 Medium Creature
+	4 Chitlati, Lightning Rider
+	4 UM17 Large Creature
+	4 UM18 Noncreature
+	4 UM19 Noncreature
+	4 UM20 Noncreature
+	4 UM21 Noncreature
+	4 UM22 Noncreature
+	4 UM23 Noncreature
+	4 UM24 Noncreature
+	4 UM25 Noncreature
+	4 UA01 Small Creature
+	4 UA02 Small Creature
+	4 UA03 Small Creature
+	4 UA04 Large Creature
+	4 UA05 Noncreature
+	4 UL01 Noncreature
+	4 UL02 Noncreature
+	4 UL03 Noncreature
+	4 Taloci Overpass
+	4 UL05 Noncreature
+	4 Hulyac, Brazen Herald
+	4 Warden of the North Sea
+	4 Feast of Depths
+	4 Jagged Cliffcrusher
+	4 Captain Brinely Rage
+	4 Parasaur Rider
+	4 Breaking of the Fast
+	4 Fall of the Deep Triune
+	4 Clash of History
+	4 Jade and Steel
+	4 Show Them No Quarter
+[common(6)]
+	8 CW01 Small Creature
+	8 CW02 Small Creature
+	8 Dusk Envoy Glorifier
+	8 Dusk Legion Surveyor
+	8 CW06 Medium Creature
+	8 CW07 Medium Creature
+	8 Migrating Pterodons
+	8 Stalwart Ceratops
+	8 CW10 Noncreature
+	8 CW11 Noncreature
+	8 CW12 Noncreature
+	8 CW13 Noncreature
+	8 CW14 Noncreature
+	8 Wind-Blessed Navigators
+	8 CU02 Small Creature
+	8 CU03 Small Creature
+	8 CU04 Medium Creature
+	8 CU05 Medium Creature
+	8 Titanic Tortuga
+	8 CU07 MediumWall Creature
+	8 Deepcurrent Watcher
+	8 CU09 Noncreature
+	8 Deep Harvest
+	8 CU11 Noncreature
+	8 CU12 Noncreature
+	8 CU13 Noncreature
+	8 CU14 Noncreature
+	8 CB01 Small Creature
+	8 CB02 Small Creature
+	8 CB04 Small Creature
+	8 CB05 Small Creature
+	8 Brazen Coalition Defector
+	8 Sanctum Paladin
+	8 CB08 Medium Creature
+	8 CB09 Noncreature
+	8 CB10 Noncreature
+	8 CB11 Noncreature
+	8 CB12 Noncreature
+	8 CB13 Noncreature
+	8 CB14 Noncreature
+	8 CR01 Small Creature
+	8 CR03 Small Creature
+	8 CR04 Small Creature
+	8 CR05 Medium Creature
+	8 Antifex's Vanguard
+	8 CR07 Medium Creature
+	8 Overgrown Barnacles
+	8 CR09 Noncreature
+	8 CR10 Noncreature
+	8 CR11 Noncreature
+	8 CR12 Noncreature
+	8 CR13 Noncreature
+	8 CR14 Noncreature
+	8 CG01 Small Creature
+	8 CG02 Small Creature
+	8 Taloci Summoner
+	8 Sun Empire Defector
+	8 CG05 Medium Creature
+	8 CG06 Medium Creature
+	8 CG07 Medium Creature
+	8 Ancient Octopus
+	8 Engorged Eudiflora
+	8 Nature Untamed
+	8 CG11 Noncreature
+	8 CG12 Protection Spell
+	8 CG13 Noncreature
+	8 CG14 Noncreature
+	8 CM01 Small Creature
+	8 CM02 Small Creature
+	8 CM03 Medium Creature
+	8 CM04 Medium Creature
+	8 CM05 Medium Creature
+	8 CA01 Small Creature
+	8 CA02 Medium Creature
+	8 CA03 Medium Creature
+	8 CA04 MediumWall Creature
+	8 CA05 Noncreature
+	8 Glittering Gateway
+	8 CL02 Noncreature
+	8 CL03 Noncreature
+	8 CL04 Noncreature
+	8 CL05 Noncreature
+	8 CL06 Noncreature
+	8 CL07 Noncreature
+	8 CL08 Noncreature
+	8 CL09 Noncreature
+	8 CL10 Noncreature
+	8 CL11 Noncreature
+	8 CL12 Noncreature
+	8 Crimson Port
+	8 Sun-Soaked Cenote
+	8 Rigorous Reef
+	8 Aslant Fissure
+	8 MX01 Noncreature
+	8 Merfolk Captain
+	8 Motley Crew
+	8 Rampaging Raptor
+[common | masterpiece(1)]
+	8 CW01 Small Creature
+	8 CW02 Small Creature
+	8 Dusk Envoy Glorifier
+	8 Dusk Legion Surveyor
+	8 CW06 Medium Creature
+	8 CW07 Medium Creature
+	8 Migrating Pterodons
+	8 Stalwart Ceratops
+	8 CW10 Noncreature
+	8 CW11 Noncreature
+	8 CW12 Noncreature
+	8 CW13 Noncreature
+	8 CW14 Noncreature
+	8 Wind-Blessed Navigators
+	8 CU02 Small Creature
+	8 CU03 Small Creature
+	8 CU04 Medium Creature
+	8 CU05 Medium Creature
+	8 Titanic Tortuga
+	8 CU07 MediumWall Creature
+	8 Deepcurrent Watcher
+	8 CU09 Noncreature
+	8 Deep Harvest
+	8 CU11 Noncreature
+	8 CU12 Noncreature
+	8 CU13 Noncreature
+	8 CU14 Noncreature
+	8 CB01 Small Creature
+	8 CB02 Small Creature
+	8 CB04 Small Creature
+	8 CB05 Small Creature
+	8 Brazen Coalition Defector
+	8 Sanctum Paladin
+	8 CB08 Medium Creature
+	8 CB09 Noncreature
+	8 CB10 Noncreature
+	8 CB11 Noncreature
+	8 CB12 Noncreature
+	8 CB13 Noncreature
+	8 CB14 Noncreature
+	8 CR01 Small Creature
+	8 CR03 Small Creature
+	8 CR04 Small Creature
+	8 CR05 Medium Creature
+	8 Antifex's Vanguard
+	8 CR07 Medium Creature
+	8 Overgrown Barnacles
+	8 CR09 Noncreature
+	8 CR10 Noncreature
+	8 CR11 Noncreature
+	8 CR12 Noncreature
+	8 CR13 Noncreature
+	8 CR14 Noncreature
+	8 CG01 Small Creature
+	8 CG02 Small Creature
+	8 Taloci Summoner
+	8 Sun Empire Defector
+	8 CG05 Medium Creature
+	8 CG06 Medium Creature
+	8 CG07 Medium Creature
+	8 Ancient Octopus
+	8 Engorged Eudiflora
+	8 Nature Untamed
+	8 CG11 Noncreature
+	8 CG12 Protection Spell
+	8 CG13 Noncreature
+	8 CG14 Noncreature
+	8 CM01 Small Creature
+	8 CM02 Small Creature
+	8 CM03 Medium Creature
+	8 CM04 Medium Creature
+	8 CM05 Medium Creature
+	8 CA01 Small Creature
+	8 CA02 Medium Creature
+	8 CA03 Medium Creature
+	8 CA04 MediumWall Creature
+	8 CA05 Noncreature
+	8 Glittering Gateway
+	8 CL02 Noncreature
+	8 CL03 Noncreature
+	8 CL04 Noncreature
+	8 CL05 Noncreature
+	8 CL06 Noncreature
+	8 CL07 Noncreature
+	8 CL08 Noncreature
+	8 CL09 Noncreature
+	8 CL10 Noncreature
+	8 CL11 Noncreature
+	8 CL12 Noncreature
+	8 Crimson Port
+	8 Sun-Soaked Cenote
+	8 Rigorous Reef
+	8 Aslant Fissure
+	8 MX01 Noncreature
+	8 Merfolk Captain
+	8 Motley Crew
+	8 Rampaging Raptor
+[foil(1)]
+	12 CW01 Small Creature
+	12 CW02 Small Creature
+	12 Dusk Envoy Glorifier
+	12 Dusk Legion Surveyor
+	12 CW06 Medium Creature
+	12 CW07 Medium Creature
+	12 Migrating Pterodons
+	12 Stalwart Ceratops
+	12 CW10 Noncreature
+	12 CW11 Noncreature
+	12 CW12 Noncreature
+	12 CW13 Noncreature
+	12 CW14 Noncreature
+	12 Wind-Blessed Navigators
+	12 CU02 Small Creature
+	12 CU03 Small Creature
+	12 CU04 Medium Creature
+	12 CU05 Medium Creature
+	12 Titanic Tortuga
+	12 CU07 MediumWall Creature
+	12 Deepcurrent Watcher
+	12 CU09 Noncreature
+	12 Deep Harvest
+	12 CU11 Noncreature
+	12 CU12 Noncreature
+	12 CU13 Noncreature
+	12 CU14 Noncreature
+	12 CB01 Small Creature
+	12 CB02 Small Creature
+	12 CB04 Small Creature
+	12 CB05 Small Creature
+	12 Brazen Coalition Defector
+	12 Sanctum Paladin
+	12 CB08 Medium Creature
+	12 CB09 Noncreature
+	12 CB10 Noncreature
+	12 CB11 Noncreature
+	12 CB12 Noncreature
+	12 CB13 Noncreature
+	12 CB14 Noncreature
+	12 CR01 Small Creature
+	12 CR03 Small Creature
+	12 CR04 Small Creature
+	12 CR05 Medium Creature
+	12 Antifex's Vanguard
+	12 CR07 Medium Creature
+	12 Overgrown Barnacles
+	12 CR09 Noncreature
+	12 CR10 Noncreature
+	12 CR11 Noncreature
+	12 CR12 Noncreature
+	12 CR13 Noncreature
+	12 CR14 Noncreature
+	12 CG01 Small Creature
+	12 CG02 Small Creature
+	12 Taloci Summoner
+	12 Sun Empire Defector
+	12 CG05 Medium Creature
+	12 CG06 Medium Creature
+	12 CG07 Medium Creature
+	12 Ancient Octopus
+	12 Engorged Eudiflora
+	12 Nature Untamed
+	12 CG11 Noncreature
+	12 CG12 Protection Spell
+	12 CG13 Noncreature
+	12 CG14 Noncreature
+	12 CM01 Small Creature
+	12 CM02 Small Creature
+	12 CM03 Medium Creature
+	12 CM04 Medium Creature
+	12 CM05 Medium Creature
+	12 CA01 Small Creature
+	12 CA02 Medium Creature
+	12 CA03 Medium Creature
+	12 CA04 MediumWall Creature
+	12 CA05 Noncreature
+	12 Glittering Gateway
+	12 CL02 Noncreature
+	12 CL03 Noncreature
+	12 CL04 Noncreature
+	12 CL05 Noncreature
+	12 CL06 Noncreature
+	12 CL07 Noncreature
+	12 CL08 Noncreature
+	12 CL09 Noncreature
+	12 CL10 Noncreature
+	12 CL11 Noncreature
+	12 CL12 Noncreature
+	12 Crimson Port
+	12 Sun-Soaked Cenote
+	12 Rigorous Reef
+	12 Aslant Fissure
+	6 UW01 Small Creature
+	6 UW02 Small Creature
+	6 UW03 Small Creature
+	6 UW04 Small Creature
+	6 UW05 Small Creature
+	6 UW06 Small Creature
+	6 UW07 Small Creature
+	6 UW08 Medium Creature
+	6 UW09 Medium Creature
+	6 UW10 Large Creature
+	6 UW11 Noncreature
+	6 UW13 Noncreature
+	6 UU01 Small Creature
+	6 UU02 Small Creature
+	6 UU03 Small Creature
+	6 UU04 SmallWall Creature
+	6 UU05 Medium Creature
+	6 UU07 Medium Creature
+	6 UU08 Medium Creature
+	6 UU09 Noncreature
+	6 UU10 Noncreature
+	6 UU13 Noncreature
+	6 UB01 Small Creature
+	6 Grave Plunderers
+	6 UB03 Small Creature
+	6 UB04 Small Creature
+	6 UB05 Medium Creature
+	6 UB06 Medium Creature
+	6 UB07 Medium Creature
+	6 UB08 Medium Creature
+	6 Dusk's Landing
+	6 UB12 Noncreature
+	6 UR01 Small Creature
+	6 UR02 Small Creature
+	6 UR03 Small Creature
+	6 UR04 Small Creature
+	6 Burning Sun Pyrodancers
+	6 UR06 Medium Creature
+	6 UR07 Medium Creature
+	6 UR08 Medium Creature
+	6 UR09 Medium Creature
+	6 UR10 Noncreature
+	6 UR11 Noncreature
+	6 UR13 Noncreature
+	6 Deep Idol
+	6 UG02 Small Creature
+	6 UG03 Small Creature
+	6 UG04 Small Creature
+	6 UG05 Medium Creature
+	6 UG06 Medium Creature
+	6 UG07 Medium Creature
+	6 UG08 Medium Creature
+	6 UG09 Medium Creature
+	6 Wrap Around
+	6 UG12 Noncreature
+	6 UG13 Noncreature
+	6 UM02 Small Creature
+	6 UM03 Small Creature
+	6 UM04 Small Creature
+	6 UM05 Medium Creature
+	6 UM06 Medium Creature
+	6 UM07 Medium Creature
+	6 UM08 Medium Creature
+	6 UM10 Medium Creature
+	6 UM11 Medium Creature
+	6 UM12 Medium Creature
+	6 UM13 Medium Creature
+	6 UM14 Medium Creature
+	6 UM15 Medium Creature
+	6 Chitlati, Lightning Rider
+	6 UM17 Large Creature
+	6 UM18 Noncreature
+	6 UM19 Noncreature
+	6 UM20 Noncreature
+	6 UM21 Noncreature
+	6 UM22 Noncreature
+	6 UM23 Noncreature
+	6 UM24 Noncreature
+	6 UM25 Noncreature
+	6 UA01 Small Creature
+	6 UA02 Small Creature
+	6 UA03 Small Creature
+	6 UA04 Large Creature
+	6 UA05 Noncreature
+	6 UL01 Noncreature
+	6 UL02 Noncreature
+	6 UL03 Noncreature
+	6 Taloci Overpass
+	6 UL05 Noncreature
+	2 RW01 Small Creature
+	2 RW02 Small Creature
+	2 RW03 Medium Creature
+	2 RW04 Medium Creature
+	2 RW05 Noncreature
+	2 RU01 Small Creature
+	2 RU02 Small Creature
+	2 RU03 Large Creature
+	2 RU04 LargeWall Creature
+	2 RU05 Noncreature
+	2 RU06 Noncreature
+	2 RB01 Small Creature
+	2 RB02 Small Creature
+	2 RB03 Small Creature
+	2 RB04 Small Creature
+	2 RB06 Medium Creature
+	2 RR01 Small Creature
+	2 RR02 Small Creature
+	2 RR03 Small Creature
+	2 RR04 Medium Creature
+	2 RR05 Large Creature
+	2 RG01 Small Creature
+	2 RG02 Medium Creature
+	2 RG03 Large Creature
+	2 RG05 Noncreature
+	2 RG06 Noncreature
+	2 Sara del Vitoria
+	2 RM03 Small Creature
+	2 Hakbal of the Secret Council
+	2 RM05 Medium Creature
+	2 RM06 Medium Creature
+	2 RM07 Medium Creature
+	2 RM08 Medium Creature
+	2 RM09 Medium Creature
+	2 RM10 Medium Creature
+	2 RM11 Medium Creature
+	2 RM12 Medium Creature
+	2 RM13 Medium Creature
+	2 Quetzi, Threefold Avatar
+	2 La Chutli, the Brimming Deep
+	2 RM18 Noncreature
+	2 RM19 Noncreature
+	2 RM20 Noncreature
+	2 RM23 Noncreature
+	2 Bombastic Bombardier
+	2 RM25 Noncreature
+	2 RA01 Noncreature
+	2 RL01 Small Creature
+	2 RL02 Small Creature
+	2 RL03 Noncreature
+	2 RL04 Noncreature
+	2 RL05 Noncreature
+	2 Restless Glacier
+	1 MW01 Small Creature
+	1 MW02 Noncreature
+	1 MU01 Small Creature
+	1 MB01 Large Creature
+	1 MR01 Medium Creature
+	1 MR02 Noncreature
+	1 MG01 Large Creature
+	1 MM01 Small Creature
+	1 MM02 Medium Creature
+	1 Queen Miralda the Pious
+	1 MM04 Large Creature
+	1 MM05 Large Creature
+	1 MM06 Large Creature
+	1 MM07 Large Creature
+	1 Colossal Deluge
+	1 MM10 Noncreature
+	1 MM11 Noncreature
+	1 MA01 Noncreature
+	12 MX01 Noncreature
+	12 Merfolk Captain
+	6 Hulyac, Brazen Herald
+	6 Warden of the North Sea
+	6 Feast of Depths
+	2 Gunpoint Diplomacy
+	6 Jagged Cliffcrusher
+	12 Motley Crew
+	12 Rampaging Raptor
+	2 Unwavering Aegisaur
+	6 Captain Brinely Rage
+	2 Corrupted Conquistador
+	2 Corrupted Herald
+	6 Parasaur Rider
+	2 Yemisch, Deep Beckoner
+	6 Breaking of the Fast
+	6 Fall of the Deep Triune
+	2 RG07 Creature
+	6 Clash of History
+	1 War of the Fourth Age
+	6 Jade and Steel
+	6 Show Them No Quarter
+	2 Unlikely Parley
+[wildcard(1)]
+	6 CW01 Small Creature
+	6 CW02 Small Creature
+	6 Dusk Envoy Glorifier
+	6 Dusk Legion Surveyor
+	6 CW06 Medium Creature
+	6 CW07 Medium Creature
+	6 Migrating Pterodons
+	6 Stalwart Ceratops
+	6 CW10 Noncreature
+	6 CW11 Noncreature
+	6 CW12 Noncreature
+	6 CW13 Noncreature
+	6 CW14 Noncreature
+	6 Wind-Blessed Navigators
+	6 CU02 Small Creature
+	6 CU03 Small Creature
+	6 CU04 Medium Creature
+	6 CU05 Medium Creature
+	6 Titanic Tortuga
+	6 CU07 MediumWall Creature
+	6 Deepcurrent Watcher
+	6 CU09 Noncreature
+	6 Deep Harvest
+	6 CU11 Noncreature
+	6 CU12 Noncreature
+	6 CU13 Noncreature
+	6 CU14 Noncreature
+	6 CB01 Small Creature
+	6 CB02 Small Creature
+	6 CB04 Small Creature
+	6 CB05 Small Creature
+	6 Brazen Coalition Defector
+	6 Sanctum Paladin
+	6 CB08 Medium Creature
+	6 CB09 Noncreature
+	6 CB10 Noncreature
+	6 CB11 Noncreature
+	6 CB12 Noncreature
+	6 CB13 Noncreature
+	6 CB14 Noncreature
+	6 CR01 Small Creature
+	6 CR03 Small Creature
+	6 CR04 Small Creature
+	6 CR05 Medium Creature
+	6 Antifex's Vanguard
+	6 CR07 Medium Creature
+	6 Overgrown Barnacles
+	6 CR09 Noncreature
+	6 CR10 Noncreature
+	6 CR11 Noncreature
+	6 CR12 Noncreature
+	6 CR13 Noncreature
+	6 CR14 Noncreature
+	6 CG01 Small Creature
+	6 CG02 Small Creature
+	6 Taloci Summoner
+	6 Sun Empire Defector
+	6 CG05 Medium Creature
+	6 CG06 Medium Creature
+	6 CG07 Medium Creature
+	6 Ancient Octopus
+	6 Engorged Eudiflora
+	6 Nature Untamed
+	6 CG11 Noncreature
+	6 CG12 Protection Spell
+	6 CG13 Noncreature
+	6 CG14 Noncreature
+	6 CM01 Small Creature
+	6 CM02 Small Creature
+	6 CM03 Medium Creature
+	6 CM04 Medium Creature
+	6 CM05 Medium Creature
+	6 CA01 Small Creature
+	6 CA02 Medium Creature
+	6 CA03 Medium Creature
+	6 CA04 MediumWall Creature
+	6 CA05 Noncreature
+	6 Glittering Gateway
+	6 CL02 Noncreature
+	6 CL03 Noncreature
+	6 CL04 Noncreature
+	6 CL05 Noncreature
+	6 CL06 Noncreature
+	6 CL07 Noncreature
+	6 CL08 Noncreature
+	6 CL09 Noncreature
+	6 CL10 Noncreature
+	6 CL11 Noncreature
+	6 CL12 Noncreature
+	6 Crimson Port
+	6 Sun-Soaked Cenote
+	6 Rigorous Reef
+	6 Aslant Fissure
+	15 UW01 Small Creature
+	15 UW02 Small Creature
+	15 UW03 Small Creature
+	15 UW04 Small Creature
+	15 UW05 Small Creature
+	15 UW06 Small Creature
+	15 UW07 Small Creature
+	15 UW08 Medium Creature
+	15 UW09 Medium Creature
+	15 UW10 Large Creature
+	15 UW11 Noncreature
+	15 UW13 Noncreature
+	15 UU01 Small Creature
+	15 UU02 Small Creature
+	15 UU03 Small Creature
+	15 UU04 SmallWall Creature
+	15 UU05 Medium Creature
+	15 UU07 Medium Creature
+	15 UU08 Medium Creature
+	15 UU09 Noncreature
+	15 UU10 Noncreature
+	15 UU13 Noncreature
+	15 UB01 Small Creature
+	15 Grave Plunderers
+	15 UB03 Small Creature
+	15 UB04 Small Creature
+	15 UB05 Medium Creature
+	15 UB06 Medium Creature
+	15 UB07 Medium Creature
+	15 UB08 Medium Creature
+	15 Dusk's Landing
+	15 UB12 Noncreature
+	15 UR01 Small Creature
+	15 UR02 Small Creature
+	15 UR03 Small Creature
+	15 UR04 Small Creature
+	15 Burning Sun Pyrodancers
+	15 UR06 Medium Creature
+	15 UR07 Medium Creature
+	15 UR08 Medium Creature
+	15 UR09 Medium Creature
+	15 UR10 Noncreature
+	15 UR11 Noncreature
+	15 UR13 Noncreature
+	15 Deep Idol
+	15 UG02 Small Creature
+	15 UG03 Small Creature
+	15 UG04 Small Creature
+	15 UG05 Medium Creature
+	15 UG06 Medium Creature
+	15 UG07 Medium Creature
+	15 UG08 Medium Creature
+	15 UG09 Medium Creature
+	15 Wrap Around
+	15 UG12 Noncreature
+	15 UG13 Noncreature
+	15 UM02 Small Creature
+	15 UM03 Small Creature
+	15 UM04 Small Creature
+	15 UM05 Medium Creature
+	15 UM06 Medium Creature
+	15 UM07 Medium Creature
+	15 UM08 Medium Creature
+	15 UM10 Medium Creature
+	15 UM11 Medium Creature
+	15 UM12 Medium Creature
+	15 UM13 Medium Creature
+	15 UM14 Medium Creature
+	15 UM15 Medium Creature
+	15 Chitlati, Lightning Rider
+	15 UM17 Large Creature
+	15 UM18 Noncreature
+	15 UM19 Noncreature
+	15 UM20 Noncreature
+	15 UM21 Noncreature
+	15 UM22 Noncreature
+	15 UM23 Noncreature
+	15 UM24 Noncreature
+	15 UM25 Noncreature
+	15 UA01 Small Creature
+	15 UA02 Small Creature
+	15 UA03 Small Creature
+	15 UA04 Large Creature
+	15 UA05 Noncreature
+	15 UL01 Noncreature
+	15 UL02 Noncreature
+	15 UL03 Noncreature
+	15 Taloci Overpass
+	15 UL05 Noncreature
+	7 RW01 Small Creature
+	7 RW02 Small Creature
+	7 RW03 Medium Creature
+	7 RW04 Medium Creature
+	7 RW05 Noncreature
+	7 RU01 Small Creature
+	7 RU02 Small Creature
+	7 RU03 Large Creature
+	7 RU04 LargeWall Creature
+	7 RU05 Noncreature
+	7 RU06 Noncreature
+	7 RB01 Small Creature
+	7 RB02 Small Creature
+	7 RB03 Small Creature
+	7 RB04 Small Creature
+	7 RB06 Medium Creature
+	7 RR01 Small Creature
+	7 RR02 Small Creature
+	7 RR03 Small Creature
+	7 RR04 Medium Creature
+	7 RR05 Large Creature
+	7 RG01 Small Creature
+	7 RG02 Medium Creature
+	7 RG03 Large Creature
+	7 RG05 Noncreature
+	7 RG06 Noncreature
+	7 Sara del Vitoria
+	7 RM03 Small Creature
+	7 Hakbal of the Secret Council
+	7 RM05 Medium Creature
+	7 RM06 Medium Creature
+	7 RM07 Medium Creature
+	7 RM08 Medium Creature
+	7 RM09 Medium Creature
+	7 RM10 Medium Creature
+	7 RM11 Medium Creature
+	7 RM12 Medium Creature
+	7 RM13 Medium Creature
+	7 Quetzi, Threefold Avatar
+	7 La Chutli, the Brimming Deep
+	7 RM18 Noncreature
+	7 RM19 Noncreature
+	7 RM20 Noncreature
+	7 RM23 Noncreature
+	7 Bombastic Bombardier
+	7 RM25 Noncreature
+	7 RA01 Noncreature
+	7 RL01 Small Creature
+	7 RL02 Small Creature
+	7 RL03 Noncreature
+	7 RL04 Noncreature
+	7 RL05 Noncreature
+	7 Restless Glacier
+	4 MW01 Small Creature
+	4 MW02 Noncreature
+	4 MU01 Small Creature
+	4 MB01 Large Creature
+	4 MR01 Medium Creature
+	4 MR02 Noncreature
+	4 MG01 Large Creature
+	4 MM01 Small Creature
+	4 MM02 Medium Creature
+	4 Queen Miralda the Pious
+	4 MM04 Large Creature
+	4 MM05 Large Creature
+	4 MM06 Large Creature
+	4 MM07 Large Creature
+	4 Colossal Deluge
+	4 MM10 Noncreature
+	4 MM11 Noncreature
+	4 MA01 Noncreature
+	6 MX01 Noncreature
+	6 Merfolk Captain
+	15 Hulyac, Brazen Herald
+	15 Warden of the North Sea
+	15 Feast of Depths
+	7 Gunpoint Diplomacy
+	15 Jagged Cliffcrusher
+	6 Motley Crew
+	6 Rampaging Raptor
+	7 Unwavering Aegisaur
+	15 Captain Brinely Rage
+	7 Corrupted Conquistador
+	7 Corrupted Herald
+	15 Parasaur Rider
+	7 Yemisch, Deep Beckoner
+	15 Breaking of the Fast
+	15 Fall of the Deep Triune
+	7 RG07 Creature
+	15 Clash of History
+	4 War of the Fourth Age
+	15 Jade and Steel
+	15 Show Them No Quarter
+	7 Unlikely Parley
