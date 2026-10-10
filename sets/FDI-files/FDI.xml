@@ -5,7 +5,7 @@
 			<name>FDI</name>
 			<longname>Forgotten Depths of Ixalan</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-03</releasedate>
+			<releasedate>2026-10-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -61,7 +61,7 @@ Whenever another creature you control enters, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Dusk Legion Surveyor</name>
-			<text>Whenever this creature attacks, you may toil. If you do, this creature gains +1/+1 and first strike until end of turn. (To toil, pay 3 life or remove a counter from a permanent you control.)</text>
+			<text>Whenever this creature attacks, you may toil. If you do, this creature gets +1/+1 and gains first strike until end of turn. (To toil, pay 3 life or remove a counter from a permanent you control.)</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/3.png" num="13">FDI</set>
 			<prop>
 				<layout>normal</layout>
@@ -1002,7 +1002,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Ancient Octopus</name>
 			<text>Thaw 3 — {2}{G} (You may cast this spell for its thaw cost. If you do, it enters tapped with three stun counters.)
-When this creature enters, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+When this creature enters, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. You gain 2 life.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/60.png" num="138">FDI</set>
 			<prop>
 				<layout>normal</layout>
@@ -1013,7 +1013,7 @@ When this creature enters, search your library for a basic land card, put that c
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/5</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1121,7 +1121,7 @@ Enchanted creature gets +0/+1 and has ward {1}.</text>
 		<card>
 			<name>CM01 Small Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/67.png" num="175">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/67.png" num="176">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1137,7 +1137,7 @@ Enchanted creature gets +0/+1 and has ward {1}.</text>
 		<card>
 			<name>CM02 Small Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/68.png" num="176">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/68.png" num="177">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1153,7 +1153,7 @@ Enchanted creature gets +0/+1 and has ward {1}.</text>
 		<card>
 			<name>CM03 Medium Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/69.png" num="177">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/69.png" num="178">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1169,7 +1169,7 @@ Enchanted creature gets +0/+1 and has ward {1}.</text>
 		<card>
 			<name>CM04 Medium Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/70.png" num="178">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/70.png" num="179">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1185,7 +1185,7 @@ Enchanted creature gets +0/+1 and has ward {1}.</text>
 		<card>
 			<name>CM05 Medium Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/71.png" num="179">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/71.png" num="180">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1270,10 +1270,9 @@ Enchanted creature gets +0/+1 and has ward {1}.</text>
 		</card>
 		<card>
 			<name>Glittering Gateway</name>
-			<text>This land enters tapped.
-As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/77.png" num="263">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/77.png" num="262">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1286,9 +1285,10 @@ As this land enters, you may remove a counter from a permanent you control. If y
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL02 Noncreature</name>
-			<text>{T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/78.png" num="251">FDI</set>
+			<name>Desiccated Ruins</name>
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/78.png" num="261">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1301,9 +1301,10 @@ As this land enters, you may remove a counter from a permanent you control. If y
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL03 Noncreature</name>
-			<text>{T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/79.png" num="252">FDI</set>
+			<name>Stern Cemetery</name>
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/79.png" num="270">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1318,7 +1319,7 @@ As this land enters, you may remove a counter from a permanent you control. If y
 		<card>
 			<name>CL04 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/80.png" num="253">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/80.png" num="255">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1332,7 +1333,7 @@ As this land enters, you may remove a counter from a permanent you control. If y
 		<card>
 			<name>CL05 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/81.png" num="254">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/81.png" num="256">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1346,7 +1347,7 @@ As this land enters, you may remove a counter from a permanent you control. If y
 		<card>
 			<name>CL06 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/82.png" num="255">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/82.png" num="257">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1358,9 +1359,10 @@ As this land enters, you may remove a counter from a permanent you control. If y
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL07 Noncreature</name>
-			<text>{T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/83.png" num="256">FDI</set>
+			<name>Bottomless Quarry</name>
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/83.png" num="252">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1375,7 +1377,7 @@ As this land enters, you may remove a counter from a permanent you control. If y
 		<card>
 			<name>CL08 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/84.png" num="257">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/84.png" num="258">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1389,7 +1391,7 @@ As this land enters, you may remove a counter from a permanent you control. If y
 		<card>
 			<name>CL09 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/85.png" num="258">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/85.png" num="259">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1401,9 +1403,10 @@ As this land enters, you may remove a counter from a permanent you control. If y
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL10 Noncreature</name>
-			<text>{T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/86.png" num="259">FDI</set>
+			<name>Carnivorous Canopy</name>
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/86.png" num="254">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1416,11 +1419,10 @@ As this land enters, you may remove a counter from a permanent you control. If y
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL11 Noncreature</name>
-			<text>This land enters tapped.
-As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+			<name>Bygone Passageway</name>
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/87.png" num="260">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/87.png" num="253">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1435,7 +1437,7 @@ As this land enters, you may remove a counter from a permanent you control. If y
 		<card>
 			<name>CL12 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/88.png" num="261">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/88.png" num="260">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1447,11 +1449,10 @@ As this land enters, you may remove a counter from a permanent you control. If y
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Crimson Port</name>
-			<text>This land enters tapped.
-As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+			<name>Bloodsoaked Port</name>
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/89.png" num="262">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/89.png" num="251">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1465,8 +1466,7 @@ As this land enters, you may remove a counter from a permanent you control. If y
 		</card>
 		<card>
 			<name>Sun-Soaked Cenote</name>
-			<text>This land enters tapped.
-When this land enters, remove a counter from up to one target permanent you control.
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
 {T}: Add {G} or {U}.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/90.png" num="271">FDI</set>
 			<prop>
@@ -1482,10 +1482,9 @@ When this land enters, remove a counter from up to one target permanent you cont
 		</card>
 		<card>
 			<name>Rigorous Reef</name>
-			<text>This land enters tapped.
-As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/91.png" num="265">FDI</set>
+			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/91.png" num="268">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1499,8 +1498,7 @@ As this land enters, you may remove a counter from a permanent you control. If y
 		</card>
 		<card>
 			<name>Aslant Fissure</name>
-			<text>This land enters tapped.
-As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
+			<text>As this land enters, you may remove a counter from a permanent you control. If you don&apos;t, it enters tapped.
 {T}: Add {R} or {W}.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/92.png" num="250">FDI</set>
 			<prop>
@@ -2419,7 +2417,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 		<card>
 			<name>UM02 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/149.png" num="212">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/149.png" num="213">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2435,7 +2433,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 		<card>
 			<name>UM03 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/150.png" num="213">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/150.png" num="214">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2451,7 +2449,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 		<card>
 			<name>UM04 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/151.png" num="214">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/151.png" num="215">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2467,7 +2465,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 		<card>
 			<name>UM05 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/152.png" num="215">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/152.png" num="216">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2483,7 +2481,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 		<card>
 			<name>UM06 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/153.png" num="216">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/153.png" num="217">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2499,7 +2497,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 		<card>
 			<name>UM07 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/154.png" num="217">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/154.png" num="218">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2515,7 +2513,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 		<card>
 			<name>UM08 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/155.png" num="218">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/155.png" num="219">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2531,7 +2529,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 		<card>
 			<name>UM10 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/156.png" num="219">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/156.png" num="220">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2545,18 +2543,20 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM11 Medium Creature</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/157.png" num="220">FDI</set>
+			<name>Deepglitter Narwhal</name>
+			<text>This creature can&apos;t be blocked.
+When this creature enters or dies, create a tapped Treasure token.</text>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/157.png" num="184">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Whale</type>
 				<maintype>Creature</maintype>
-				<manacost>2UB</manacost>
-				<cmc>4</cmc>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2628,7 +2628,7 @@ Ransack — Sacrifice another creature or artifact: Draw a card. (Activate only 
 			<name>Chitlati, Lightning Rider</name>
 			<text>Double strike
 If a creature with power 4 or greater entering or being dealt damage causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/162.png" num="174">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/162.png" num="175">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3353,7 +3353,7 @@ If a creature with power 4 or greater entering or being dealt damage causes a tr
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Sara del Vitoria</name>
+			<name>Sara de Vittoria</name>
 			<text>When Sara enters, create a 1/1 white Vampire creature token with lifelink.
 Vampires you control have haste.
 {1}{B}, {T}: Search your library for a card, put it into your hand, then shuffle. Activate only if you&apos;ve gained and lost life this turn.</text>
@@ -3374,7 +3374,7 @@ Vampires you control have haste.
 		<card>
 			<name>RM03 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/209.png" num="196">FDI</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/209.png" num="197">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3391,7 +3391,7 @@ Vampires you control have haste.
 			<name>Hakbal of the Secret Council</name>
 			<text>Vigilance
 At the beginning of combat on your turn, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/210.png" num="183">FDI</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/210.png" num="186">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3408,7 +3408,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on each creature yo
 		<card>
 			<name>RM05 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/211.png" num="197">FDI</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/211.png" num="198">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3424,7 +3424,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on each creature yo
 		<card>
 			<name>RM06 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/212.png" num="198">FDI</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/212.png" num="199">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3438,18 +3438,20 @@ At the beginning of combat on your turn, put a +1/+1 counter on each creature yo
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RM07 Medium Creature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/213.png" num="199">FDI</set>
+			<name>Breeches and Malcolm Lee</name>
+			<text>Flying
+If a creature you control dealing combat damage to a player causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/213.png" num="173">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature — Goblin Siren Pirate</type>
 				<maintype>Creature</maintype>
 				<manacost>UBR</manacost>
 				<cmc>3</cmc>
 				<colors>UBR</colors>
 				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3556,7 +3558,7 @@ When Quetzi enters, choose one —
 • She deals 3 damage to each opponent and 3 damage to each other creature.
 • You gain life equal to the greatest toughness among creatures you control.
 • Destroy target non-Dinosaur creature.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/220.png" num="195">FDI</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/220.png" num="196">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3574,11 +3576,11 @@ When Quetzi enters, choose one —
 			<name>La Chutli, the Brimming Deep</name>
 			<text>Tentacles you control have menace.
 At the beginning of your end step, create a 0/0 blue Tentacle creature token, then put X +1/+1 counters on it, where X is the greatest power among creatures you control that attacked this turn.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/221.png" num="184">FDI</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/221.png" num="187">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Tentacle Horror</type>
+				<type>Legendary Creature — Kraken Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>2BGU</manacost>
 				<cmc>5</cmc>
@@ -3702,51 +3704,29 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RL01 Small Creature</name>
-			<text></text>
+			<name>Restless Sunset</name>
+			<text>This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {R}.
+{2}{R}: Until end of turn, this land becomes a 2/2 red Phoenix creature with flying. It&apos;s still a land.
+Whenever this land attacks, it deals 1 damage to any target.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/229.png" num="266">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>RL02 Small Creature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/230.png" num="267">FDI</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>RL03 Noncreature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/231.png" num="268">FDI</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL04 Noncreature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/232.png" num="269">FDI</set>
+			<name>Restless Pond</name>
+			<text>This land enters tapped unless you control a Plains or an Island.
+{T}: Add {G}. Put a +1/+1 counter on this land.
+{2}{G}: Until end of turn, this land becomes a 0/0 green Phyrexian Fungus creature with trample. It&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/230.png" num="265">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3754,13 +3734,50 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Restless Cathedral</name>
+			<text>This land enters tapped unless you control a Swamp or a Mountain.
+{T}: Add {W}.
+{3}{W}: Until end of turn, this land becomes a 3/4 black Vampire Demon creature with lifelink. It&apos;s still a land.
+Whenever this land attacks, if you&apos;ve lost life this turn, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/231.png" num="263">FDI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Restless Temple</name>
+			<text>This land enters tapped unless you control an Island or a Mountain.
+{T}: Add {B}.
+{3}{B}: This land becomes a 1/4 Snake creature with deathtouch until end of turn. It&apos;s still a land.
+Whenever this creature deals combat damage to a player, you draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/232.png" num="267">FDI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
 			<name>RL05 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/233.png" num="270">FDI</set>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/233.png" num="269">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3775,7 +3792,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 			<name>Restless Glacier</name>
 			<text>This land enters tapped unless you control a Swamp or a Forest.
 {T}: Add {U}.
-{4}{U}: This land becomes a 6/5 blue Leviathan creature with hexproof until end of turn. It&apos;s still a land.</text>
+{4}{U}: Until end of turn, this land becomes a 6/5 blue Leviathan creature with hexproof. It&apos;s still a land.</text>
 			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/234.png" num="264">FDI</set>
 			<prop>
 				<layout>normal</layout>
@@ -3903,7 +3920,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 		<card>
 			<name>MM01 Small Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/242.png" num="185">FDI</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/242.png" num="188">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3919,7 +3936,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 		<card>
 			<name>MM02 Medium Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/243.png" num="186">FDI</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/243.png" num="189">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3937,7 +3954,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 			<text>Whenever you lose life during your turn, you may choose one. Do this only once each turn.
 • Create that many 1/1 white Vampire creature tokens with lifelink.
 • Draw that many cards.</text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/244.png" num="194">FDI</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/244.png" num="195">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3952,25 +3969,29 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>MM04 Large Creature</name>
-			<text></text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/245.png" num="187">FDI</set>
+			<name>Tcha Lantli, Deep Herald</name>
+			<text>[+1]: Create a 0/0 blue Tentacle creature token. Put X +1/+1 counters on it, where X is half number of loyalty counters on Tcha Lantli, rounded up.
+[-3]: Destroy each nonland, non-Tentacle permanent with mana value 2 or less. Add {B}, {G}, or {U} for each permanent destroyed this way.
+[-8]: Search your library for any number of Kraken, Leviathan, Octopus, and/or Serpent cards, reveal them, put them on the battlefield, then shuffle. They gain hexproof until your next turn.
+​</text>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/245.png" num="212">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
+				<type>Legendary Planeswalker — Tcha</type>
+				<maintype>Planeswalker</maintype>
 				<manacost>2BGU</manacost>
 				<cmc>5</cmc>
 				<colors>UBG</colors>
 				<coloridentity>UBG</coloridentity>
+				<loyalty>5</loyalty>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>MM05 Large Creature</name>
+			<name>Governor Beckett Brass</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/246.png" num="188">FDI</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/246.png" num="185">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3986,7 +4007,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 		<card>
 			<name>MM06 Large Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/247.png" num="189">FDI</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/247.png" num="190">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4002,7 +4023,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 		<card>
 			<name>MM07 Large Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/248.png" num="190">FDI</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/248.png" num="191">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4017,8 +4038,8 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 		</card>
 		<card>
 			<name>Colossal Deluge</name>
-			<text>Create X Colossal Dreadmaw tokens. (They&apos;re {4}{G}{G} Dinosaur creatiures with trample.)</text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/249.png" num="180">FDI</set>
+			<text>Create X Colossal Dreadmaw tokens. (They&apos;re {4}{G}{G} Dinosaur creatures with trample.)</text>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/249.png" num="181">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4034,7 +4055,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 		<card>
 			<name>MM10 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/250.png" num="191">FDI</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/250.png" num="192">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4050,7 +4071,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 		<card>
 			<name>MM11 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/251.png" num="192">FDI</set>
+			<set rarity="mythic" picurl="https://borfotron.github.io/sets/FDI-files/img/251.png" num="193">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4094,7 +4115,7 @@ Whenever you sacrifice an artifact, target creature gets -1/-1 until end of turn
 		<card>
 			<name>Merfolk Captain</name>
 			<text>Vigilance
-When this creature enters, put a +1/+1 counter on another target creature you control. You gain 2 life.</text>
+When this creature enters, put a +1/+1 counter on target creature you control. You gain 2 life.</text>
 			<set rarity="common" picurl="https://borfotron.github.io/sets/FDI-files/img/254.png" num="14">FDI</set>
 			<prop>
 				<layout>normal</layout>
@@ -4111,7 +4132,8 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 		</card>
 		<card>
 			<name>Hulyac, Brazen Herald</name>
-			<text>At the beginning of your end step, if a creature you control dealt damage to an opponent this turn, reveal the top card of your library. If it&apos;s a land, put it into your hand. Otherwise, put two +1/+1 counters on Hulyac and you may put that card into your graveyard.</text>
+			<text>Vigilance
+At the beginning of your end step, if a creature you control dealt damage to an opponent this turn, Hulyac and up to one other target creature you control each explore. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/255.png" num="49">FDI</set>
 			<prop>
 				<layout>normal</layout>
@@ -4252,7 +4274,7 @@ If damage would be dealt to this creature, prevent that damage and put two +1/+1
 			<name>Captain Brinely Rage</name>
 			<text>Menace
 Whenever one or more creatures you control deal combat damage to a player, discard a card, then draw a card. If you discarded a land card this way, create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/263.png" num="173">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/263.png" num="174">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4270,8 +4292,8 @@ Whenever one or more creatures you control deal combat damage to a player, disca
 			<name>Corrupted Conquistador</name>
 			<text>When this creature enters, choose one — 
 • Destroy target creature with mana value 3 or less.
-• Remove all counters from up to one target nonland permanent.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/264.png" num="181">FDI</set>
+• Remove up to four counters from up to one target nonland permanent.</text>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/264.png" num="182">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4290,8 +4312,8 @@ Whenever one or more creatures you control deal combat damage to a player, disca
 			<text>Flash
 When Corrupted Herald enters, choose one — 
 • Counter target noncreature spell with mana value 2 or less.
-• Remove all counters from up to one target nonland permanent.</text>
-			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/265.png" num="182">FDI</set>
+• Remove up to four counters from up to one target nonland permanent.</text>
+			<set rarity="rare" picurl="https://borfotron.github.io/sets/FDI-files/img/265.png" num="183">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4308,7 +4330,7 @@ When Corrupted Herald enters, choose one —
 		<card>
 			<name>Parasaur Rider</name>
 			<text>Enrage — Whenever this creature is dealt damage, create a 1/1 white Human creature token, then creatures you control gain haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/266.png" num="193">FDI</set>
+			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/266.png" num="194">FDI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4383,7 +4405,7 @@ When Break Fast enters, it deals 4 damage divided among one or two other targets
 		<card>
 			<name>Fall of the Deep Triune</name>
 			<text>(As a Skirmish enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, transform it.)
-When this Skirmish enters, shuffle up to three target creatures into their owner&apos;s libraries. For each creature you control returned this way, draw a card.
+When this Skirmish enters, shuffle up to three target creatures into their owner&apos;s libraries. For each creature you control shuffled this way, draw a card.
 ---
 (Back): Talohatl, the Northern Pearl</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/270_front.png" num="48a">FDI</set>
@@ -4520,7 +4542,7 @@ Each creature you control that&apos;s a Dinosaur, Merfolk, Pirate, and/or Vampir
 		<card>
 			<name>Jade and Steel</name>
 			<text>(As a Skirmish enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, transform it.)
-When this Skirmish enters, create a 3/3 blue Merfolk creature token with vigilance. When you do, you may have it fight target creature an opponent controls. If you don&apos;t, put a +1/+1 counter on it.
+When this Skirmish enters, create a 3/3 blue and green Merfolk creature token with vigilance. When you do, you may have it fight target creature an opponent controls. If you don&apos;t, put a +1/+1 counter on it.
 ---
 (Back): Echoes of the Deeproot</text>
 			<set rarity="uncommon" picurl="https://borfotron.github.io/sets/FDI-files/img/277_front.png" num="150a">FDI</set>

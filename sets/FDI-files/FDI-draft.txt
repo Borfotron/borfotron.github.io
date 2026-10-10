@@ -675,7 +675,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Creature",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/67.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{W}{U}",
 			"type": "Creature",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/68.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Creature",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/69.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{G}{W}",
 			"type": "Creature",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/70.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Creature",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/71.png"
 			}
@@ -775,27 +775,27 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/77.png"
 			}
 		},
 		{
-			"name": "CL02 Noncreature",
+			"name": "Desiccated Ruins",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/78.png"
 			}
 		},
 		{
-			"name": "CL03 Noncreature",
+			"name": "Stern Cemetery",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/79.png"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/80.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/81.png"
 			}
@@ -825,17 +825,17 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/82.png"
 			}
 		},
 		{
-			"name": "CL07 Noncreature",
+			"name": "Bottomless Quarry",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/83.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/84.png"
 			}
@@ -855,27 +855,27 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/85.png"
 			}
 		},
 		{
-			"name": "CL10 Noncreature",
+			"name": "Carnivorous Canopy",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/86.png"
 			}
 		},
 		{
-			"name": "CL11 Noncreature",
+			"name": "Bygone Passageway",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/87.png"
 			}
@@ -885,17 +885,17 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/88.png"
 			}
 		},
 		{
-			"name": "Crimson Port",
+			"name": "Bloodsoaked Port",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/89.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/91.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/149.png"
 			}
@@ -1505,7 +1505,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/150.png"
 			}
@@ -1515,7 +1515,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/151.png"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/152.png"
 			}
@@ -1535,7 +1535,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/153.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/154.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Creature",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/155.png"
 			}
@@ -1565,17 +1565,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Creature",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/156.png"
 			}
 		},
 		{
-			"name": "UM11 Medium Creature",
+			"name": "Deepglitter Narwhal",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Creature",
-			"collector_number": "220",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Whale",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/157.png"
 			}
@@ -1625,7 +1625,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/162.png"
 			}
@@ -2081,7 +2081,7 @@
 			}
 		},
 		{
-			"name": "Sara del Vitoria",
+			"name": "Sara de Vittoria",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Vampire Cleric",
@@ -2095,7 +2095,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Creature",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/209.png"
 			}
@@ -2105,7 +2105,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Merfolk Soldier",
-			"collector_number": "183",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/210.png"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Creature",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/211.png"
 			}
@@ -2125,17 +2125,17 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Creature",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/212.png"
 			}
 		},
 		{
-			"name": "RM07 Medium Creature",
+			"name": "Breeches and Malcolm Lee",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
-			"type": "Creature",
-			"collector_number": "199",
+			"type": "Legendary Creature — Goblin Siren Pirate",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/213.png"
 			}
@@ -2205,7 +2205,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}{W}",
 			"type": "Legendary Creature — Dinosaur Avatar",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/220.png"
 			}
@@ -2214,8 +2214,8 @@
 			"name": "La Chutli, the Brimming Deep",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
-			"type": "Legendary Creature — Tentacle Horror",
-			"collector_number": "184",
+			"type": "Legendary Creature — Kraken Horror",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/221.png"
 			}
@@ -2291,41 +2291,41 @@
 			}
 		},
 		{
-			"name": "RL01 Small Creature",
+			"name": "Restless Sunset",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land Creature",
+			"type": "Land",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/229.png"
 			}
 		},
 		{
-			"name": "RL02 Small Creature",
+			"name": "Restless Pond",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land Creature",
-			"collector_number": "267",
+			"type": "Land",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/230.png"
 			}
 		},
 		{
-			"name": "RL03 Noncreature",
+			"name": "Restless Cathedral",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/231.png"
 			}
 		},
 		{
-			"name": "RL04 Noncreature",
+			"name": "Restless Temple",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/232.png"
 			}
@@ -2335,7 +2335,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/233.png"
 			}
@@ -2425,7 +2425,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Creature",
-			"collector_number": "185",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/242.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}{W}",
 			"type": "Creature",
-			"collector_number": "186",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/243.png"
 			}
@@ -2445,27 +2445,27 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Vampire Noble",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/244.png"
 			}
 		},
 		{
-			"name": "MM04 Large Creature",
+			"name": "Tcha Lantli, Deep Herald",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}{U}",
-			"type": "Creature",
-			"collector_number": "187",
+			"type": "Legendary Planeswalker — Tcha",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/245.png"
 			}
 		},
 		{
-			"name": "MM05 Large Creature",
+			"name": "Governor Beckett Brass",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Creature",
-			"collector_number": "188",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/246.png"
 			}
@@ -2475,7 +2475,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Creature",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/247.png"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{G}{W}",
 			"type": "Creature",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/248.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{X}{R}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/249.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}{U}",
 			"type": "",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/250.png"
 			}
@@ -2515,7 +2515,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{G}{U}",
 			"type": "",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/251.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/263.png"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Vampire Soldier",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/264.png"
 			}
@@ -2655,7 +2655,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Merfolk Scout",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/265.png"
 			}
@@ -2665,7 +2665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Dinosaur",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://borfotron.github.io/sets/FDI-files/img/266.png"
 			}
@@ -2838,12 +2838,12 @@
 	2 RG03 Large Creature
 	2 RG05 Noncreature
 	2 RG06 Noncreature
-	2 Sara del Vitoria
+	2 Sara de Vittoria
 	2 RM03 Small Creature
 	2 Hakbal of the Secret Council
 	2 RM05 Medium Creature
 	2 RM06 Medium Creature
-	2 RM07 Medium Creature
+	2 Breeches and Malcolm Lee
 	2 RM08 Medium Creature
 	2 RM09 Medium Creature
 	2 RM10 Medium Creature
@@ -2859,10 +2859,10 @@
 	2 Bombastic Bombardier
 	2 RM25 Noncreature
 	2 RA01 Noncreature
-	2 RL01 Small Creature
-	2 RL02 Small Creature
-	2 RL03 Noncreature
-	2 RL04 Noncreature
+	2 Restless Sunset
+	2 Restless Pond
+	2 Restless Cathedral
+	2 Restless Temple
 	2 RL05 Noncreature
 	2 Restless Glacier
 	1 MW01 Small Creature
@@ -2875,8 +2875,8 @@
 	1 MM01 Small Creature
 	1 MM02 Medium Creature
 	1 Queen Miralda the Pious
-	1 MM04 Large Creature
-	1 MM05 Large Creature
+	1 Tcha Lantli, Deep Herald
+	1 Governor Beckett Brass
 	1 MM06 Large Creature
 	1 MM07 Large Creature
 	1 Colossal Deluge
@@ -2956,7 +2956,7 @@
 	4 UM07 Medium Creature
 	4 UM08 Medium Creature
 	4 UM10 Medium Creature
-	4 UM11 Medium Creature
+	4 Deepglitter Narwhal
 	4 UM12 Medium Creature
 	4 UM13 Medium Creature
 	4 UM14 Medium Creature
@@ -3071,18 +3071,18 @@
 	8 CA04 MediumWall Creature
 	8 CA05 Noncreature
 	8 Glittering Gateway
-	8 CL02 Noncreature
-	8 CL03 Noncreature
+	8 Desiccated Ruins
+	8 Stern Cemetery
 	8 CL04 Noncreature
 	8 CL05 Noncreature
 	8 CL06 Noncreature
-	8 CL07 Noncreature
+	8 Bottomless Quarry
 	8 CL08 Noncreature
 	8 CL09 Noncreature
-	8 CL10 Noncreature
-	8 CL11 Noncreature
+	8 Carnivorous Canopy
+	8 Bygone Passageway
 	8 CL12 Noncreature
-	8 Crimson Port
+	8 Bloodsoaked Port
 	8 Sun-Soaked Cenote
 	8 Rigorous Reef
 	8 Aslant Fissure
@@ -3169,18 +3169,18 @@
 	8 CA04 MediumWall Creature
 	8 CA05 Noncreature
 	8 Glittering Gateway
-	8 CL02 Noncreature
-	8 CL03 Noncreature
+	8 Desiccated Ruins
+	8 Stern Cemetery
 	8 CL04 Noncreature
 	8 CL05 Noncreature
 	8 CL06 Noncreature
-	8 CL07 Noncreature
+	8 Bottomless Quarry
 	8 CL08 Noncreature
 	8 CL09 Noncreature
-	8 CL10 Noncreature
-	8 CL11 Noncreature
+	8 Carnivorous Canopy
+	8 Bygone Passageway
 	8 CL12 Noncreature
-	8 Crimson Port
+	8 Bloodsoaked Port
 	8 Sun-Soaked Cenote
 	8 Rigorous Reef
 	8 Aslant Fissure
@@ -3267,18 +3267,18 @@
 	12 CA04 MediumWall Creature
 	12 CA05 Noncreature
 	12 Glittering Gateway
-	12 CL02 Noncreature
-	12 CL03 Noncreature
+	12 Desiccated Ruins
+	12 Stern Cemetery
 	12 CL04 Noncreature
 	12 CL05 Noncreature
 	12 CL06 Noncreature
-	12 CL07 Noncreature
+	12 Bottomless Quarry
 	12 CL08 Noncreature
 	12 CL09 Noncreature
-	12 CL10 Noncreature
-	12 CL11 Noncreature
+	12 Carnivorous Canopy
+	12 Bygone Passageway
 	12 CL12 Noncreature
-	12 Crimson Port
+	12 Bloodsoaked Port
 	12 Sun-Soaked Cenote
 	12 Rigorous Reef
 	12 Aslant Fissure
@@ -3346,7 +3346,7 @@
 	6 UM07 Medium Creature
 	6 UM08 Medium Creature
 	6 UM10 Medium Creature
-	6 UM11 Medium Creature
+	6 Deepglitter Narwhal
 	6 UM12 Medium Creature
 	6 UM13 Medium Creature
 	6 UM14 Medium Creature
@@ -3397,12 +3397,12 @@
 	2 RG03 Large Creature
 	2 RG05 Noncreature
 	2 RG06 Noncreature
-	2 Sara del Vitoria
+	2 Sara de Vittoria
 	2 RM03 Small Creature
 	2 Hakbal of the Secret Council
 	2 RM05 Medium Creature
 	2 RM06 Medium Creature
-	2 RM07 Medium Creature
+	2 Breeches and Malcolm Lee
 	2 RM08 Medium Creature
 	2 RM09 Medium Creature
 	2 RM10 Medium Creature
@@ -3418,10 +3418,10 @@
 	2 Bombastic Bombardier
 	2 RM25 Noncreature
 	2 RA01 Noncreature
-	2 RL01 Small Creature
-	2 RL02 Small Creature
-	2 RL03 Noncreature
-	2 RL04 Noncreature
+	2 Restless Sunset
+	2 Restless Pond
+	2 Restless Cathedral
+	2 Restless Temple
 	2 RL05 Noncreature
 	2 Restless Glacier
 	1 MW01 Small Creature
@@ -3434,8 +3434,8 @@
 	1 MM01 Small Creature
 	1 MM02 Medium Creature
 	1 Queen Miralda the Pious
-	1 MM04 Large Creature
-	1 MM05 Large Creature
+	1 Tcha Lantli, Deep Herald
+	1 Governor Beckett Brass
 	1 MM06 Large Creature
 	1 MM07 Large Creature
 	1 Colossal Deluge
@@ -3544,18 +3544,18 @@
 	6 CA04 MediumWall Creature
 	6 CA05 Noncreature
 	6 Glittering Gateway
-	6 CL02 Noncreature
-	6 CL03 Noncreature
+	6 Desiccated Ruins
+	6 Stern Cemetery
 	6 CL04 Noncreature
 	6 CL05 Noncreature
 	6 CL06 Noncreature
-	6 CL07 Noncreature
+	6 Bottomless Quarry
 	6 CL08 Noncreature
 	6 CL09 Noncreature
-	6 CL10 Noncreature
-	6 CL11 Noncreature
+	6 Carnivorous Canopy
+	6 Bygone Passageway
 	6 CL12 Noncreature
-	6 Crimson Port
+	6 Bloodsoaked Port
 	6 Sun-Soaked Cenote
 	6 Rigorous Reef
 	6 Aslant Fissure
@@ -3623,7 +3623,7 @@
 	15 UM07 Medium Creature
 	15 UM08 Medium Creature
 	15 UM10 Medium Creature
-	15 UM11 Medium Creature
+	15 Deepglitter Narwhal
 	15 UM12 Medium Creature
 	15 UM13 Medium Creature
 	15 UM14 Medium Creature
@@ -3674,12 +3674,12 @@
 	7 RG03 Large Creature
 	7 RG05 Noncreature
 	7 RG06 Noncreature
-	7 Sara del Vitoria
+	7 Sara de Vittoria
 	7 RM03 Small Creature
 	7 Hakbal of the Secret Council
 	7 RM05 Medium Creature
 	7 RM06 Medium Creature
-	7 RM07 Medium Creature
+	7 Breeches and Malcolm Lee
 	7 RM08 Medium Creature
 	7 RM09 Medium Creature
 	7 RM10 Medium Creature
@@ -3695,10 +3695,10 @@
 	7 Bombastic Bombardier
 	7 RM25 Noncreature
 	7 RA01 Noncreature
-	7 RL01 Small Creature
-	7 RL02 Small Creature
-	7 RL03 Noncreature
-	7 RL04 Noncreature
+	7 Restless Sunset
+	7 Restless Pond
+	7 Restless Cathedral
+	7 Restless Temple
 	7 RL05 Noncreature
 	7 Restless Glacier
 	4 MW01 Small Creature
@@ -3711,8 +3711,8 @@
 	4 MM01 Small Creature
 	4 MM02 Medium Creature
 	4 Queen Miralda the Pious
-	4 MM04 Large Creature
-	4 MM05 Large Creature
+	4 Tcha Lantli, Deep Herald
+	4 Governor Beckett Brass
 	4 MM06 Large Creature
 	4 MM07 Large Creature
 	4 Colossal Deluge

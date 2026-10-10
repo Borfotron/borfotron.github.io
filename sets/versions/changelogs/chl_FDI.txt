@@ -1,4 +1,127 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Desiccated Ruins added.
+Stern Cemetery added.
+Bottomless Quarry added.
+Carnivorous Canopy added.
+Bygone Passageway added.
+Bloodsoaked Port added.
+Deepglitter Narwhal added.
+Sara de Vittoria added.
+Breeches and Malcolm Lee added.
+Restless Sunset added.
+Restless Pond added.
+Restless Cathedral added.
+Restless Temple added.
+Tcha Lantli, Deep Herald added.
+Governor Beckett Brass added.
+
+CL02 Noncreature removed.
+CL03 Noncreature removed.
+CL07 Noncreature removed.
+CL10 Noncreature removed.
+CL11 Noncreature removed.
+Crimson Port removed.
+UM11 Medium Creature removed.
+Sara del Vitoria removed.
+RM07 Medium Creature removed.
+RL01 Small Creature removed.
+RL02 Small Creature removed.
+RL03 Noncreature removed.
+RL04 Noncreature removed.
+MM04 Large Creature removed.
+MM05 Large Creature removed.
+
+Dusk Legion Surveyor
+rules_text: Whenever this creature attacks, you may toil. If you do, this creature gains +1/+1 and first strike until end of turn. [i](To toil, pay 3 life or remove a counter from a permanent you control.)[/i] => Whenever this creature attacks, you may toil. If you do, this creature gets +1/+1 and gains first strike until end of turn. [i](To toil, pay 3 life or remove a counter from a permanent you control.)[/i]
+
+Ancient Octopus
+rules_text: Thaw 3 — {2}{G} [i](You may cast this spell for its thaw cost. If you do, it enters tapped with three stun counters.)[/i]
+When this creature enters, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. => Thaw 3 — {2}{G} [i](You may cast this spell for its thaw cost. If you do, it enters tapped with three stun counters.)[/i]
+When this creature enters, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. You gain 2 life.
+pt: 4/5 => 4/4
+
+Glittering Gateway
+rules_text: This land enters tapped.
+As this land enters, you may remove a counter from a permanent you control. If you don't, it enters tapped.
+{T}: Add {B} or {R}. => As this land enters, you may remove a counter from a permanent you control. If you don't, it enters tapped.
+{T}: Add {B} or {R}.
+
+Sun-Soaked Cenote
+rules_text: This land enters tapped.
+When this land enters, remove a counter from up to one target permanent you control.
+{T}: Add {G} or {U}. => As this land enters, you may remove a counter from a permanent you control. If you don't, it enters tapped.
+{T}: Add {G} or {U}.
+
+Rigorous Reef
+rules_text: This land enters tapped.
+As this land enters, you may remove a counter from a permanent you control. If you don't, it enters tapped.
+{T}: Add {W} or {U}. => As this land enters, you may remove a counter from a permanent you control. If you don't, it enters tapped.
+{T}: Add {W} or {U}.
+
+Aslant Fissure
+rules_text: This land enters tapped.
+As this land enters, you may remove a counter from a permanent you control. If you don't, it enters tapped.
+{T}: Add {R} or {W}. => As this land enters, you may remove a counter from a permanent you control. If you don't, it enters tapped.
+{T}: Add {R} or {W}.
+
+Deep Idol
+
+La Chutli, the Brimming Deep
+type: Legendary Creature — Tentacle Horror => Legendary Creature — Kraken Horror
+
+Restless Glacier
+rules_text: This land enters tapped unless you control a Swamp or a Forest.
+{T}: Add {U}.
+{4}{U}: This land becomes a 6/5 blue Leviathan creature with hexproof until end of turn. It's still a land. => This land enters tapped unless you control a Swamp or a Forest.
+{T}: Add {U}.
+{4}{U}: Until end of turn, this land becomes a 6/5 blue Leviathan creature with hexproof. It's still a land.
+
+Colossal Deluge
+rules_text: Create X Colossal Dreadmaw tokens. [i](They're {4}{G}{G} Dinosaur creatiures with trample.)[/i] => Create X Colossal Dreadmaw tokens. [i](They're {4}{G}{G} Dinosaur creatures with trample.)[/i]
+
+Merfolk Captain
+rules_text: Vigilance
+When this creature enters, put a +1/+1 counter on another target creature you control. You gain 2 life. => Vigilance
+When this creature enters, put a +1/+1 counter on target creature you control. You gain 2 life.
+
+Hulyac, Brazen Herald
+rules_text: At the beginning of your end step, if a creature you control dealt damage to an opponent this turn, reveal the top card of your library. If it's a land, put it into your hand. Otherwise, put two +1/+1 counters on Hulyac and you may put that card into your graveyard. => Vigilance
+At the beginning of your end step, if a creature you control dealt damage to an opponent this turn, Hulyac and up to one other target creature you control each explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)[/i]
+
+Feast of Depths
+
+Corrupted Conquistador
+rules_text: When [/i]this creature[i] enters, choose one — 
+• Destroy target creature with mana value 3 or less.
+• Remove all counters from up to one target nonland permanent. => When [/i]this creature[i] enters, choose one — 
+• Destroy target creature with mana value 3 or less.
+• Remove up to four counters from up to one target nonland permanent.
+
+Corrupted Herald
+rules_text: Flash
+When [/i][i]Corrupted[/i][i] Herald enters, choose one — 
+• Counter target noncreature spell with mana value 2 or less.
+• Remove all counters from up to one target nonland permanent. => Flash
+When [/i][i]Corrupted[/i][i] Herald enters, choose one — 
+• Counter target noncreature spell with mana value 2 or less.
+• Remove up to four counters from up to one target nonland permanent.
+
+Fall of the Deep Triune
+rules_text: [i](As a Skirmish enters, choose an opponent to protect it. You and others can attack it. When it's defeated, transform it.)[/i]
+When this Skirmish enters, shuffle up to three target creatures into their owner's libraries. For each creature you control returned this way, draw a card. => [i](As a Skirmish enters, choose an opponent to protect it. You and others can attack it. When it's defeated, transform it.)[/i]
+When this Skirmish enters, shuffle up to three target creatures into their owner's libraries. For each creature you control shuffled this way, draw a card.
+
+Jade and Steel
+rules_text: [i](As a Skirmish enters, choose an opponent to protect it. You and others can attack it. When it's defeated, transform it.)[/i]
+When this Skirmish enters, create a 3/3 blue Merfolk creature token with vigilance. When you do, you may have it fight target creature an opponent controls. If you don't, put a +1/+1 counter on it. => [i](As a Skirmish enters, choose an opponent to protect it. You and others can attack it. When it's defeated, transform it.)[/i]
+When this Skirmish enters, create a 3/3 blue and green Merfolk creature token with vigilance. When you do, you may have it fight target creature an opponent controls. If you don't, put a +1/+1 counter on it.
+
+Unlikely Parley
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
